@@ -1,0 +1,47 @@
+{
+  "Navbar": {
+    "blog": "Perspectivas"
+  },
+  "Footer": {
+    "copyright": ""
+  },
+  "Blog": {
+    "title": "Guías de conocimientos y cumplimiento",
+    "subtitle": "Artículos de expertos sobre las regulaciones de importación de China, el ingreso al mercado y las mejores prácticas de cumplimiento.",
+    "readMore": "Leer más",
+    "categories": "Categorías",
+    "all": "Todo",
+    "backToBlog": "Volver a Perspectivas",
+    "backToHome": "Volver a Inicio",
+    "pagination": "Página",
+    "noPosts": "No se encontraron publicaciones.",
+    "publishedOn": "Publicado el",
+    "author": "David Zhang",
+    "ctaTitle": "¿Necesita ayuda con el cumplimiento de China?",
+    "ctaSubtitle": "Obtenga una evaluación de cumplimiento gratuita por parte de nuestro equipo de expertos.",
+    "ctaButton": "Obtenga una evaluación gratuita",
+    "readTime": "min de lectura",
+    "postNotFound": "Publicación no encontrada",
+    "toc": "Contenido",
+    "viewPackages": "Ver paquetes →",
+    "authorBio": "Experto en cumplimiento normativo especializado en entrada al mercado chino. Ayudar a las empresas a navegar por los requisitos de etiquetado de GACC, NMPA, CCC y China.",
+    "relatedServiceLabel": "¿Necesita ayuda con esto?",
+    "relatedServiceCta": "Obtenga una evaluación gratuita →",
+    "service_gacc": "Registro GACC",
+    "service_label": "Cumplimiento de la etiqueta china",
+    "service_ccc": "Certificación CCC",
+    "service_cosmetics": "Presentación de cosméticos NMPA",
+    "service_ecommerce": "Comercio electrónico transfronterizo",
+    "shareThisArticle": "Comparte este artículo",
+    "relatedArticles": "Artículos relacionados",
+    "referencesHeading": "Referencias",
+    "references": "Referencias",
+    "relatedArticlesDesc": "Explore más ideas sobre este tema",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "pageInfo": "",
+    "of": " de ",
+    "metaTitle": "Blog sobre cumplimiento de importaciones de China | Guías GACC, CCC y NMPA",
+    "metaDescription": "Guías expertos sobre el cumplimiento de las importaciones de China. Consejos para el registro de GACC, actualizaciones de certificación CCC, noticias sobre l..."
+  }
+}

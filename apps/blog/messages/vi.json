@@ -1,0 +1,47 @@
+{
+  "Navbar": {
+    "blog": "Thông tin chi tiết"
+  },
+  "Footer": {
+    "copyright": ""
+  },
+  "Blog": {
+    "title": "Bài viết chuyên gia và hướng dẫn tuân thủ",
+    "subtitle": "Các bài viết chuyên môn về quy định nhập khẩu, gia nhập thị trường và các biện pháp tuân thủ tốt nhất của Trung Quốc.",
+    "readMore": "Đọc thêm",
+    "categories": "Thể loại",
+    "all": "Tất cả",
+    "backToBlog": "Quay lại Thông tin chi tiết",
+    "backToHome": "Quay lại trang chủ",
+    "pagination": "Trang",
+    "noPosts": "Không tìm thấy bài viết nào",
+    "publishedOn": "Xuất bản vào",
+    "author": "David Zhang",
+    "ctaTitle": "Cần trợ giúp về việc tuân thủ Trung Quốc?",
+    "ctaSubtitle": "Nhận đánh giá tuân thủ miễn phí từ nhóm chuyên gia của chúng tôi.",
+    "ctaButton": "Nhận đánh giá miễn phí",
+    "readTime": "phút đọc",
+    "postNotFound": "Không tìm thấy bài đăng",
+    "toc": "Nội dung",
+    "viewPackages": "Xem các gói →",
+    "authorBio": "Chuyên gia tuân thủ quy định chuyên về thâm nhập thị trường Trung Quốc. Giúp doanh nghiệp điều hướng các yêu cầu ghi nhãn GACC, NMPA, CCC và tiếng Trung.",
+    "relatedServiceLabel": "Cần trợ giúp về vấn đề này?",
+    "relatedServiceCta": "Nhận đánh giá miễn phí →",
+    "service_gacc": "Đăng ký GACC",
+    "service_label": "Tuân thủ nhãn hiệu Trung Quốc",
+    "service_ccc": "Chứng nhận CCC",
+    "service_cosmetics": "Nộp hồ sơ mỹ phẩm NMPA",
+    "service_ecommerce": "Thương mại điện tử xuyên biên giới",
+    "shareThisArticle": "Chia sẻ bài viết này",
+    "relatedArticles": "bài viết liên quan",
+    "referencesHeading": "Tài liệu tham khảo",
+    "references": "Tài liệu tham khảo",
+    "relatedArticlesDesc": "Khám phá thêm thông tin chi tiết về chủ đề này",
+    "prev": "Trước",
+    "next": "Tiếp",
+    "pageInfo": "",
+    "of": " / ",
+    "metaTitle": "Blog tuân thủ nhập khẩu Trung Quốc | Hướng dẫn GACC, CCC, NMPA",
+    "metaDescription": "Hướng dẫn của chuyên gia về tuân thủ nhập khẩu của Trung Quốc. Mẹo đăng ký GACC, cập nhật chứng nhận CCC, tin tức nộp hồ sơ NMPA, thông tin chi tiết về tuân thủ nhãn. Luôn cập nhật thông tin."
+  }
+}

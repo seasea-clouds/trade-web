@@ -1,0 +1,47 @@
+{
+  "Navbar": {
+    "blog": "Anlayışlar"
+  },
+  "Footer": {
+    "copyright": ""
+  },
+  "Blog": {
+    "title": "Anlayışlar və Uyğunluq Bələdçiləri",
+    "subtitle": "Çin idxal qaydaları, bazara giriş və uyğunluq üzrə ən yaxşı təcrübələr haqqında ekspert məqalələri.",
+    "readMore": "Ətraflı Oxu",
+    "categories": "Kateqoriyalar",
+    "all": "Hamısı",
+    "backToBlog": "Insights səhifəsinə qayıt",
+    "backToHome": "Evə qayıt",
+    "pagination": "Səhifə",
+    "noPosts": "Heç bir yazı tapılmadı.",
+    "publishedOn": "dərc olunub",
+    "author": "David Zhang",
+    "ctaTitle": "Çin Uyğunluğu ilə bağlı Yardım lazımdır?",
+    "ctaSubtitle": "Ekspert komandamızdan ödənişsiz uyğunluq qiymətləndirməsini əldə edin.",
+    "ctaButton": "Pulsuz Qiymətləndirmə alın",
+    "readTime": "min oxu",
+    "postNotFound": "Post Tapılmadı",
+    "toc": "İçindəkilər",
+    "viewPackages": "Paketlərə Baxın →",
+    "authorBio": "Çin bazarına daxil olmaq üzrə ixtisaslaşmış tənzimləmə uyğunluğu üzrə mütəxəssis. Bizneslərə GACC, NMPA, CCC və Çin etiketləmə tələblərini idarə etməyə kömək edir.",
+    "relatedServiceLabel": "Bununla bağlı kömək lazımdır?",
+    "relatedServiceCta": "Pulsuz Qiymətləndirmə əldə edin →",
+    "service_gacc": "GACC Qeydiyyatı",
+    "service_label": "Çin etiketinə uyğunluq",
+    "service_ccc": "CCC Sertifikatı",
+    "service_cosmetics": "NMPA Kosmetika Sənədi",
+    "service_ecommerce": "Transsərhəd e-ticarət",
+    "shareThisArticle": "Bu məqaləni paylaşın",
+    "relatedArticles": "Əlaqədar Məqalələr",
+    "referencesHeading": "İstinadlar",
+    "references": "İstinadlar",
+    "relatedArticlesDesc": "Bu mövzu ilə bağlı daha çox anlayışı araşdırın",
+    "prev": "Əvvəlki",
+    "next": "Növbəti",
+    "pageInfo": "",
+    "of": " / ",
+    "metaTitle": "Çin İdxal Uyğunluğu Blog | GACC, CCC, NMPA Bələdçiləri",
+    "metaDescription": "Çin idxalına uyğunluq üzrə ekspert təlimatları. GACC qeydiyyat məsləhətləri, CCC sertifikatlaşdırma yeniləmələri, NMPA sənədləşdirmə xəbərləri, etiket uyğunluğu anlayışları. Xəbərdar olun."
+  }
+}

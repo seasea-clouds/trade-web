@@ -1,0 +1,47 @@
+{
+  "Navbar": {
+    "blog": "Insigte"
+  },
+  "Footer": {
+    "copyright": ""
+  },
+  "Blog": {
+    "title": "Insigte en nakomingsgidse",
+    "subtitle": "Kundige artikels oor China-invoerregulasies, marktoetrede en beste praktyke vir nakoming.",
+    "readMore": "Lees meer",
+    "categories": "Kategorieë",
+    "all": "Almal",
+    "backToBlog": "Terug na Insigte",
+    "backToHome": "Terug na die huis",
+    "pagination": "Bladsy",
+    "noPosts": "Geen plasings gevind nie.",
+    "publishedOn": "Gepubliseer op",
+    "author": "David Zhang",
+    "ctaTitle": "Het u hulp nodig met China-nakoming?",
+    "ctaSubtitle": "Kry 'n gratis voldoeningsbeoordeling van ons kundige span.",
+    "ctaButton": "Kry gratis assessering",
+    "readTime": "min lees",
+    "postNotFound": "Pos nie gevind nie",
+    "toc": "Inhoud",
+    "viewPackages": "Bekyk pakkette →",
+    "authorBio": "Regulerende nakomingsdeskundige wat spesialiseer in toetrede tot die Chinese mark. Om besighede te help om GACC, NMPA, CCC en Chinese etiketteringvereistes te navigeer.",
+    "relatedServiceLabel": "Het u hulp nodig hiermee?",
+    "relatedServiceCta": "Kry gratis assessering →",
+    "service_gacc": "GACC registrasie",
+    "service_label": "Chinese etiket nakoming",
+    "service_ccc": "CCC Sertifisering",
+    "service_cosmetics": "NMPA Skoonheidsmiddelliassering",
+    "service_ecommerce": "Oorgrens e-handel",
+    "shareThisArticle": "Deel hierdie artikel",
+    "relatedArticles": "Verwante artikels",
+    "referencesHeading": "Verwysings",
+    "references": "Verwysings",
+    "relatedArticlesDesc": "Verken meer insigte oor hierdie onderwerp",
+    "prev": "Vorige",
+    "next": "Volgende",
+    "pageInfo": "",
+    "of": " van ",
+    "metaTitle": "China Invoer Voldoening Blog | GACC, CCC, NMPA Gidse",
+    "metaDescription": "Deskundige gidse oor nakoming van invoer in China. GACC-registrasiewenke, CCC-sertifiseringopdaterings, NMPA-liasseernuus, etiket-nakoming-insigte. Bly op hoogte."
+  }
+}

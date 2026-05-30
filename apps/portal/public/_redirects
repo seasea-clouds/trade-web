@@ -1,0 +1,6 @@
+# Rewrite static assets: /compli-service/_next/* → /_next/*
+/compli-service/_next/*  /_next/:splat  200
+
+# Rewrite pages: /compli-service/* → /* (already handled by basePath)
+# CF Pages serves the out/ directory at root
+# Cloudflare Pages auto-build

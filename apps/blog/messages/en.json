@@ -37,5 +37,62 @@
     "of": " of ",
     "metaTitle": "China Import Compliance Blog | GACC, CCC, NMPA Guides",
     "metaDescription": "Expert guides on China import compliance. GACC registration tips, CCC certification updates, NMPA filing news, label compliance insights. Stay informed."
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "whatsapp": "WhatsApp",
+    "quote": "Get a Quote",
+    "freeCheck": "Free Check",
+    "services": "Services",
+    "industries": "Industries",
+    "about": "About",
+    "packages": "Packages",
+    "faq": "FAQ",
+    "blog": "Insights",
+    "search": "Search",
+    "home": "Home",
+    "servicesDropdown": {
+      "gacc": "GACC Registration",
+      "label": "Label Compliance",
+      "ccc": "CCC Certification",
+      "cosmetics": "NMPA Cosmetics Filing",
+      "ecommerce": "Cross-border E-commerce",
+      "brand": "Brand Protection & Trademark"
+    },
+    "industriesDropdown": {
+      "foodBeverage": "🍷 Food & Beverage",
+      "cosmeticsPersonalCare": "💄 Cosmetics & Personal Care",
+      "electronicsAppliances": "🔌 Electronics & Appliances",
+      "toysChildrenProducts": "🧸 Toys & Children's Products",
+      "textileApparel": "👕 Textile & Apparel",
+      "healthSupplements": "💊 Health Supplements",
+      "machineryEquipment": "⚙️ Machinery & Equipment",
+      "chemicalProducts": "🧪 Chemical Products",
+      "automotiveParts": "🚗 Automotive Parts",
+      "petProducts": "🐾 Pet Products",
+      "packagingMaterials": "📦 Packaging Materials",
+      "sportsOutdoor": "⚽ Sports & Outdoor"
+    }
+  },
+  "Footer": {
+    "services": "Services",
+    "gaccRegistration": "GACC Registration",
+    "labelCompliance": "Label Compliance",
+    "cccCertification": "CCC Certification",
+    "cosmeticsFiling": "NMPA Cosmetics Filing",
+    "crossBorderEcommerce": "Cross-border E-commerce",
+    "brandProtection": "Brand Protection & Trademark",
+    "quickLinks": "Quick Links",
+    "about": "About",
+    "packages": "Packages",
+    "industries": "Industries",
+    "blog": "Insights",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "whatsapp": "Chat on WhatsApp",
+    "address": "Jing'an District, Shanghai, China",
+    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
+    "disclaimer": "Disclaimer: Independent regulatory consulting firm, not affiliated with GACC, NMPA, or any Chinese government agency. Our services are advisory in nature and do not replace legal counsel.",
+    "sinoDescription": "Independent regulatory consulting firm helping foreign companies navigate China's import compliance requirements. Specialized in GACC registration, CCC certification, label compliance, and market entry strategy."
   }
 }

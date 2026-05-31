@@ -70,5 +70,11 @@
     "messagePlaceholder": "Opišite svoje proizvode ili potrebe za usklađenošću...",
     "button": "Predajte besplatnu procjenu",
     "privacy": "Poštujemo Vašu privatnost. Nema spama, nikad."
+  },
+  "CTA": {
+    "ctaTitle": "Trebate ovu uslugu?",
+    "ctaSubtitle": "Dobijte besplatnu procjenu usklađenosti prilagođenu vašim proizvodima.",
+    "ctaUrgency": "Besplatne konzultacije → odgovor 24h",
+    "ctaButton": "Dobijte besplatnu procjenu"
   }
 }

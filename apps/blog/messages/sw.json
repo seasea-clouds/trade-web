@@ -70,5 +70,11 @@
     "messagePlaceholder": "Eleza bidhaa zako au mahitaji ya kufuata...",
     "button": "Peana Tathmini ya Bure",
     "privacy": "Tunaheshimu faragha yako. Hakuna barua taka, milele."
+  },
+  "CTA": {
+    "ctaTitle": "Je, unahitaji Huduma Hii?",
+    "ctaSubtitle": "Pata tathmini ya kufuata bila malipo iliyoundwa kulingana na bidhaa zako.",
+    "ctaUrgency": "Ushauri wa bila malipo → jibu la saa 24",
+    "ctaButton": "Pata Tathmini ya Bure"
   }
 }

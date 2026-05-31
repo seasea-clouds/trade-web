@@ -70,5 +70,11 @@
     "messagePlaceholder": "Descreva seus produtos ou necessidades de conformidade...",
     "button": "Enviar avaliação gratuita",
     "privacy": "Respeitamos sua privacidade. Nada de spam, nunca."
+  },
+  "CTA": {
+    "ctaTitle": "Precisa deste serviço?",
+    "ctaSubtitle": "Obtenha uma avaliação de conformidade gratuita e personalizada para seus produtos.",
+    "ctaUrgency": "Consulta gratuita → Resposta 24h",
+    "ctaButton": "Obtenha avaliação gratuita"
   }
 }

@@ -70,5 +70,11 @@
     "messagePlaceholder": "Popište své produkty nebo potřeby shody...",
     "button": "Odeslat bezplatné hodnocení",
     "privacy": "Respektujeme vaše soukromí. Nikdy žádný spam."
+  },
+  "CTA": {
+    "ctaTitle": "Potřebujete tuto službu?",
+    "ctaSubtitle": "Získejte zdarma posouzení shody přizpůsobené vašim produktům.",
+    "ctaUrgency": "Konzultace zdarma → odpověď 24h",
+    "ctaButton": "Získejte bezplatné hodnocení"
   }
 }

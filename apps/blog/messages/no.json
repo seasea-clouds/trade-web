@@ -70,5 +70,11 @@
     "messagePlaceholder": "Beskriv dine produkter eller samsvarsbehov...",
     "button": "Send inn gratis vurdering",
     "privacy": "Vi respekterer ditt privatliv. Ingen spam, aldri."
+  },
+  "CTA": {
+    "ctaTitle": "Trenger du denne tjenesten?",
+    "ctaSubtitle": "Få en gratis samsvarsvurdering skreddersydd for produktene dine.",
+    "ctaUrgency": "Gratis konsultasjon → 24 timers svar",
+    "ctaButton": "Få gratis vurdering"
   }
 }

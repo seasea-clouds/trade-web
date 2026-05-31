@@ -70,5 +70,11 @@
     "messagePlaceholder": "Opisz swoje produkty lub potrzeby w zakresie zgodności...",
     "button": "Prześlij bezpłatną ocenę",
     "privacy": "Szanujemy Twoją prywatność. Żadnego spamu, nigdy."
+  },
+  "CTA": {
+    "ctaTitle": "Potrzebujesz tej usługi?",
+    "ctaSubtitle": "Uzyskaj bezpłatną ocenę zgodności dostosowaną do Twoich produktów.",
+    "ctaUrgency": "Bezpłatna konsultacja → Odpowiedź 24h",
+    "ctaButton": "Uzyskaj bezpłatną ocenę"
   }
 }

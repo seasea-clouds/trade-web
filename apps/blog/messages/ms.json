@@ -70,5 +70,11 @@
     "messagePlaceholder": "Terangkan produk atau keperluan pematuhan anda...",
     "button": "Hantar Penilaian Percuma",
     "privacy": "Kami menghormati privasi anda. Tiada spam, pernah."
+  },
+  "CTA": {
+    "ctaTitle": "Perlukan Perkhidmatan Ini?",
+    "ctaSubtitle": "Dapatkan penilaian pematuhan percuma yang disesuaikan dengan produk anda.",
+    "ctaUrgency": "Konsultasi percuma → Respons 24 jam",
+    "ctaButton": "Dapatkan Penilaian Percuma"
   }
 }

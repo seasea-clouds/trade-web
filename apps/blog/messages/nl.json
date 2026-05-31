@@ -70,5 +70,11 @@
     "messagePlaceholder": "Beschrijf uw producten of nalevingsbehoeften...",
     "button": "Dien een gratis beoordeling in",
     "privacy": "Wij respecteren uw privacy. Geen spam, nooit."
+  },
+  "CTA": {
+    "ctaTitle": "Deze dienst nodig?",
+    "ctaSubtitle": "Ontvang een gratis nalevingsbeoordeling op maat van uw producten.",
+    "ctaUrgency": "Gratis advies → 24-uurs reactie",
+    "ctaButton": "Ontvang een gratis beoordeling"
   }
 }

@@ -70,5 +70,11 @@
     "messagePlaceholder": "Descrieți produsele sau nevoile dvs. de conformitate...",
     "button": "Trimiteți evaluarea gratuită",
     "privacy": "Vă respectăm intimitatea. Fără spam, niciodată."
+  },
+  "CTA": {
+    "ctaTitle": "Aveți nevoie de acest serviciu?",
+    "ctaSubtitle": "Obțineți o evaluare gratuită a conformității, adaptată produselor dvs.",
+    "ctaUrgency": "Consultație gratuită → Răspuns 24 de ore",
+    "ctaButton": "Obțineți o evaluare gratuită"
   }
 }

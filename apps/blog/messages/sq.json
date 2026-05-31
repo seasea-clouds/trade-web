@@ -70,5 +70,11 @@
     "messagePlaceholder": "Përshkruani produktet tuaja ose nevojat e pajtueshmërisë...",
     "button": "Paraqisni një vlerësim falas",
     "privacy": "Ne e respektojmë privatësinë tuaj. Asnjë spam, kurrë."
+  },
+  "CTA": {
+    "ctaTitle": "Keni nevojë për këtë shërbim?",
+    "ctaSubtitle": "Merrni një vlerësim të pajtueshmërisë falas të përshtatur për produktet tuaja.",
+    "ctaUrgency": "Konsultim falas → Përgjigje 24 orë",
+    "ctaButton": "Merrni vlerësim falas"
   }
 }

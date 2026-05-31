@@ -70,5 +70,11 @@
     "messagePlaceholder": "Beskriv dina produkter eller efterlevnadsbehov...",
     "button": "Skicka in gratis bedömning",
     "privacy": "Vi respekterar din integritet. Ingen spam, någonsin."
+  },
+  "CTA": {
+    "ctaTitle": "Behöver du den här tjänsten?",
+    "ctaSubtitle": "Få en kostnadsfri efterlevnadsbedömning skräddarsydd för dina produkter.",
+    "ctaUrgency": "Gratis konsultation → 24h svar",
+    "ctaButton": "Få gratis bedömning"
   }
 }

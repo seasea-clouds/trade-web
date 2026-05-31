@@ -70,5 +70,11 @@
     "messagePlaceholder": "Beskryf jou produkte of voldoeningsbehoeftes...",
     "button": "Dien gratis assessering in",
     "privacy": "Ons respekteer jou privaatheid. Geen strooipos, ooit nie."
+  },
+  "CTA": {
+    "ctaTitle": "Benodig hierdie diens?",
+    "ctaSubtitle": "Kry 'n gratis voldoeningsbeoordeling wat vir u produkte aangepas is.",
+    "ctaUrgency": "Gratis konsultasie → 24 uur reaksie",
+    "ctaButton": "Kry gratis assessering"
   }
 }

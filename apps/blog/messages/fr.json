@@ -70,5 +70,11 @@
     "messagePlaceholder": "Décrivez vos produits ou vos besoins en matière de conformité...",
     "button": "Soumettre une évaluation gratuite",
     "privacy": "Nous respectons votre vie privée. Pas de spam, jamais."
+  },
+  "CTA": {
+    "ctaTitle": "Besoin de ce service ?",
+    "ctaSubtitle": "Obtenez une évaluation de conformité gratuite adaptée à vos produits.",
+    "ctaUrgency": "Consultation gratuite → réponse 24h",
+    "ctaButton": "Obtenez une évaluation gratuite"
   }
 }

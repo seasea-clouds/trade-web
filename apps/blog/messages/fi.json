@@ -70,5 +70,11 @@
     "messagePlaceholder": "Kuvaile tuotteesi tai vaatimustenmukaisuustarpeesi...",
     "button": "Lähetä ilmainen arvio",
     "privacy": "Kunnioitamme yksityisyyttäsi. Ei roskapostia, koskaan."
+  },
+  "CTA": {
+    "ctaTitle": "Tarvitsetko tätä palvelua?",
+    "ctaSubtitle": "Hanki ilmainen vaatimustenmukaisuusarviointi, joka on räätälöity tuotteillesi.",
+    "ctaUrgency": "Ilmainen konsultaatio → 24h vastaus",
+    "ctaButton": "Hanki ilmainen arviointi"
   }
 }

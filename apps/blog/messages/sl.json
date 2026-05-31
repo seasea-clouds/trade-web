@@ -70,5 +70,11 @@
     "messagePlaceholder": "Opišite svoje izdelke ali potrebe po skladnosti ...",
     "button": "Oddajte brezplačno oceno",
     "privacy": "Spoštujemo vašo zasebnost. Brez vsiljene pošte, nikoli."
+  },
+  "CTA": {
+    "ctaTitle": "Potrebujete to storitev?",
+    "ctaSubtitle": "Zagotovite si brezplačno oceno skladnosti, prilagojeno vašim izdelkom.",
+    "ctaUrgency": "Brezplačno svetovanje → odgovor 24 ur",
+    "ctaButton": "Pridobite brezplačno oceno"
   }
 }

@@ -106,5 +106,11 @@
     "messagePlaceholder": "Describe your products or compliance needs...",
     "button": "Submit Free Assessment",
     "privacy": "We respect your privacy. No spam, ever."
+  },
+  "CTA": {
+    "ctaTitle": "Need This Service?",
+    "ctaSubtitle": "Get a free compliance assessment tailored to your products.",
+    "ctaUrgency": "Free consultation → 24h response",
+    "ctaButton": "Get Free Assessment"
   }
 }

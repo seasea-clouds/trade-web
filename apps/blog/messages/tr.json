@@ -70,5 +70,11 @@
     "messagePlaceholder": "Ürünlerinizi veya uyumluluk ihtiyaçlarınızı açıklayın...",
     "button": "Ücretsiz Değerlendirme Gönder",
     "privacy": "Gizliliğinize saygı duyuyoruz. Hiçbir zaman spam yok."
+  },
+  "CTA": {
+    "ctaTitle": "Bu Hizmete İhtiyacınız Var mı?",
+    "ctaSubtitle": "Ürünlerinize göre uyarlanmış ücretsiz bir uyumluluk değerlendirmesi alın.",
+    "ctaUrgency": "Ücretsiz danışmanlık → 24 saat yanıt",
+    "ctaButton": "Ücretsiz Değerlendirme Alın"
   }
 }

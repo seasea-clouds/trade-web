@@ -70,5 +70,11 @@
     "messagePlaceholder": "Beskriv dine produkter eller overholdelsesbehov...",
     "button": "Indsend gratis vurdering",
     "privacy": "Vi respekterer dit privatliv. Ingen spam, nogensinde."
+  },
+  "CTA": {
+    "ctaTitle": "Har du brug for denne service?",
+    "ctaSubtitle": "Få en gratis overensstemmelsesvurdering skræddersyet til dine produkter.",
+    "ctaUrgency": "Gratis konsultation → 24 timers svar",
+    "ctaButton": "Få gratis vurdering"
   }
 }

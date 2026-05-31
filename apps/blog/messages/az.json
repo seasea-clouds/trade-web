@@ -70,5 +70,11 @@
     "messagePlaceholder": "Məhsullarınızı və ya uyğunluq ehtiyaclarınızı təsvir edin...",
     "button": "Pulsuz Qiymətləndirmə təqdim edin",
     "privacy": "Məxfiliyinizə hörmət edirik. Heç vaxt spam yoxdur."
+  },
+  "CTA": {
+    "ctaTitle": "Bu Xidmətə ehtiyacınız varmı?",
+    "ctaSubtitle": "Məhsullarınıza uyğunlaşdırılmış ödənişsiz uyğunluq qiymətləndirməsini əldə edin.",
+    "ctaUrgency": "Pulsuz konsultasiya → 24 saat cavab",
+    "ctaButton": "Pulsuz Qiymətləndirmə alın"
   }
 }

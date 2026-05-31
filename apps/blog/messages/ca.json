@@ -70,5 +70,11 @@
     "messagePlaceholder": "Descriu els teus productes o necessitats de compliment...",
     "button": "Envieu l'avaluació gratuïta",
     "privacy": "Respectem la teva privadesa. Sense correu brossa, mai."
+  },
+  "CTA": {
+    "ctaTitle": "Necessites aquest servei?",
+    "ctaSubtitle": "Obteniu una avaluació de compliment gratuïta adaptada als vostres productes.",
+    "ctaUrgency": "Consulta gratuïta → Resposta 24h",
+    "ctaButton": "Obteniu una avaluació gratuïta"
   }
 }

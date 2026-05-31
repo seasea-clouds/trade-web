@@ -70,5 +70,11 @@
     "messagePlaceholder": "Mô tả sản phẩm hoặc nhu cầu tuân thủ của bạn...",
     "button": "Gửi đánh giá miễn phí",
     "privacy": "Chúng tôi tôn trọng sự riêng tư của bạn. Không có thư rác, bao giờ hết."
+  },
+  "CTA": {
+    "ctaTitle": "Cần dịch vụ này?",
+    "ctaSubtitle": "Nhận đánh giá tuân thủ miễn phí phù hợp với sản phẩm của bạn.",
+    "ctaUrgency": "Tư vấn miễn phí → phản hồi 24h",
+    "ctaButton": "Nhận đánh giá miễn phí"
   }
 }

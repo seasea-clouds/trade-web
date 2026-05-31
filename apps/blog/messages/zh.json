@@ -70,5 +70,11 @@
     "messagePlaceholder": "描述您的产品或合规性需求...",
     "button": "提交免费评估",
     "privacy": "我们尊重您的隐私。永远没有垃圾邮件。"
+  },
+  "CTA": {
+    "ctaTitle": "需要这项服务吗？",
+    "ctaSubtitle": "获得针对您的产品量身定制的免费合规评估。",
+    "ctaUrgency": "免费咨询→24小时响应",
+    "ctaButton": "获得免费评估"
   }
 }

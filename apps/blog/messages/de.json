@@ -70,5 +70,11 @@
     "messagePlaceholder": "Beschreiben Sie Ihre Produkte oder Compliance-Anforderungen ...",
     "button": "Senden Sie eine kostenlose Bewertung",
     "privacy": "Wir respektieren Ihre Privatsphäre. Kein Spam, niemals."
+  },
+  "CTA": {
+    "ctaTitle": "Benötigen Sie diesen Service?",
+    "ctaSubtitle": "Erhalten Sie eine kostenlose, auf Ihre Produkte zugeschnittene Compliance-Bewertung.",
+    "ctaUrgency": "Kostenlose Beratung → 24h-Antwort",
+    "ctaButton": "Erhalten Sie eine kostenlose Bewertung"
   }
 }

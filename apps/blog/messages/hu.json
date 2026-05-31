@@ -70,5 +70,11 @@
     "messagePlaceholder": "Ismertesse termékeit vagy megfelelőségi igényeit...",
     "button": "Ingyenes értékelés benyújtása",
     "privacy": "Tiszteletben tartjuk a magánéletét. Semmi spam, soha."
+  },
+  "CTA": {
+    "ctaTitle": "Szüksége van erre a szolgáltatásra?",
+    "ctaSubtitle": "Kérjen ingyenes megfelelőségi értékelést a termékeire szabva.",
+    "ctaUrgency": "Ingyenes konzultáció → 24 órás válaszadás",
+    "ctaButton": "Kérjen ingyenes értékelést"
   }
 }

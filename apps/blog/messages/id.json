@@ -70,5 +70,11 @@
     "messagePlaceholder": "Jelaskan produk atau kebutuhan kepatuhan Anda...",
     "button": "Kirim Penilaian Gratis",
     "privacy": "Kami menghormati privasi Anda. Tidak pernah ada spam."
+  },
+  "CTA": {
+    "ctaTitle": "Butuh Layanan Ini?",
+    "ctaSubtitle": "Dapatkan penilaian kepatuhan gratis yang disesuaikan dengan produk Anda.",
+    "ctaUrgency": "Konsultasi gratis → Respon 24 jam",
+    "ctaButton": "Dapatkan Penilaian Gratis"
   }
 }

@@ -11,7 +11,7 @@
     "noPosts": "לא נמצאו פוסטים.",
     "publishedOn": "פורסם ב",
     "author": "דיוויד ג'אנג",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "קבל הערכת תאימות בחינם מצוות המומחים שלנו.",
     "ctaButton": "קבל הערכה בחינם",
     "readTime": "דקות קריאה",
@@ -60,5 +60,15 @@
     "testimonials": "המלצות",
     "industries": "תעשיות",
     "blog": "תובנות"
+  },
+  "ContactForm": {
+    "title": "הערכת תאימות בחינם",
+    "subtitle": "ספר לנו על המוצרים שלך ואנו נספק מפת דרכים מותאמת אישית של תאימות.",
+    "emailLabel": "אימייל עסקי",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "הודעה (אופציונלי)",
+    "messagePlaceholder": "תאר את המוצרים או צרכי התאימות שלך...",
+    "button": "שלח הערכה בחינם",
+    "privacy": "אנו מכבדים את פרטיותך. אף פעם לא ספאם."
   }
 }

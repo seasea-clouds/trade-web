@@ -11,7 +11,7 @@
     "noPosts": "Δεν βρέθηκαν αναρτήσεις.",
     "publishedOn": "Δημοσιεύθηκε στις",
     "author": "Ντέιβιντ Ζανγκ",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Λάβετε δωρεάν αξιολόγηση συμμόρφωσης από την ομάδα ειδικών μας.",
     "ctaButton": "Λάβετε δωρεάν αξιολόγηση",
     "readTime": "λεπτά ανάγνωσης",
@@ -60,5 +60,15 @@
     "testimonials": "Μαρτυρίες",
     "industries": "Βιομηχανίες",
     "blog": "Insights"
+  },
+  "ContactForm": {
+    "title": "Δωρεάν Αξιολόγηση Συμμόρφωσης",
+    "subtitle": "Πείτε μας για τα προϊόντα σας και θα παρέχουμε έναν εξατομικευμένο οδικό χάρτη συμμόρφωσης.",
+    "emailLabel": "Email επιχείρησης",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Μήνυμα (προαιρετικό)",
+    "messagePlaceholder": "Περιγράψτε τα προϊόντα σας ή τις ανάγκες συμμόρφωσης...",
+    "button": "Υποβολή Δωρεάν Αξιολόγησης",
+    "privacy": "Σεβόμαστε το απόρρητό σας. Χωρίς spam, ποτέ."
   }
 }

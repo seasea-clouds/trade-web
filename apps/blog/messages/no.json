@@ -11,7 +11,7 @@
     "noPosts": "Ingen innlegg funnet.",
     "publishedOn": "Publisert på",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Få en gratis samsvarsvurdering fra vårt ekspertteam.",
     "ctaButton": "Få gratis vurdering",
     "readTime": "min lesing",
@@ -60,5 +60,15 @@
     "testimonials": "Attester",
     "industries": "Industrier",
     "blog": "Innsikt"
+  },
+  "ContactForm": {
+    "title": "Gratis samsvarsvurdering",
+    "subtitle": "Fortell oss om produktene dine, så gir vi et personlig veikart for samsvar.",
+    "emailLabel": "Bedrifts-e-post",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Melding (valgfritt)",
+    "messagePlaceholder": "Beskriv dine produkter eller samsvarsbehov...",
+    "button": "Send inn gratis vurdering",
+    "privacy": "Vi respekterer ditt privatliv. Ingen spam, aldri."
   }
 }

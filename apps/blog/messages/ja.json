@@ -60,5 +60,15 @@
     "testimonials": "お客様の声",
     "industries": "産業",
     "blog": "洞察"
+  },
+  "ContactForm": {
+    "title": "無料のコンプライアンス評価",
+    "subtitle": "御社の製品について教えていただければ、個別のコンプライアンス ロードマップを提供いたします。",
+    "emailLabel": "ビジネスメール",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "メッセージ (オプション)",
+    "messagePlaceholder": "製品またはコンプライアンスのニーズについて説明してください...",
+    "button": "無料評価を送信する",
+    "privacy": "私たちはあなたのプライバシーを尊重します。スパムは一切ありません。"
   }
 }

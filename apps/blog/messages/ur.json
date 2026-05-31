@@ -11,7 +11,7 @@
     "noPosts": "کوئی پوسٹ نہیں ملی۔",
     "publishedOn": "پر شائع ہوا۔",
     "author": "ڈیوڈ ژانگ",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "ہماری ماہر ٹیم سے مفت تعمیل کی تشخیص حاصل کریں۔",
     "ctaButton": "مفت تشخیص حاصل کریں۔",
     "readTime": "منٹ پڑھیں",
@@ -60,5 +60,15 @@
     "testimonials": "تعریفیں",
     "industries": "صنعتیں",
     "blog": "بصیرت"
+  },
+  "ContactForm": {
+    "title": "مفت تعمیل کی تشخیص",
+    "subtitle": "ہمیں اپنی مصنوعات کے بارے میں بتائیں اور ہم ایک ذاتی تعمیل روڈ میپ فراہم کریں گے۔",
+    "emailLabel": "بزنس ای میل",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "پیغام (اختیاری)",
+    "messagePlaceholder": "اپنی مصنوعات یا تعمیل کی ضروریات کی وضاحت کریں...",
+    "button": "مفت تشخیص جمع کروائیں۔",
+    "privacy": "ہم آپ کی رازداری کا احترام کرتے ہیں۔ کوئی سپیم نہیں، کبھی۔"
   }
 }

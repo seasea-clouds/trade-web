@@ -11,7 +11,7 @@
     "noPosts": "هیچ پستی پیدا نشد",
     "publishedOn": "منتشر شده در",
     "author": "دیوید ژانگ",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "ارزیابی انطباق رایگان را از تیم متخصص ما دریافت کنید.",
     "ctaButton": "ارزیابی رایگان دریافت کنید",
     "readTime": "دقیقه مطالعه",
@@ -60,5 +60,15 @@
     "testimonials": "گواهینامه ها",
     "industries": "صنایع",
     "blog": "بینش ها"
+  },
+  "ContactForm": {
+    "title": "ارزیابی انطباق رایگان",
+    "subtitle": "در مورد محصولات خود به ما بگویید و ما یک نقشه راه انطباق شخصی ارائه خواهیم کرد.",
+    "emailLabel": "ایمیل تجاری",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "پیام (اختیاری)",
+    "messagePlaceholder": "محصولات یا نیازهای مطابقت خود را شرح دهید...",
+    "button": "ارسال ارزیابی رایگان",
+    "privacy": "ما به حریم خصوصی شما احترام می گذاریم بدون هرزنامه، هرگز."
   }
 }

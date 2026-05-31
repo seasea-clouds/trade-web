@@ -11,7 +11,7 @@
     "noPosts": "Nuk u gjet asnjë postim.",
     "publishedOn": "Publikuar më",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Merrni një vlerësim të pajtueshmërisë falas nga ekipi ynë i ekspertëve.",
     "ctaButton": "Merrni vlerësim falas",
     "readTime": "min leximi",
@@ -60,5 +60,15 @@
     "testimonials": "Dëshmitë",
     "industries": "Industritë",
     "blog": "Vështrime"
+  },
+  "ContactForm": {
+    "title": "Vlerësimi Falas i Përputhshmërisë",
+    "subtitle": "Na tregoni për produktet tuaja dhe ne do të ofrojmë një udhërrëfyes të personalizuar të pajtueshmërisë.",
+    "emailLabel": "Email biznesi",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Mesazh (opsionale)",
+    "messagePlaceholder": "Përshkruani produktet tuaja ose nevojat e pajtueshmërisë...",
+    "button": "Paraqisni një vlerësim falas",
+    "privacy": "Ne e respektojmë privatësinë tuaj. Asnjë spam, kurrë."
   }
 }

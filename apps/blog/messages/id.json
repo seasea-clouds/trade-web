@@ -11,7 +11,7 @@
     "noPosts": "Tidak ada postingan yang ditemukan.",
     "publishedOn": "Diterbitkan pada",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Dapatkan penilaian kepatuhan gratis dari tim ahli kami.",
     "ctaButton": "Dapatkan Penilaian Gratis",
     "readTime": "menit baca",
@@ -60,5 +60,15 @@
     "testimonials": "Testimonial",
     "industries": "Industri",
     "blog": "Wawasan"
+  },
+  "ContactForm": {
+    "title": "Penilaian Kepatuhan Gratis",
+    "subtitle": "Beri tahu kami tentang produk Anda dan kami akan memberikan peta jalan kepatuhan yang dipersonalisasi.",
+    "emailLabel": "Email Bisnis",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Pesan (opsional)",
+    "messagePlaceholder": "Jelaskan produk atau kebutuhan kepatuhan Anda...",
+    "button": "Kirim Penilaian Gratis",
+    "privacy": "Kami menghormati privasi Anda. Tidak pernah ada spam."
   }
 }

@@ -11,7 +11,7 @@
     "noPosts": "Nie znaleziono żadnych postów.",
     "publishedOn": "Opublikowano dnia",
     "author": "Davida Zhanga",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Uzyskaj bezpłatną ocenę zgodności od naszego zespołu ekspertów.",
     "ctaButton": "Uzyskaj bezpłatną ocenę",
     "readTime": "min czytania",
@@ -60,5 +60,15 @@
     "testimonials": "Referencje",
     "industries": "Przemysły",
     "blog": "Spostrzeżenia"
+  },
+  "ContactForm": {
+    "title": "Bezpłatna ocena zgodności",
+    "subtitle": "Opowiedz nam o swoich produktach, a my przedstawimy spersonalizowany plan działania dotyczący zgodności.",
+    "emailLabel": "Biznesowy e-mail",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Wiadomość (opcjonalnie)",
+    "messagePlaceholder": "Opisz swoje produkty lub potrzeby w zakresie zgodności...",
+    "button": "Prześlij bezpłatną ocenę",
+    "privacy": "Szanujemy Twoją prywatność. Żadnego spamu, nigdy."
   }
 }

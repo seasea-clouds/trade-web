@@ -11,7 +11,7 @@
     "noPosts": "No s'han trobat publicacions.",
     "publishedOn": "Publicat el",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Obteniu una avaluació de compliment gratuïta del nostre equip d'experts.",
     "ctaButton": "Obteniu una avaluació gratuïta",
     "readTime": "min de lectura",
@@ -60,5 +60,15 @@
     "testimonials": "Testimonis",
     "industries": "Indústries",
     "blog": "Insights"
+  },
+  "ContactForm": {
+    "title": "Avaluació gratuïta del compliment",
+    "subtitle": "Parleu-nos dels vostres productes i us proporcionarem un full de ruta de compliment personalitzat.",
+    "emailLabel": "Correu electrònic empresarial",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Missatge (opcional)",
+    "messagePlaceholder": "Descriu els teus productes o necessitats de compliment...",
+    "button": "Envieu l'avaluació gratuïta",
+    "privacy": "Respectem la teva privadesa. Sense correu brossa, mai."
   }
 }

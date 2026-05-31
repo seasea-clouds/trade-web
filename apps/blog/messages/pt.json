@@ -11,7 +11,7 @@
     "noPosts": "Nenhuma postagem encontrada.",
     "publishedOn": "Publicado em",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Obtenha uma avaliação de conformidade gratuita de nossa equipe de especialistas.",
     "ctaButton": "Obtenha avaliação gratuita",
     "readTime": "min de leitura",
@@ -60,5 +60,15 @@
     "testimonials": "Depoimentos",
     "industries": "Indústrias",
     "blog": "Percepções"
+  },
+  "ContactForm": {
+    "title": "Avaliação de conformidade gratuita",
+    "subtitle": "Conte-nos sobre seus produtos e forneceremos um roteiro de conformidade personalizado.",
+    "emailLabel": "E-mail comercial",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Mensagem (opcional)",
+    "messagePlaceholder": "Descreva seus produtos ou necessidades de conformidade...",
+    "button": "Enviar avaliação gratuita",
+    "privacy": "Respeitamos sua privacidade. Nada de spam, nunca."
   }
 }

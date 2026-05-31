@@ -60,5 +60,15 @@
     "testimonials": "사용후기",
     "industries": "산업",
     "blog": "통찰력"
+  },
+  "ContactForm": {
+    "title": "무료 규정 준수 평가",
+    "subtitle": "귀하의 제품에 대해 알려주시면 맞춤형 규정 준수 로드맵을 제공해 드리겠습니다.",
+    "emailLabel": "비즈니스 이메일",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "메시지(선택사항)",
+    "messagePlaceholder": "귀하의 제품 또는 규정 준수 요구 사항을 설명하십시오...",
+    "button": "무료 평가 제출",
+    "privacy": "우리는 귀하의 개인정보를 존중합니다. 스팸은 절대 없습니다."
   }
 }

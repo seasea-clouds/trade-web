@@ -11,7 +11,7 @@
     "noPosts": "Viestejä ei löytynyt.",
     "publishedOn": "Julkaistu",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Pyydä ilmainen vaatimustenmukaisuusarviointi asiantuntijatiimiltämme.",
     "ctaButton": "Hanki ilmainen arviointi",
     "readTime": "min lukuaika",
@@ -60,5 +60,15 @@
     "testimonials": "Mielipiteitä",
     "industries": "Toimialat",
     "blog": "Näkemyksiä"
+  },
+  "ContactForm": {
+    "title": "Ilmainen vaatimustenmukaisuuden arviointi",
+    "subtitle": "Kerro meille tuotteistasi, niin annamme sinulle henkilökohtaisen vaatimustenmukaisuussuunnitelman.",
+    "emailLabel": "Yrityksen sähköposti",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Viesti (valinnainen)",
+    "messagePlaceholder": "Kuvaile tuotteesi tai vaatimustenmukaisuustarpeesi...",
+    "button": "Lähetä ilmainen arvio",
+    "privacy": "Kunnioitamme yksityisyyttäsi. Ei roskapostia, koskaan."
   }
 }

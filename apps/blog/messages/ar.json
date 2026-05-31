@@ -11,7 +11,7 @@
     "noPosts": "لم يتم العثور على أي مشاركات.",
     "publishedOn": "تم النشر بتاريخ",
     "author": "ديفيد تشانغ",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "احصل على تقييم مجاني للامتثال من فريق الخبراء لدينا.",
     "ctaButton": "احصل على تقييم مجاني",
     "readTime": "دقيقة قراءة",
@@ -60,5 +60,15 @@
     "testimonials": "الشهادات",
     "industries": "الصناعات",
     "blog": "رؤى"
+  },
+  "ContactForm": {
+    "title": "تقييم الامتثال مجانا",
+    "subtitle": "أخبرنا عن منتجاتك وسنقدم لك خريطة طريق مخصصة للامتثال.",
+    "emailLabel": "البريد الإلكتروني للأعمال",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "الرسالة (اختياري)",
+    "messagePlaceholder": "قم بوصف منتجاتك أو احتياجات الامتثال...",
+    "button": "تقديم التقييم المجاني",
+    "privacy": "نحن نحترم خصوصيتك. لا البريد المزعج، من أي وقت مضى."
   }
 }

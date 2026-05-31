@@ -11,7 +11,7 @@
     "noPosts": "কোন পোস্ট পাওয়া যায়নি.",
     "publishedOn": "প্রকাশিত",
     "author": "ডেভিড ঝাং",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "আমাদের বিশেষজ্ঞ দল থেকে একটি বিনামূল্যে সম্মতি মূল্যায়ন পান।",
     "ctaButton": "বিনামূল্যে মূল্যায়ন পান",
     "readTime": "মিনিট পড়া",
@@ -60,5 +60,15 @@
     "testimonials": "প্রশংসাপত্র",
     "industries": "শিল্প",
     "blog": "অন্তর্দৃষ্টি"
+  },
+  "ContactForm": {
+    "title": "বিনামূল্যে সম্মতি মূল্যায়ন",
+    "subtitle": "আপনার পণ্য সম্পর্কে আমাদের বলুন এবং আমরা একটি ব্যক্তিগতকৃত কমপ্লায়েন্স রোডম্যাপ প্রদান করব।",
+    "emailLabel": "ব্যবসা ইমেল",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "বার্তা (ঐচ্ছিক)",
+    "messagePlaceholder": "আপনার পণ্য বা সম্মতির প্রয়োজনীয়তা বর্ণনা করুন...",
+    "button": "বিনামূল্যে মূল্যায়ন জমা দিন",
+    "privacy": "আমরা আপনার গোপনীয়তা সম্মান. কোন স্প্যাম, কখনও."
   }
 }

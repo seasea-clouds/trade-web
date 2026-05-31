@@ -11,7 +11,7 @@
     "noPosts": "No se encontraron publicaciones.",
     "publishedOn": "Publicado el",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Obtenga una evaluación de cumplimiento gratuita por parte de nuestro equipo de expertos.",
     "ctaButton": "Obtenga una evaluación gratuita",
     "readTime": "min de lectura",
@@ -60,5 +60,15 @@
     "testimonials": "Testimonios",
     "industries": "Industrias",
     "blog": "Perspectivas"
+  },
+  "ContactForm": {
+    "title": "Evaluación de cumplimiento gratuita",
+    "subtitle": "Cuéntenos sobre sus productos y le proporcionaremos una hoja de ruta de cumplimiento personalizada.",
+    "emailLabel": "Correo electrónico empresarial",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Mensaje (opcional)",
+    "messagePlaceholder": "Describa sus productos o necesidades de cumplimiento...",
+    "button": "Envíe una evaluación gratuita",
+    "privacy": "Respetamos su privacidad. Nada de spam, nunca."
   }
 }

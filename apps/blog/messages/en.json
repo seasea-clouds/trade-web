@@ -11,8 +11,8 @@
     "noPosts": "No posts found.",
     "publishedOn": "Published on",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
-    "ctaSubtitle": "Get a free compliance assessment tailored to your products.",
+    "ctaTitle": "Need Help with China Compliance?",
+    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
     "ctaButton": "Get Free Assessment",
     "readTime": "min read",
     "postNotFound": "Post Not Found",
@@ -96,5 +96,15 @@
     "testimonials": "Testimonials",
     "industries": "Industries",
     "blog": "Insights"
+  },
+  "ContactForm": {
+    "title": "Free Compliance Assessment",
+    "subtitle": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Message (optional)",
+    "messagePlaceholder": "Describe your products or compliance needs...",
+    "button": "Submit Free Assessment",
+    "privacy": "We respect your privacy. No spam, ever."
   }
 }

@@ -11,7 +11,7 @@
     "noPosts": "Nebyly nalezeny žádné příspěvky.",
     "publishedOn": "Zveřejněno dne",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Získejte bezplatné posouzení souladu od našeho týmu odborníků.",
     "ctaButton": "Získejte bezplatné hodnocení",
     "readTime": "min čtení",
@@ -60,5 +60,15 @@
     "testimonials": "Posudky",
     "industries": "Průmyslová odvětví",
     "blog": "Postřehy"
+  },
+  "ContactForm": {
+    "title": "Bezplatné posouzení souladu",
+    "subtitle": "Řekněte nám o svých produktech a my vám poskytneme personalizovaný plán shody.",
+    "emailLabel": "Obchodní e-mail",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Zpráva (volitelné)",
+    "messagePlaceholder": "Popište své produkty nebo potřeby shody...",
+    "button": "Odeslat bezplatné hodnocení",
+    "privacy": "Respektujeme vaše soukromí. Nikdy žádný spam."
   }
 }

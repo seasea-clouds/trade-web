@@ -11,7 +11,7 @@
     "noPosts": "Ni objav.",
     "publishedOn": "Objavljeno dne",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Zagotovite si brezplačno oceno skladnosti naše strokovne ekipe.",
     "ctaButton": "Pridobite brezplačno oceno",
     "readTime": "min branja",
@@ -60,5 +60,15 @@
     "testimonials": "Pričevanja",
     "industries": "Industrije",
     "blog": "Vpogledi"
+  },
+  "ContactForm": {
+    "title": "Brezplačna ocena skladnosti",
+    "subtitle": "Povejte nam o svojih izdelkih in pripravili vam bomo osebni načrt skladnosti.",
+    "emailLabel": "Poslovna e-pošta",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Sporočilo (neobvezno)",
+    "messagePlaceholder": "Opišite svoje izdelke ali potrebe po skladnosti ...",
+    "button": "Oddajte brezplačno oceno",
+    "privacy": "Spoštujemo vašo zasebnost. Brez vsiljene pošte, nikoli."
   }
 }

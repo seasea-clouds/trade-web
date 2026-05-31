@@ -11,7 +11,7 @@
     "noPosts": "Không tìm thấy bài viết nào",
     "publishedOn": "Xuất bản vào",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Nhận đánh giá tuân thủ miễn phí từ nhóm chuyên gia của chúng tôi.",
     "ctaButton": "Nhận đánh giá miễn phí",
     "readTime": "phút đọc",
@@ -60,5 +60,15 @@
     "testimonials": "Lời chứng thực",
     "industries": "ngành công nghiệp",
     "blog": "Thông tin chi tiết"
+  },
+  "ContactForm": {
+    "title": "Đánh giá tuân thủ miễn phí",
+    "subtitle": "Hãy cho chúng tôi biết về sản phẩm của bạn và chúng tôi sẽ cung cấp lộ trình tuân thủ được cá nhân hóa.",
+    "emailLabel": "Email doanh nghiệp",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Tin nhắn (tùy chọn)",
+    "messagePlaceholder": "Mô tả sản phẩm hoặc nhu cầu tuân thủ của bạn...",
+    "button": "Gửi đánh giá miễn phí",
+    "privacy": "Chúng tôi tôn trọng sự riêng tư của bạn. Không có thư rác, bao giờ hết."
   }
 }

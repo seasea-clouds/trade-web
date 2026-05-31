@@ -11,7 +11,7 @@
     "noPosts": "Inga inlägg hittades.",
     "publishedOn": "Publicerad på",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Få en kostnadsfri efterlevnadsbedömning från vårt expertteam.",
     "ctaButton": "Få gratis bedömning",
     "readTime": "min läsning",
@@ -60,5 +60,15 @@
     "testimonials": "Rekommendationer",
     "industries": "industrier",
     "blog": "Insikter"
+  },
+  "ContactForm": {
+    "title": "Gratis efterlevnadsbedömning",
+    "subtitle": "Berätta för oss om dina produkter så tillhandahåller vi en personlig färdplan för efterlevnad.",
+    "emailLabel": "Företags e-post",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Meddelande (valfritt)",
+    "messagePlaceholder": "Beskriv dina produkter eller efterlevnadsbehov...",
+    "button": "Skicka in gratis bedömning",
+    "privacy": "Vi respekterar din integritet. Ingen spam, någonsin."
   }
 }

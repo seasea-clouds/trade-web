@@ -11,7 +11,7 @@
     "noPosts": "Tiada siaran ditemui.",
     "publishedOn": "Diterbitkan pada",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Dapatkan penilaian pematuhan percuma daripada pasukan pakar kami.",
     "ctaButton": "Dapatkan Penilaian Percuma",
     "readTime": "minit baca",
@@ -60,5 +60,15 @@
     "testimonials": "Testimoni",
     "industries": "industri",
     "blog": "Wawasan"
+  },
+  "ContactForm": {
+    "title": "Penilaian Pematuhan Percuma",
+    "subtitle": "Beritahu kami tentang produk anda dan kami akan menyediakan peta jalan pematuhan yang diperibadikan.",
+    "emailLabel": "E-mel Perniagaan",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Mesej (pilihan)",
+    "messagePlaceholder": "Terangkan produk atau keperluan pematuhan anda...",
+    "button": "Hantar Penilaian Percuma",
+    "privacy": "Kami menghormati privasi anda. Tiada spam, pernah."
   }
 }

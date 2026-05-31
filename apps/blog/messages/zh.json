@@ -60,5 +60,15 @@
     "testimonials": "感言",
     "industries": "行业",
     "blog": "见解"
+  },
+  "ContactForm": {
+    "title": "免费合规评估",
+    "subtitle": "告诉我们您的产品，我们将提供个性化的合规路线图。",
+    "emailLabel": "企业邮箱",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "留言（可选）",
+    "messagePlaceholder": "描述您的产品或合规性需求...",
+    "button": "提交免费评估",
+    "privacy": "我们尊重您的隐私。永远没有垃圾邮件。"
   }
 }

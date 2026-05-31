@@ -11,7 +11,7 @@
     "noPosts": "Hakuna machapisho yaliyopatikana.",
     "publishedOn": "Imechapishwa",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Pata tathmini ya kufuata bila malipo kutoka kwa timu yetu ya wataalam.",
     "ctaButton": "Pata Tathmini ya Bure",
     "readTime": "dk kusoma",
@@ -60,5 +60,15 @@
     "testimonials": "Ushuhuda",
     "industries": "Viwanda",
     "blog": "Maarifa"
+  },
+  "ContactForm": {
+    "title": "Tathmini ya Uzingatiaji Bila Malipo",
+    "subtitle": "Tuambie kuhusu bidhaa zako na tutatoa ramani ya kufuata iliyobinafsishwa.",
+    "emailLabel": "Barua pepe ya Biashara",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Ujumbe (si lazima)",
+    "messagePlaceholder": "Eleza bidhaa zako au mahitaji ya kufuata...",
+    "button": "Peana Tathmini ya Bure",
+    "privacy": "Tunaheshimu faragha yako. Hakuna barua taka, milele."
   }
 }

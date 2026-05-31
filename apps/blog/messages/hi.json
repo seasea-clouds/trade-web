@@ -11,7 +11,7 @@
     "noPosts": "कोई पोस्ट नहीं मिली.",
     "publishedOn": "पर प्रकाशित",
     "author": "डेविड झांग",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "हमारी विशेषज्ञ टीम से निःशुल्क अनुपालन मूल्यांकन प्राप्त करें।",
     "ctaButton": "निःशुल्क मूल्यांकन प्राप्त करें",
     "readTime": "मिनट पढ़ें",
@@ -60,5 +60,15 @@
     "testimonials": "प्रशंसापत्र",
     "industries": "इंडस्ट्रीज",
     "blog": "इनसाइट्स"
+  },
+  "ContactForm": {
+    "title": "निःशुल्क अनुपालन मूल्यांकन",
+    "subtitle": "हमें अपने उत्पादों के बारे में बताएं और हम एक वैयक्तिकृत अनुपालन रोडमैप प्रदान करेंगे।",
+    "emailLabel": "बिजनेस ईमेल",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "संदेश (वैकल्पिक)",
+    "messagePlaceholder": "अपने उत्पादों या अनुपालन आवश्यकताओं का वर्णन करें...",
+    "button": "निःशुल्क मूल्यांकन जमा करें",
+    "privacy": "हम आपकी निजता का सम्मान करते हैं. कोई स्पैम, कभी नहीं."
   }
 }

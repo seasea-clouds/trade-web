@@ -11,7 +11,7 @@
     "noPosts": "Nema pronađenih postova.",
     "publishedOn": "Objavljeno na",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Dobijte besplatnu procjenu usklađenosti od našeg stručnog tima.",
     "ctaButton": "Dobijte besplatnu procjenu",
     "readTime": "min čitanja",
@@ -60,5 +60,15 @@
     "testimonials": "Svjedočanstva",
     "industries": "Industrije",
     "blog": "Uvidi"
+  },
+  "ContactForm": {
+    "title": "Besplatna procjena usklađenosti",
+    "subtitle": "Recite nam nešto o svojim proizvodima i pružit ćemo vam personalizirani plan usklađenosti.",
+    "emailLabel": "Poslovna e-pošta",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Poruka (nije obavezno)",
+    "messagePlaceholder": "Opišite svoje proizvode ili potrebe za usklađenošću...",
+    "button": "Predajte besplatnu procjenu",
+    "privacy": "Poštujemo Vašu privatnost. Nema spama, nikad."
   }
 }

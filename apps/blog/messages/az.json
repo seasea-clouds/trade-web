@@ -11,7 +11,7 @@
     "noPosts": "Heç bir yazı tapılmadı.",
     "publishedOn": "dərc olunub",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Ekspert komandamızdan ödənişsiz uyğunluq qiymətləndirməsini əldə edin.",
     "ctaButton": "Pulsuz Qiymətləndirmə alın",
     "readTime": "min oxu",
@@ -60,5 +60,15 @@
     "testimonials": "Rəylər",
     "industries": "sənayelər",
     "blog": "Anlayışlar"
+  },
+  "ContactForm": {
+    "title": "Pulsuz Uyğunluğun Qiymətləndirilməsi",
+    "subtitle": "Məhsullarınız haqqında bizə məlumat verin və biz fərdiləşdirilmiş uyğunluq yol xəritəsi təqdim edək.",
+    "emailLabel": "Biznes E-poçtu",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Mesaj (istəyə görə)",
+    "messagePlaceholder": "Məhsullarınızı və ya uyğunluq ehtiyaclarınızı təsvir edin...",
+    "button": "Pulsuz Qiymətləndirmə təqdim edin",
+    "privacy": "Məxfiliyinizə hörmət edirik. Heç vaxt spam yoxdur."
   }
 }

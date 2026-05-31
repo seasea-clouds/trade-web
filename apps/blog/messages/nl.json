@@ -11,7 +11,7 @@
     "noPosts": "Geen berichten gevonden.",
     "publishedOn": "Gepubliceerd op",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Ontvang een gratis nalevingsbeoordeling van ons deskundige team.",
     "ctaButton": "Ontvang een gratis beoordeling",
     "readTime": "min leestijd",
@@ -60,5 +60,15 @@
     "testimonials": "Getuigenissen",
     "industries": "Industrieën",
     "blog": "Inzichten"
+  },
+  "ContactForm": {
+    "title": "Gratis nalevingsbeoordeling",
+    "subtitle": "Vertel ons over uw producten en wij zorgen voor een gepersonaliseerde compliance-roadmap.",
+    "emailLabel": "Zakelijke e-mail",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Bericht (optioneel)",
+    "messagePlaceholder": "Beschrijf uw producten of nalevingsbehoeften...",
+    "button": "Dien een gratis beoordeling in",
+    "privacy": "Wij respecteren uw privacy. Geen spam, nooit."
   }
 }

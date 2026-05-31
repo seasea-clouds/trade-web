@@ -11,7 +11,7 @@
     "noPosts": "Hiçbir gönderi bulunamadı.",
     "publishedOn": "Yayınlandığı tarih",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Uzman ekibimizden ücretsiz uyumluluk değerlendirmesi alın.",
     "ctaButton": "Ücretsiz Değerlendirme Alın",
     "readTime": "dk okuma",
@@ -60,5 +60,15 @@
     "testimonials": "Görüşler",
     "industries": "Endüstriler",
     "blog": "Analizler"
+  },
+  "ContactForm": {
+    "title": "Ücretsiz Uyumluluk Değerlendirmesi",
+    "subtitle": "Bize ürünleriniz hakkında bilgi verin, biz de kişiselleştirilmiş bir uyumluluk yol haritası sunalım.",
+    "emailLabel": "İş E-postası",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Mesaj (isteğe bağlı)",
+    "messagePlaceholder": "Ürünlerinizi veya uyumluluk ihtiyaçlarınızı açıklayın...",
+    "button": "Ücretsiz Değerlendirme Gönder",
+    "privacy": "Gizliliğinize saygı duyuyoruz. Hiçbir zaman spam yok."
   }
 }

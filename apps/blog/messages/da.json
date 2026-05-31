@@ -11,7 +11,7 @@
     "noPosts": "Ingen indlæg fundet.",
     "publishedOn": "Udgivet den",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Få en gratis overensstemmelsesvurdering fra vores ekspertteam.",
     "ctaButton": "Få gratis vurdering",
     "readTime": "min læsning",
@@ -60,5 +60,15 @@
     "testimonials": "Udtalelser",
     "industries": "Industrier",
     "blog": "Indsigt"
+  },
+  "ContactForm": {
+    "title": "Gratis overensstemmelsesvurdering",
+    "subtitle": "Fortæl os om dine produkter, og vi vil levere en personlig køreplan for overholdelse.",
+    "emailLabel": "Business e-mail",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Besked (valgfrit)",
+    "messagePlaceholder": "Beskriv dine produkter eller overholdelsesbehov...",
+    "button": "Indsend gratis vurdering",
+    "privacy": "Vi respekterer dit privatliv. Ingen spam, nogensinde."
   }
 }

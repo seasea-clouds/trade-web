@@ -11,7 +11,7 @@
     "noPosts": "Nu au fost găsite postări.",
     "publishedOn": "Publicat pe",
     "author": "David Zhang",
-    "ctaTitle": "Need This Service?",
+    "ctaTitle": "Need Help with China Compliance?",
     "ctaSubtitle": "Obțineți o evaluare gratuită a conformității de la echipa noastră de experți.",
     "ctaButton": "Obțineți o evaluare gratuită",
     "readTime": "min citire",
@@ -60,5 +60,15 @@
     "testimonials": "Mărturii",
     "industries": "Industrii",
     "blog": "Perspective"
+  },
+  "ContactForm": {
+    "title": "Evaluare gratuită a conformității",
+    "subtitle": "Spuneți-ne despre produsele dvs. și vă vom oferi o foaie de parcurs personalizată pentru conformitate.",
+    "emailLabel": "Email de afaceri",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Mesaj (opțional)",
+    "messagePlaceholder": "Descrieți produsele sau nevoile dvs. de conformitate...",
+    "button": "Trimiteți evaluarea gratuită",
+    "privacy": "Vă respectăm intimitatea. Fără spam, niciodată."
   }
 }

@@ -39,5 +39,26 @@
     "metaDescription": "Guides d'experts sur la conformité des importations en Chine. Conseils d'enregistrement GACC, mises à jour de la certification CCC, actualités sur les dépôts...",
     "ctaDesc": "Obtenez une évaluation de conformité gratuite adaptée à vos produits.",
     "ctaResponse": "Consultation gratuite → réponse 24h"
+  },
+  "Footer": {
+    "contact": "Contact",
+    "services": "Services",
+    "gaccRegistration": "Enregistrement GACC",
+    "labelCompliance": "Conformité des étiquettes chinoises",
+    "cccCertification": "Certification CCC",
+    "cosmeticsFiling": "Dépôt de produits cosmétiques (NMPA)",
+    "crossBorderEcommerce": "Commerce électronique transfrontalier",
+    "brandProtection": "Protection de la marque",
+    "packages": "Forfaits",
+    "faq": "FAQ",
+    "about": "À propos de nous",
+    "rights": "© 2012-2026 Conformité SinoTrade. Tous droits réservés.",
+    "quickLinks": "Liens rapides",
+    "address": "District de Jing'an, Shanghai, Chine",
+    "disclaimer": "Avertissement : Nous sommes un cabinet de conseil en réglementation indépendant et ne sommes pas affiliés à l'Administration générale des douanes de Chine.",
+    "whatsapp": "WhatsApp",
+    "testimonials": "Témoignages",
+    "industries": "Secteurs",
+    "blog": "Connaissances"
   }
 }

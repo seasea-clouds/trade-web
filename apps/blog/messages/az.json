@@ -39,5 +39,26 @@
     "metaDescription": "Çin idxalına uyğunluq üzrə ekspert təlimatları. GACC qeydiyyat məsləhətləri, CCC sertifikatlaşdırma yeniləmələri, NMPA sənədləşdirmə xəbərləri, etiket uyğunluğu anlayışları. Xəbərdar olun.",
     "ctaDesc": "Məhsullarınıza uyğunlaşdırılmış ödənişsiz uyğunluq qiymətləndirməsini əldə edin.",
     "ctaResponse": "Pulsuz konsultasiya → 24 saat cavab"
+  },
+  "Footer": {
+    "contact": "Əlaqə",
+    "services": "Xidmətlər",
+    "gaccRegistration": "GACC Qeydiyyatı",
+    "labelCompliance": "Çin etiketinə uyğunluq",
+    "cccCertification": "CCC Sertifikatı",
+    "cosmeticsFiling": "Kosmetika sənədləri (NMPA)",
+    "crossBorderEcommerce": "Transsərhəd e-ticarət",
+    "brandProtection": "Brend Mühafizəsi",
+    "packages": "Paketlər",
+    "faq": "FAQ",
+    "about": "Haqqımızda",
+    "rights": "© 2012-2026 SinoTrade Compliance. Bütün hüquqlar qorunur.",
+    "quickLinks": "Sürətli bağlantılar",
+    "address": "Jing'an District, Şanxay, Çin",
+    "disclaimer": "İmtina: Biz müstəqil tənzimləyici konsaltinq firmasıyıq və Çin Baş Gömrük İdarəsi ilə əlaqəli deyilik.",
+    "whatsapp": "WhatsApp",
+    "testimonials": "Rəylər",
+    "industries": "sənayelər",
+    "blog": "Anlayışlar"
   }
 }

@@ -39,5 +39,26 @@
     "metaDescription": "راهنمای تخصصی در مورد انطباق واردات چین. نکات ثبت GACC، به‌روزرسانی‌های گواهینامه CCC، اخبار بایگانی NMPA، بینش‌های مطابقت با برچسب. در جریان باشید.",
     "ctaDesc": "یک ارزیابی انطباق رایگان متناسب با محصولات خود دریافت کنید.",
     "ctaResponse": "مشاوره رایگان → پاسخگویی 24 ساعته"
+  },
+  "Footer": {
+    "contact": "تماس",
+    "services": "خدمات",
+    "gaccRegistration": "ثبت GACC",
+    "labelCompliance": "مطابقت با برچسب چینی",
+    "cccCertification": "گواهی CCC",
+    "cosmeticsFiling": "بایگانی لوازم آرایشی و بهداشتی (NMPA)",
+    "crossBorderEcommerce": "تجارت الکترونیک فرامرزی",
+    "brandProtection": "حفاظت از برند",
+    "packages": "بسته ها",
+    "faq": "FAQ",
+    "about": "درباره ما",
+    "rights": "© 2012-2026 SinoTrade Compliance. تمامی حقوق محفوظ است.",
+    "quickLinks": "لینک های سریع",
+    "address": "منطقه جینگ آن، شانگهای، چین",
+    "disclaimer": "سلب مسئولیت: ما یک شرکت مشاوره نظارتی مستقل هستیم و به اداره کل گمرک چین وابسته نیستیم.",
+    "whatsapp": "WhatsApp",
+    "testimonials": "گواهینامه ها",
+    "industries": "صنایع",
+    "blog": "بینش ها"
   }
 }

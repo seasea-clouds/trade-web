@@ -39,5 +39,26 @@
     "metaDescription": "Guide esperte sulla conformità alle importazioni dalla Cina. Suggerimenti per la registrazione GACC, aggiornamenti sulla certificazione CCC, novità sull'archiviazione NMPA, approfondimenti sulla conformità delle etichette. Rimani informato.",
     "ctaDesc": "Ottieni una valutazione di conformità gratuita su misura per i tuoi prodotti.",
     "ctaResponse": "Consulenza gratuita → risposta 24 ore su 24"
+  },
+  "Footer": {
+    "contact": "Contatti",
+    "services": "Servizi",
+    "gaccRegistration": "Registrazione GACC",
+    "labelCompliance": "Conformità dell'etichetta cinese",
+    "cccCertification": "Certificazione CCC",
+    "cosmeticsFiling": "Archiviazione di cosmetici (NMPA)",
+    "crossBorderEcommerce": "Commercio elettronico transfrontaliero",
+    "brandProtection": "Protezione del marchio",
+    "packages": "Pacchetti",
+    "faq": "FAQ",
+    "about": "Chi siamo",
+    "rights": "© 2012-2026 Conformità SinoTrade. Tutti i diritti riservati.",
+    "quickLinks": "Collegamenti rapidi",
+    "address": "Distretto di Jing'an, Shanghai, Cina",
+    "disclaimer": "Dichiarazione di non responsabilità: siamo una società di consulenza normativa indipendente e non siamo affiliati all'Amministrazione generale delle dogane cinesi.",
+    "whatsapp": "WhatsApp",
+    "testimonials": "Testimonianze",
+    "industries": "Industrie",
+    "blog": "Approfondimenti"
   }
 }

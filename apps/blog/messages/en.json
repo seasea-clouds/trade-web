@@ -77,6 +77,7 @@
     }
   },
   "Footer": {
+    "contact": "Contact",
     "services": "Services",
     "gaccRegistration": "GACC Registration",
     "labelCompliance": "Chinese Label Compliance",
@@ -84,18 +85,16 @@
     "cosmeticsFiling": "Cosmetics Filing (NMPA)",
     "crossBorderEcommerce": "Cross-border E-commerce",
     "brandProtection": "Brand Protection",
-    "quickLinks": "Quick Links",
-    "about": "About Us",
     "packages": "Packages",
-    "industries": "Industries",
-    "blog": "Insights",
     "faq": "FAQ",
-    "contact": "Contact",
-    "whatsapp": "WhatsApp",
-    "address": "Jing'an District, Shanghai, China",
+    "about": "About Us",
     "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
+    "quickLinks": "Quick Links",
+    "address": "Jing'an District, Shanghai, China",
     "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "sinoDescription": "Independent regulatory consulting firm helping foreign companies navigate China's import compliance requirements. Specialized in GACC registration, CCC certification, label compliance, and market entry strategy.",
-    "testimonials": "Testimonials"
+    "whatsapp": "WhatsApp",
+    "testimonials": "Testimonials",
+    "industries": "Industries",
+    "blog": "Insights"
   }
 }

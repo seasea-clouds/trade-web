@@ -39,5 +39,26 @@
     "metaDescription": "Odborné príručky o dodržiavaní dovozu z Číny. Tipy na registráciu GACC, aktualizácie certifikácie CCC, správy o podávaní NMPA, informácie o dodržiavaní predpisov. Zostaňte informovaní.",
     "ctaDesc": "Získajte bezplatné posúdenie súladu prispôsobené vašim produktom.",
     "ctaResponse": "Bezplatná konzultácia → 24h odpoveď"
+  },
+  "Footer": {
+    "contact": "Kontakt",
+    "services": "Služby",
+    "gaccRegistration": "Registrácia GACC",
+    "labelCompliance": "Súlad s čínskymi štítkami",
+    "cccCertification": "Certifikácia CCC",
+    "cosmeticsFiling": "Kozmetický pilník (NMPA)",
+    "crossBorderEcommerce": "Cezhraničný elektronický obchod",
+    "brandProtection": "Ochrana značky",
+    "packages": "Balíčky",
+    "faq": "FAQ",
+    "about": "O nás",
+    "rights": "© 2012-2026 Súlad SinoTrade. Všetky práva vyhradené.",
+    "quickLinks": "Rýchle odkazy",
+    "address": "Okres Jing'an, Šanghaj, Čína",
+    "disclaimer": "Vyhlásenie: Sme nezávislá regulačná poradenská firma a nie sme pridružení k Generálnej colnej správe Číny.",
+    "whatsapp": "WhatsApp",
+    "testimonials": "Posudky",
+    "industries": "Odvetvia",
+    "blog": "Insights"
   }
 }

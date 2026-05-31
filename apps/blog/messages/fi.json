@@ -39,5 +39,26 @@
     "metaDescription": "Asiantuntijaoppaat Kiinan tuonnin vaatimustenmukaisuudesta. GACC-rekisteröintivinkkejä, CCC-sertifiointipäivityksiä, NMPA-arkistointiuutisia, tarrojen noudattamista koskevia tietoja. Pysy ajan tasalla.",
     "ctaDesc": "Hanki ilmainen vaatimustenmukaisuusarviointi, joka on räätälöity tuotteillesi.",
     "ctaResponse": "Ilmainen konsultaatio → 24h vastaus"
+  },
+  "Footer": {
+    "contact": "Yhteystiedot",
+    "services": "Palvelut",
+    "gaccRegistration": "GACC rekisteröinti",
+    "labelCompliance": "Kiinan etikettien noudattaminen",
+    "cccCertification": "CCC-sertifiointi",
+    "cosmeticsFiling": "Kosmetiikkaviilaus (NMPA)",
+    "crossBorderEcommerce": "Rajat ylittävä sähköinen kaupankäynti",
+    "brandProtection": "Brändin suojaus",
+    "packages": "Paketit",
+    "faq": "FAQ",
+    "about": "Tietoja meistä",
+    "rights": "© 2012-2026 SinoTrade Compliance. Kaikki oikeudet pidätetään.",
+    "quickLinks": "Pikalinkit",
+    "address": "Jing'anin alue, Shanghai, Kiina",
+    "disclaimer": "Vastuuvapauslauseke: Olemme riippumaton sääntelyyn liittyvä konsulttiyritys, emmekä ole sidoksissa Kiinan tullin yleiseen hallintoon.",
+    "whatsapp": "WhatsApp",
+    "testimonials": "Mielipiteitä",
+    "industries": "Toimialat",
+    "blog": "Näkemyksiä"
   }
 }

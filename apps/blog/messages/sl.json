@@ -39,5 +39,26 @@
     "metaDescription": "Strokovni vodniki o skladnosti uvoza na Kitajsko. Nasveti za registracijo GACC, posodobitve certifikatov CCC, novice o vložitvi NMPA, vpogled v skladnost oznak. Ostanite obveščeni.",
     "ctaDesc": "Zagotovite si brezplačno oceno skladnosti, prilagojeno vašim izdelkom.",
     "ctaResponse": "Brezplačno svetovanje → odgovor 24 ur"
+  },
+  "Footer": {
+    "contact": "Kontakt",
+    "services": "Storitve",
+    "gaccRegistration": "Registracija GACC",
+    "labelCompliance": "Skladnost s kitajsko oznako",
+    "cccCertification": "Certificiranje CCC",
+    "cosmeticsFiling": "Kozmetična vložitev (NMPA)",
+    "crossBorderEcommerce": "Čezmejno e-trgovanje",
+    "brandProtection": "Zaščita blagovne znamke",
+    "packages": "Paketi",
+    "faq": "FAQ",
+    "about": "O nas",
+    "rights": "© 2012-2026 Skladnost SinoTrade. Vse pravice pridržane.",
+    "quickLinks": "Hitre povezave",
+    "address": "Okrožje Jing'an, Šanghaj, Kitajska",
+    "disclaimer": "Zavrnitev odgovornosti: Smo neodvisno regulativno svetovalno podjetje in nismo povezani z Generalno carinsko upravo Kitajske.",
+    "whatsapp": "WhatsApp",
+    "testimonials": "Pričevanja",
+    "industries": "Industrije",
+    "blog": "Vpogledi"
   }
 }

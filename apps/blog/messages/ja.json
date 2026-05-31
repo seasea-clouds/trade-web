@@ -39,5 +39,26 @@
     "metaDescription": "中国輸入コンプライアンスに関する専門家ガイド。 GACC 登録のヒント、CCC 認証の最新情報、NMPA 申請ニュース、ラベル コンプライアンスの洞察。常に最新情報を入手してください。",
     "ctaDesc": "貴社の製品に合わせた無料のコンプライアンス評価を受けてください。",
     "ctaResponse": "無料相談→24時間対応"
+  },
+  "Footer": {
+    "contact": "お問い合わせ",
+    "services": "サービス",
+    "gaccRegistration": "GACC登録",
+    "labelCompliance": "中国ラベルへの準拠",
+    "cccCertification": "CCC認証",
+    "cosmeticsFiling": "化粧品申請 (NMPA)",
+    "crossBorderEcommerce": "越境電子商取引",
+    "brandProtection": "ブランド保護",
+    "packages": "パッケージ",
+    "faq": "FAQ",
+    "about": "私たちについて",
+    "rights": "© 2012-2026 SinoTrade コンプライアンス。無断転載を禁じます。",
+    "quickLinks": "クイックリンク",
+    "address": "中国上海市静安区",
+    "disclaimer": "免責事項: 当社は独立した規制コンサルティング会社であり、中国税関総署とは提携していません。",
+    "whatsapp": "WhatsApp",
+    "testimonials": "お客様の声",
+    "industries": "産業",
+    "blog": "洞察"
   }
 }

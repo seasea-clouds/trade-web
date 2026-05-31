@@ -39,5 +39,26 @@
     "metaDescription": "Stručni vodiči o usklađenosti uvoza u Kinu. GACC savjeti za registraciju, ažuriranja CCC certifikata, novosti o podnošenju NMPA, uvidi u usklađenost naljepnica. Budite informirani.",
     "ctaDesc": "Dobijte besplatnu procjenu usklađenosti prilagođenu vašim proizvodima.",
     "ctaResponse": "Besplatne konzultacije → odgovor 24h"
+  },
+  "Footer": {
+    "contact": "Kontakt",
+    "services": "Usluge",
+    "gaccRegistration": "GACC Registracija",
+    "labelCompliance": "Sukladnost kineskih oznaka",
+    "cccCertification": "CCC certifikat",
+    "cosmeticsFiling": "Kozmetička dokumentacija (NMPA)",
+    "crossBorderEcommerce": "Prekogranična e-trgovina",
+    "brandProtection": "Zaštita marke",
+    "packages": "Paketi",
+    "faq": "FAQ",
+    "about": "O nama",
+    "rights": "© 2012-2026 SinoTrade usklađenost. Sva prava pridržana.",
+    "quickLinks": "Brze veze",
+    "address": "Okrug Jing'an, Šangaj, Kina",
+    "disclaimer": "Izjava o odricanju od odgovornosti: Mi smo neovisna regulatorna konzultantska tvrtka i nismo povezani s Glavnom carinskom upravom Kine.",
+    "whatsapp": "WhatsApp",
+    "testimonials": "Svjedočanstva",
+    "industries": "Industrije",
+    "blog": "Uvidi"
   }
 }

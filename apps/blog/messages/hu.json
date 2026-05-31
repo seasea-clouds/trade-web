@@ -39,5 +39,26 @@
     "metaDescription": "Szakértői útmutatók a kínai import megfelelőségéről. GACC regisztrációs tippek, CCC-tanúsítvány frissítések, NMPA bejelentési hírek, címkemegfelelőségi információk. Legyen tájékozott.",
     "ctaDesc": "Kérjen ingyenes megfelelőségi értékelést a termékeire szabva.",
     "ctaResponse": "Ingyenes konzultáció → 24 órás válaszadás"
+  },
+  "Footer": {
+    "contact": "Kapcsolat",
+    "services": "Szolgáltatások",
+    "gaccRegistration": "GACC regisztráció",
+    "labelCompliance": "A kínai címkék megfelelősége",
+    "cccCertification": "CCC tanúsítás",
+    "cosmeticsFiling": "Kozmetikai reszelő (NMPA)",
+    "crossBorderEcommerce": "Határokon átnyúló e-kereskedelem",
+    "brandProtection": "Márkavédelem",
+    "packages": "Csomagok",
+    "faq": "FAQ",
+    "about": "Rólunk",
+    "rights": "© 2012-2026 SinoTrade Compliance. Minden jog fenntartva.",
+    "quickLinks": "Gyors linkek",
+    "address": "Jing'an kerület, Sanghaj, Kína",
+    "disclaimer": "Jogi nyilatkozat: Független szabályozási tanácsadó cég vagyunk, és nem áll kapcsolatban a Kínai Általános Vámigazgatási Hivatallal.",
+    "whatsapp": "WhatsApp",
+    "testimonials": "Beszámolók",
+    "industries": "Iparágak",
+    "blog": "Insights"
   }
 }

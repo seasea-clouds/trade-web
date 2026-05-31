@@ -76,5 +76,13 @@
     "ctaSubtitle": "Dapatkan penilaian pematuhan percuma yang disesuaikan dengan produk anda.",
     "ctaUrgency": "Konsultasi percuma → Respons 24 jam",
     "ctaButton": "Dapatkan Penilaian Percuma"
+  },
+  "breadcrumb": {
+    "home": "Laman Utama",
+    "services": "Perkhidmatan",
+    "blog": "Blog",
+    "industries": "industri",
+    "packages": "Pakej",
+    "faq": "FAQ"
   }
 }

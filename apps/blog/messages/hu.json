@@ -76,5 +76,13 @@
     "ctaSubtitle": "Kérjen ingyenes megfelelőségi értékelést a termékeire szabva.",
     "ctaUrgency": "Ingyenes konzultáció → 24 órás válaszadás",
     "ctaButton": "Kérjen ingyenes értékelést"
+  },
+  "breadcrumb": {
+    "home": "Kezdőlap",
+    "services": "Szolgáltatások",
+    "blog": "Blog",
+    "industries": "Iparágak",
+    "packages": "Csomagok",
+    "faq": "FAQ"
   }
 }

@@ -76,5 +76,13 @@
     "ctaSubtitle": "Nhận đánh giá tuân thủ miễn phí phù hợp với sản phẩm của bạn.",
     "ctaUrgency": "Tư vấn miễn phí → phản hồi 24h",
     "ctaButton": "Nhận đánh giá miễn phí"
+  },
+  "breadcrumb": {
+    "home": "Trang chủ",
+    "services": "Dịch vụ",
+    "blog": "Blog",
+    "industries": "ngành công nghiệp",
+    "packages": "Gói",
+    "faq": "FAQ"
   }
 }

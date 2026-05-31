@@ -76,5 +76,13 @@
     "ctaSubtitle": "Obtenga una evaluación de cumplimiento gratuita adaptada a sus productos.",
     "ctaUrgency": "Consulta gratuita → Respuesta 24h",
     "ctaButton": "Obtenga una evaluación gratuita"
+  },
+  "breadcrumb": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "blog": "Blog",
+    "industries": "Industrias",
+    "packages": "Paquetes",
+    "faq": "FAQ"
   }
 }

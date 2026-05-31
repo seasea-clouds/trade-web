@@ -76,5 +76,13 @@
     "ctaSubtitle": "Hanki ilmainen vaatimustenmukaisuusarviointi, joka on räätälöity tuotteillesi.",
     "ctaUrgency": "Ilmainen konsultaatio → 24h vastaus",
     "ctaButton": "Hanki ilmainen arviointi"
+  },
+  "breadcrumb": {
+    "home": "Etusivu",
+    "services": "Palvelut",
+    "blog": "Blogi",
+    "industries": "Toimialat",
+    "packages": "Paketit",
+    "faq": "FAQ"
   }
 }

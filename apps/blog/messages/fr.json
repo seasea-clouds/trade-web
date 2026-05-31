@@ -76,5 +76,13 @@
     "ctaSubtitle": "Obtenez une évaluation de conformité gratuite adaptée à vos produits.",
     "ctaUrgency": "Consultation gratuite → réponse 24h",
     "ctaButton": "Obtenez une évaluation gratuite"
+  },
+  "breadcrumb": {
+    "home": "Accueil",
+    "services": "Services",
+    "blog": "Blogue",
+    "industries": "Secteurs",
+    "packages": "Forfaits",
+    "faq": "FAQ"
   }
 }

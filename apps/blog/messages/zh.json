@@ -76,5 +76,13 @@
     "ctaSubtitle": "获得针对您的产品量身定制的免费合规评估。",
     "ctaUrgency": "免费咨询→24小时响应",
     "ctaButton": "获得免费评估"
+  },
+  "breadcrumb": {
+    "home": "首页",
+    "services": "服务",
+    "blog": "博客",
+    "industries": "行业",
+    "packages": "套餐",
+    "faq": "FAQ"
   }
 }

@@ -76,5 +76,13 @@
     "ctaSubtitle": "Merrni një vlerësim të pajtueshmërisë falas të përshtatur për produktet tuaja.",
     "ctaUrgency": "Konsultim falas → Përgjigje 24 orë",
     "ctaButton": "Merrni vlerësim falas"
+  },
+  "breadcrumb": {
+    "home": "Ballina",
+    "services": "Shërbime",
+    "blog": "Blog",
+    "industries": "Industritë",
+    "packages": "Paketat",
+    "faq": "FAQ"
   }
 }

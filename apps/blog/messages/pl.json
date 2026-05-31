@@ -76,5 +76,13 @@
     "ctaSubtitle": "Uzyskaj bezpłatną ocenę zgodności dostosowaną do Twoich produktów.",
     "ctaUrgency": "Bezpłatna konsultacja → Odpowiedź 24h",
     "ctaButton": "Uzyskaj bezpłatną ocenę"
+  },
+  "breadcrumb": {
+    "home": "Strona główna",
+    "services": "Usługi",
+    "blog": "Bloga",
+    "industries": "Przemysły",
+    "packages": "Pakiety",
+    "faq": "FAQ"
   }
 }

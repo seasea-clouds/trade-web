@@ -76,5 +76,13 @@
     "ctaSubtitle": "Zagotovite si brezplačno oceno skladnosti, prilagojeno vašim izdelkom.",
     "ctaUrgency": "Brezplačno svetovanje → odgovor 24 ur",
     "ctaButton": "Pridobite brezplačno oceno"
+  },
+  "breadcrumb": {
+    "home": "Domov",
+    "services": "Storitve",
+    "blog": "Blog",
+    "industries": "Industrije",
+    "packages": "Paketi",
+    "faq": "FAQ"
   }
 }

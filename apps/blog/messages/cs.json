@@ -76,5 +76,13 @@
     "ctaSubtitle": "Získejte zdarma posouzení shody přizpůsobené vašim produktům.",
     "ctaUrgency": "Konzultace zdarma → odpověď 24h",
     "ctaButton": "Získejte bezplatné hodnocení"
+  },
+  "breadcrumb": {
+    "home": "Domovská stránka",
+    "services": "Služby",
+    "blog": "Blog",
+    "industries": "Průmyslová odvětví",
+    "packages": "Balíčky",
+    "faq": "FAQ"
   }
 }

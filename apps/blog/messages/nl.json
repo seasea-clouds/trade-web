@@ -76,5 +76,13 @@
     "ctaSubtitle": "Ontvang een gratis nalevingsbeoordeling op maat van uw producten.",
     "ctaUrgency": "Gratis advies → 24-uurs reactie",
     "ctaButton": "Ontvang een gratis beoordeling"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "services": "Diensten",
+    "blog": "Bloggen",
+    "industries": "Industrieën",
+    "packages": "Pakketten",
+    "faq": "FAQ"
   }
 }

@@ -76,5 +76,13 @@
     "ctaSubtitle": "Obteniu una avaluació de compliment gratuïta adaptada als vostres productes.",
     "ctaUrgency": "Consulta gratuïta → Resposta 24h",
     "ctaButton": "Obteniu una avaluació gratuïta"
+  },
+  "breadcrumb": {
+    "home": "Inici",
+    "services": "Serveis",
+    "blog": "Bloc",
+    "industries": "Indústries",
+    "packages": "Paquets",
+    "faq": "FAQ"
   }
 }

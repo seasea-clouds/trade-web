@@ -76,5 +76,13 @@
     "ctaSubtitle": "貴社の製品に合わせた無料のコンプライアンス評価を受けてください。",
     "ctaUrgency": "無料相談→24時間対応",
     "ctaButton": "無料の評価を受ける"
+  },
+  "breadcrumb": {
+    "home": "ホーム",
+    "services": "サービス",
+    "blog": "ブログ",
+    "industries": "産業",
+    "packages": "パッケージ",
+    "faq": "FAQ"
   }
 }

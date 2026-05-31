@@ -76,5 +76,13 @@
     "ctaSubtitle": "Ottieni una valutazione di conformità gratuita su misura per i tuoi prodotti.",
     "ctaUrgency": "Consulenza gratuita → risposta 24 ore su 24",
     "ctaButton": "Ottieni una valutazione gratuita"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "services": "Servizi",
+    "blog": "Blog",
+    "industries": "Industrie",
+    "packages": "Pacchetti",
+    "faq": "FAQ"
   }
 }

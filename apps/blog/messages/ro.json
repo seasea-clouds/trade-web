@@ -76,5 +76,13 @@
     "ctaSubtitle": "Obțineți o evaluare gratuită a conformității, adaptată produselor dvs.",
     "ctaUrgency": "Consultație gratuită → Răspuns 24 de ore",
     "ctaButton": "Obțineți o evaluare gratuită"
+  },
+  "breadcrumb": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "blog": "Blog",
+    "industries": "Industrii",
+    "packages": "Pachete",
+    "faq": "FAQ"
   }
 }

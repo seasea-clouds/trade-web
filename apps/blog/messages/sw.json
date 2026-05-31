@@ -76,5 +76,13 @@
     "ctaSubtitle": "Pata tathmini ya kufuata bila malipo iliyoundwa kulingana na bidhaa zako.",
     "ctaUrgency": "Ushauri wa bila malipo → jibu la saa 24",
     "ctaButton": "Pata Tathmini ya Bure"
+  },
+  "breadcrumb": {
+    "home": "Nyumbani",
+    "services": "Huduma",
+    "blog": "Blogu",
+    "industries": "Viwanda",
+    "packages": "Vifurushi",
+    "faq": "FAQ"
   }
 }

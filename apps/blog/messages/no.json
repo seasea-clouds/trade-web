@@ -76,5 +76,13 @@
     "ctaSubtitle": "Få en gratis samsvarsvurdering skreddersydd for produktene dine.",
     "ctaUrgency": "Gratis konsultasjon → 24 timers svar",
     "ctaButton": "Få gratis vurdering"
+  },
+  "breadcrumb": {
+    "home": "Hjem",
+    "services": "Tjenester",
+    "blog": "Blogg",
+    "industries": "Industrier",
+    "packages": "Pakker",
+    "faq": "FAQ"
   }
 }

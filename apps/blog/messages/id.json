@@ -76,5 +76,13 @@
     "ctaSubtitle": "Dapatkan penilaian kepatuhan gratis yang disesuaikan dengan produk Anda.",
     "ctaUrgency": "Konsultasi gratis → Respon 24 jam",
     "ctaButton": "Dapatkan Penilaian Gratis"
+  },
+  "breadcrumb": {
+    "home": "Beranda",
+    "services": "Layanan",
+    "blog": "blog",
+    "industries": "Industri",
+    "packages": "Paket",
+    "faq": "FAQ"
   }
 }

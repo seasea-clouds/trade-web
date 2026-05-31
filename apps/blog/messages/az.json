@@ -76,5 +76,13 @@
     "ctaSubtitle": "Məhsullarınıza uyğunlaşdırılmış ödənişsiz uyğunluq qiymətləndirməsini əldə edin.",
     "ctaUrgency": "Pulsuz konsultasiya → 24 saat cavab",
     "ctaButton": "Pulsuz Qiymətləndirmə alın"
+  },
+  "breadcrumb": {
+    "home": "Ana Səhifə",
+    "services": "Xidmətlər",
+    "blog": "Bloq",
+    "industries": "sənayelər",
+    "packages": "Paketlər",
+    "faq": "FAQ"
   }
 }

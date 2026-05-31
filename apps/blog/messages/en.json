@@ -112,5 +112,13 @@
     "ctaSubtitle": "Get a free compliance assessment tailored to your products.",
     "ctaUrgency": "Free consultation → 24h response",
     "ctaButton": "Get Free Assessment"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "services": "Services",
+    "blog": "Blog",
+    "industries": "Industries",
+    "packages": "Packages",
+    "faq": "FAQ"
   }
 }

@@ -76,5 +76,13 @@
     "ctaSubtitle": "Kry 'n gratis voldoeningsbeoordeling wat vir u produkte aangepas is.",
     "ctaUrgency": "Gratis konsultasie → 24 uur reaksie",
     "ctaButton": "Kry gratis assessering"
+  },
+  "breadcrumb": {
+    "home": "Tuis",
+    "services": "Dienste",
+    "blog": "Blog",
+    "industries": "Nywerhede",
+    "packages": "Pakkette",
+    "faq": "FAQ"
   }
 }

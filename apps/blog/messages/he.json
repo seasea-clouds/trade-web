@@ -76,5 +76,13 @@
     "ctaSubtitle": "קבל הערכת תאימות בחינם המותאמת למוצרים שלך.",
     "ctaUrgency": "ייעוץ חינם → מענה 24 שעות",
     "ctaButton": "קבל הערכה בחינם"
+  },
+  "breadcrumb": {
+    "home": "דף הבית",
+    "services": "שירותים",
+    "blog": "בלוג",
+    "industries": "תעשיות",
+    "packages": "חבילות",
+    "faq": "FAQ"
   }
 }

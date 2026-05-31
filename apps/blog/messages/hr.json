@@ -76,5 +76,13 @@
     "ctaSubtitle": "Dobijte besplatnu procjenu usklađenosti prilagođenu vašim proizvodima.",
     "ctaUrgency": "Besplatne konzultacije → odgovor 24h",
     "ctaButton": "Dobijte besplatnu procjenu"
+  },
+  "breadcrumb": {
+    "home": "Početna",
+    "services": "Usluge",
+    "blog": "Blog",
+    "industries": "Industrije",
+    "packages": "Paketi",
+    "faq": "FAQ"
   }
 }

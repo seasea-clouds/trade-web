@@ -76,5 +76,13 @@
     "ctaSubtitle": "Få en kostnadsfri efterlevnadsbedömning skräddarsydd för dina produkter.",
     "ctaUrgency": "Gratis konsultation → 24h svar",
     "ctaButton": "Få gratis bedömning"
+  },
+  "breadcrumb": {
+    "home": "Hem",
+    "services": "Tjänster",
+    "blog": "Blogg",
+    "industries": "industrier",
+    "packages": "Paket",
+    "faq": "FAQ"
   }
 }

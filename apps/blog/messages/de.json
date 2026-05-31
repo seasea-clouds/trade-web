@@ -76,5 +76,13 @@
     "ctaSubtitle": "Erhalten Sie eine kostenlose, auf Ihre Produkte zugeschnittene Compliance-Bewertung.",
     "ctaUrgency": "Kostenlose Beratung → 24h-Antwort",
     "ctaButton": "Erhalten Sie eine kostenlose Bewertung"
+  },
+  "breadcrumb": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "blog": "Blog",
+    "industries": "Branchen",
+    "packages": "Pakete",
+    "faq": "FAQ"
   }
 }

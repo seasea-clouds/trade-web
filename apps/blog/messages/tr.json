@@ -76,5 +76,13 @@
     "ctaSubtitle": "Ürünlerinize göre uyarlanmış ücretsiz bir uyumluluk değerlendirmesi alın.",
     "ctaUrgency": "Ücretsiz danışmanlık → 24 saat yanıt",
     "ctaButton": "Ücretsiz Değerlendirme Alın"
+  },
+  "breadcrumb": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "blog": "Blog",
+    "industries": "Endüstriler",
+    "packages": "Paketler",
+    "faq": "FAQ"
   }
 }

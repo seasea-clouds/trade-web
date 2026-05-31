@@ -76,5 +76,13 @@
     "ctaSubtitle": "Získajte bezplatné posúdenie súladu prispôsobené vašim produktom.",
     "ctaUrgency": "Bezplatná konzultácia → 24h odpoveď",
     "ctaButton": "Získajte bezplatné hodnotenie"
+  },
+  "breadcrumb": {
+    "home": "Domov",
+    "services": "Služby",
+    "blog": "Blog",
+    "industries": "Odvetvia",
+    "packages": "Balíčky",
+    "faq": "FAQ"
   }
 }

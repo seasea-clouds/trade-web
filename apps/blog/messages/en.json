@@ -38,7 +38,14 @@
     "metaTitle": "China Import Compliance Blog | GACC, CCC, NMPA Guides",
     "metaDescription": "Expert guides on China import compliance. GACC registration tips, CCC certification updates, NMPA filing news, label compliance insights. Stay informed.",
     "ctaDesc": "Get a free compliance assessment tailored to your products.",
-    "ctaResponse": "Free consultation → 24h response"
+    "ctaResponse": "Free consultation → 24h response",
+    "shareWhatsapp": "Share on WhatsApp",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareX": "Share on X",
+    "shareFacebook": "Share on Facebook",
+    "shareTelegram": "Share on Telegram",
+    "shareEmail": "Share via Email",
+    "copyLink": "Copy link"
   },
   "Navbar": {
     "logo": "SinoTrade Compliance",

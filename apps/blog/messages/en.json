@@ -60,6 +60,7 @@
     "blog": "Insights",
     "search": "Search",
     "home": "Home",
+    "contact": "Contact Us",
     "servicesDropdown": {
       "gacc": "GACC Registration",
       "label": "Label Compliance",
@@ -69,18 +70,16 @@
       "brand": "Brand Protection & Trademark"
     },
     "industriesDropdown": {
-      "foodBeverage": "🍷 Food & Beverage",
-      "cosmeticsPersonalCare": "💄 Cosmetics & Personal Care",
-      "electronicsAppliances": "🔌 Electronics & Appliances",
-      "toysChildrenProducts": "🧸 Toys & Children's Products",
-      "textileApparel": "👕 Textile & Apparel",
-      "healthSupplements": "💊 Health Supplements",
-      "machineryEquipment": "⚙️ Machinery & Equipment",
-      "chemicalProducts": "🧪 Chemical Products",
-      "automotiveParts": "🚗 Automotive Parts",
-      "petProducts": "🐾 Pet Products",
-      "packagingMaterials": "📦 Packaging Materials",
-      "sportsOutdoor": "⚽ Sports & Outdoor"
+      "dairymilkproducts": "🥛 Dairy & Milk Products",
+      "meatseafood": "🥩 Meat & Seafood",
+      "winespirits": "🍷 Wine & Spirits",
+      "skincarecosmetics": "💄 Skincare & Cosmetics",
+      "petfood": "🐾 Pet Food",
+      "healthsupplements": "💊 Health Supplements",
+      "babymaternal": "👶 Baby & Maternal",
+      "consumerelectronics": "📱 Consumer Electronics",
+      "medicaldevices": "🏥 Medical Devices",
+      "crossborderecommerce": "🛒 Cross-border E-commerce"
     }
   },
   "Footer": {

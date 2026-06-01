@@ -38,7 +38,22 @@
     "metaTitle": "Kina Import Compliance Blog | GACC, CCC, NMPA-veiledninger",
     "metaDescription": "Ekspertguider om importoverholdelse av Kina. GACC-registreringstips, CCC-sertifiseringsoppdateringer, NMPA-innleveringsnyheter, innsikt i samsvar med etiketter. Hold deg informert.",
     "ctaDesc": "Få en gratis samsvarsvurdering skreddersydd for produktene dine.",
-    "ctaResponse": "Gratis konsultasjon → 24 timers svar"
+    "ctaResponse": "Gratis konsultasjon → 24 timers svar",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Kontakt",
@@ -84,5 +99,40 @@
     "industries": "Industrier",
     "packages": "Pakker",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Hjem",
+    "about": "Om oss",
+    "services": "Tjenester",
+    "servicesDropdown": {
+      "gacc": "GACC matregistrering",
+      "label": "Overholdelse av kinesisk etikett",
+      "ccc": "CCC-sertifisering",
+      "cosmetics": "Kosmetikkarkivering (NMPA)",
+      "ecommerce": "E-handel på tvers av landegrensene",
+      "brand": "Merkebeskyttelse"
+    },
+    "packages": "Pakker",
+    "faq": "FAQ",
+    "blog": "Blogg",
+    "contact": "Kontakt oss",
+    "whatsapp": "WhatsApp",
+    "quote": "Få et tilbud",
+    "industries": "Industrier",
+    "industriesDropdown": {
+      "dairymilkproducts": "Meieri- og melkeprodukter",
+      "meatseafood": "Kjøtt og sjømat",
+      "winespirits": "Vin og brennevin",
+      "skincarecosmetics": "Hudpleie og kosmetikk",
+      "petfood": "Dyremat",
+      "healthsupplements": "Helse kosttilskudd",
+      "babymaternal": "Baby og mor",
+      "consumerelectronics": "Forbrukerelektronikk",
+      "medicaldevices": "Medisinsk utstyr",
+      "crossborderecommerce": "E-handel på tvers av landegrensene"
+    },
+    "search": "Søk",
+    "freeCheck": "Free Check"
   }
 }

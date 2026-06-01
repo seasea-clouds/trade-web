@@ -38,7 +38,22 @@
     "metaTitle": "China Invoer Voldoening Blog | GACC, CCC, NMPA Gidse",
     "metaDescription": "Deskundige gidse oor nakoming van invoer in China. GACC-registrasiewenke, CCC-sertifiseringopdaterings, NMPA-liasseernuus, etiket-nakoming-insigte. Bly op hoogte.",
     "ctaDesc": "Kry 'n gratis voldoeningsbeoordeling wat vir u produkte aangepas is.",
-    "ctaResponse": "Gratis konsultasie → 24 uur reaksie"
+    "ctaResponse": "Gratis konsultasie → 24 uur reaksie",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Kontak",
@@ -84,5 +99,40 @@
     "industries": "Nywerhede",
     "packages": "Pakkette",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Tuis",
+    "about": "Oor",
+    "services": "Dienste",
+    "servicesDropdown": {
+      "gacc": "GACC-voedselregistrasie",
+      "label": "Chinese etiket nakoming",
+      "ccc": "CCC Sertifisering",
+      "cosmetics": "Skoonheidsmiddelliassering (NMPA)",
+      "ecommerce": "Oorgrens e-handel",
+      "brand": "Handelsmerkbeskerming"
+    },
+    "packages": "Pakkette",
+    "faq": "FAQ",
+    "blog": "Insigte",
+    "contact": "Kontak ons",
+    "whatsapp": "WhatsApp",
+    "quote": "Kry 'n kwotasie",
+    "industries": "Nywerhede",
+    "industriesDropdown": {
+      "dairymilkproducts": "Suiwel & Melkprodukte",
+      "meatseafood": "Vleis & Seekos",
+      "winespirits": "Wyn & Spiritualieë",
+      "skincarecosmetics": "Velsorg & Skoonheidsmiddels",
+      "petfood": "Troeteldierkos",
+      "healthsupplements": "Gesondheidsaanvullings",
+      "babymaternal": "Baba & Moeder",
+      "consumerelectronics": "Verbruikerselektronika",
+      "medicaldevices": "Mediese toestelle",
+      "crossborderecommerce": "Oorgrens e-handel"
+    },
+    "search": "Soek",
+    "freeCheck": "Free Check"
   }
 }

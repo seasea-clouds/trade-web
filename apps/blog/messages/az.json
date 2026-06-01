@@ -38,7 +38,22 @@
     "metaTitle": "Çin İdxal Uyğunluğu Blog | GACC, CCC, NMPA Bələdçiləri",
     "metaDescription": "Çin idxalına uyğunluq üzrə ekspert təlimatları. GACC qeydiyyat məsləhətləri, CCC sertifikatlaşdırma yeniləmələri, NMPA sənədləşdirmə xəbərləri, etiket uyğunluğu anlayışları. Xəbərdar olun.",
     "ctaDesc": "Məhsullarınıza uyğunlaşdırılmış ödənişsiz uyğunluq qiymətləndirməsini əldə edin.",
-    "ctaResponse": "Pulsuz konsultasiya → 24 saat cavab"
+    "ctaResponse": "Pulsuz konsultasiya → 24 saat cavab",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Əlaqə",
@@ -84,5 +99,40 @@
     "industries": "sənayelər",
     "packages": "Paketlər",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Ana səhifə",
+    "about": "Haqqımızda",
+    "services": "Xidmətlər",
+    "servicesDropdown": {
+      "gacc": "GACC Qida Qeydiyyatı",
+      "label": "Çin etiketinə uyğunluq",
+      "ccc": "CCC Sertifikatı",
+      "cosmetics": "Kosmetika sənədləri (NMPA)",
+      "ecommerce": "Transsərhəd e-ticarət",
+      "brand": "Brend Mühafizəsi"
+    },
+    "packages": "Paketlər",
+    "faq": "FAQ",
+    "blog": "Anlayışlar",
+    "contact": "Bizimlə əlaqə saxlayın",
+    "whatsapp": "WhatsApp",
+    "quote": "Sitat əldə edin",
+    "industries": "sənayelər",
+    "industriesDropdown": {
+      "dairymilkproducts": "Süd və Süd Məhsulları",
+      "meatseafood": "Ət və Dəniz məhsulları",
+      "winespirits": "Şərab və Spirtli içkilər",
+      "skincarecosmetics": "Dəriyə Qulluq və Kosmetika",
+      "petfood": "Heyvan yemi",
+      "healthsupplements": "Sağlamlıq əlavələri",
+      "babymaternal": "Körpə və Ana",
+      "consumerelectronics": "İstehlak elektronikası",
+      "medicaldevices": "Tibbi Cihazlar",
+      "crossborderecommerce": "Transsərhəd e-ticarət"
+    },
+    "search": "Axtar",
+    "freeCheck": "Free Check"
   }
 }

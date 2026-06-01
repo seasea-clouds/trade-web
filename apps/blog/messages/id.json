@@ -38,7 +38,22 @@
     "metaTitle": "Blog Kepatuhan Impor China | Panduan GACC, CCC, NMPA",
     "metaDescription": "Panduan ahli tentang kepatuhan impor Tiongkok. Kiat pendaftaran GACC, pembaruan sertifikasi CCC, berita pengarsipan NMPA, wawasan kepatuhan label. Tetap terinformasi.",
     "ctaDesc": "Dapatkan penilaian kepatuhan gratis yang disesuaikan dengan produk Anda.",
-    "ctaResponse": "Konsultasi gratis → Respon 24 jam"
+    "ctaResponse": "Konsultasi gratis → Respon 24 jam",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Kontak",
@@ -84,5 +99,40 @@
     "industries": "Industri",
     "packages": "Paket",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Rumah",
+    "about": "Tentang",
+    "services": "Layanan",
+    "servicesDropdown": {
+      "gacc": "Pendaftaran Makanan GACC",
+      "label": "Kepatuhan Label Tiongkok",
+      "ccc": "Sertifikasi CCC",
+      "cosmetics": "Pengarsipan Kosmetik (NMPA)",
+      "ecommerce": "E-niaga lintas batas",
+      "brand": "Perlindungan Merek"
+    },
+    "packages": "Paket",
+    "faq": "FAQ",
+    "blog": "Wawasan",
+    "contact": "Hubungi kami",
+    "whatsapp": "WhatsApp",
+    "quote": "Dapatkan Penawaran",
+    "industries": "Industri",
+    "industriesDropdown": {
+      "dairymilkproducts": "Produk Susu & Susu",
+      "meatseafood": "Daging & Makanan Laut",
+      "winespirits": "Anggur & Roh",
+      "skincarecosmetics": "Perawatan Kulit & Kosmetik",
+      "petfood": "Makanan Hewan Peliharaan",
+      "healthsupplements": "Suplemen Kesehatan",
+      "babymaternal": "Bayi & Ibu",
+      "consumerelectronics": "Elektronik Konsumen",
+      "medicaldevices": "Alat kesehatan",
+      "crossborderecommerce": "E-niaga lintas batas"
+    },
+    "search": "Mencari",
+    "freeCheck": "Free Check"
   }
 }

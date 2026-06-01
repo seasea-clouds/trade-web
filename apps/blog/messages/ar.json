@@ -38,7 +38,22 @@
     "metaTitle": "مدونة الامتثال للاستيراد الصيني | أدلة GACC، CCC، NMPA",
     "metaDescription": "أدلة الخبراء بشأن الامتثال للاستيراد في الصين. نصائح التسجيل في GACC، وتحديثات شهادة CCC، وأخبار ملفات NMPA، ورؤى الامتثال للملصقات. ابق على اطلاع.",
     "ctaDesc": "احصل على تقييم امتثال مجاني مخصص لمنتجاتك.",
-    "ctaResponse": "استشارة مجانية → استجابة 24 ساعة"
+    "ctaResponse": "استشارة مجانية → استجابة 24 ساعة",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "اتصال",
@@ -84,5 +99,40 @@
     "industries": "الصناعات",
     "packages": "الحزم",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "بيت",
+    "about": "حول",
+    "services": "خدمات",
+    "servicesDropdown": {
+      "gacc": "تسجيل الأغذية GACC",
+      "label": "الامتثال للعلامة الصينية",
+      "ccc": "شهادة سي سي سي",
+      "cosmetics": "حفظ مستحضرات التجميل (NMPA)",
+      "ecommerce": "التجارة الإلكترونية عبر الحدود",
+      "brand": "حماية العلامة التجارية"
+    },
+    "packages": "الحزم",
+    "faq": "FAQ",
+    "blog": "رؤى",
+    "contact": "اتصل بنا",
+    "whatsapp": "WhatsApp",
+    "quote": "احصل على عرض أسعار",
+    "industries": "الصناعات",
+    "industriesDropdown": {
+      "dairymilkproducts": "منتجات الألبان والحليب",
+      "meatseafood": "اللحوم والمأكولات البحرية",
+      "winespirits": "النبيذ والمشروبات الروحية",
+      "skincarecosmetics": "العناية بالبشرة ومستحضرات التجميل",
+      "petfood": "أغذية الحيوانات الأليفة",
+      "healthsupplements": "المكملات الصحية",
+      "babymaternal": "الطفل والأم",
+      "consumerelectronics": "الالكترونيات الاستهلاكية",
+      "medicaldevices": "الأجهزة الطبية",
+      "crossborderecommerce": "التجارة الإلكترونية عبر الحدود"
+    },
+    "search": "يبحث",
+    "freeCheck": "Free Check"
   }
 }

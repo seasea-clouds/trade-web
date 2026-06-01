@@ -38,7 +38,22 @@
     "metaTitle": "China Import Compliance Blog | Sprievodcovia GACC, CCC, NMPA",
     "metaDescription": "Odborné príručky o dodržiavaní dovozu z Číny. Tipy na registráciu GACC, aktualizácie certifikácie CCC, správy o podávaní NMPA, informácie o dodržiavaní predpisov. Zostaňte informovaní.",
     "ctaDesc": "Získajte bezplatné posúdenie súladu prispôsobené vašim produktom.",
-    "ctaResponse": "Bezplatná konzultácia → 24h odpoveď"
+    "ctaResponse": "Bezplatná konzultácia → 24h odpoveď",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Kontakt",
@@ -84,5 +99,40 @@
     "industries": "Odvetvia",
     "packages": "Balíčky",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Domov",
+    "about": "O nás",
+    "services": "Služby",
+    "servicesDropdown": {
+      "gacc": "Registrácia potravín GACC",
+      "label": "Súlad s čínskymi štítkami",
+      "ccc": "Certifikácia CCC",
+      "cosmetics": "Kozmetický pilník (NMPA)",
+      "ecommerce": "Cezhraničný elektronický obchod",
+      "brand": "Ochrana značky"
+    },
+    "packages": "Balíčky",
+    "faq": "FAQ",
+    "blog": "Insights",
+    "contact": "Kontaktujte nás",
+    "whatsapp": "WhatsApp",
+    "quote": "Získajte cenovú ponuku",
+    "industries": "Odvetvia",
+    "industriesDropdown": {
+      "dairymilkproducts": "Mliečne a mliečne výrobky",
+      "meatseafood": "Mäso a morské plody",
+      "winespirits": "Víno a liehoviny",
+      "skincarecosmetics": "Starostlivosť o pleť a kozmetika",
+      "petfood": "Krmivo pre domáce zvieratá",
+      "healthsupplements": "Zdravotné doplnky",
+      "babymaternal": "Dieťa a matka",
+      "consumerelectronics": "Spotrebná elektronika",
+      "medicaldevices": "Lekárske pomôcky",
+      "crossborderecommerce": "Cezhraničný elektronický obchod"
+    },
+    "search": "Hľadať",
+    "freeCheck": "Free Check"
   }
 }

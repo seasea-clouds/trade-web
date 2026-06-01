@@ -38,7 +38,22 @@
     "metaTitle": "Блог про дотримання вимог щодо імпорту Китаю | Посібники GACC, CCC, NMPA",
     "metaDescription": "Експертні посібники щодо дотримання вимог щодо імпорту в Китай. Поради щодо реєстрації в GACC, оновлення сертифікації CCC, новини щодо подання документів NMPA, інформація щодо відповідності етикеткам. Будьте в курсі.",
     "ctaDesc": "Отримайте безкоштовну оцінку відповідності ваших продуктів.",
-    "ctaResponse": "Безкоштовна консультація → відповідь цілодобово"
+    "ctaResponse": "Безкоштовна консультація → відповідь цілодобово",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Контакт",
@@ -84,5 +99,40 @@
     "industries": "Галузі промисловості",
     "packages": "пакети",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "додому",
+    "about": "про",
+    "services": "Послуги",
+    "servicesDropdown": {
+      "gacc": "Реєстрація харчових продуктів GACC",
+      "label": "Відповідність китайської етикетки",
+      "ccc": "Сертифікація CCC",
+      "cosmetics": "Файл косметики (NMPA)",
+      "ecommerce": "Транскордонна електронна комерція",
+      "brand": "Захист бренду"
+    },
+    "packages": "пакети",
+    "faq": "FAQ",
+    "blog": "Інсайти",
+    "contact": "Зв'яжіться з нами",
+    "whatsapp": "WhatsApp",
+    "quote": "Отримати цінову пропозицію",
+    "industries": "Галузі промисловості",
+    "industriesDropdown": {
+      "dairymilkproducts": "Молочні та молочні продукти",
+      "meatseafood": "М'ясо та морепродукти",
+      "winespirits": "Вино та алкогольні напої",
+      "skincarecosmetics": "Догляд за шкірою та косметика",
+      "petfood": "Корм для домашніх тварин",
+      "healthsupplements": "Оздоровчі добавки",
+      "babymaternal": "Дитячі та материнські",
+      "consumerelectronics": "Побутова електроніка",
+      "medicaldevices": "Медичні прилади",
+      "crossborderecommerce": "Транскордонна електронна комерція"
+    },
+    "search": "Пошук",
+    "freeCheck": "Free Check"
   }
 }

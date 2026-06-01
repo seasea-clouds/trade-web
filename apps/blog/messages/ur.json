@@ -38,7 +38,22 @@
     "metaTitle": "چائنا امپورٹ کمپلائنس بلاگ | GACC، CCC، NMPA گائیڈز",
     "metaDescription": "چین کی درآمدی تعمیل پر ماہر رہنما۔ GACC رجسٹریشن کی تجاویز، CCC سرٹیفیکیشن اپ ڈیٹس، NMPA فائلنگ نیوز، لیبل کی تعمیل کی بصیرتیں۔ باخبر رہیں۔",
     "ctaDesc": "اپنی مصنوعات کے مطابق مفت تعمیل کی تشخیص حاصل کریں۔",
-    "ctaResponse": "مفت مشاورت → 24 گھنٹے جواب"
+    "ctaResponse": "مفت مشاورت → 24 گھنٹے جواب",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "رابطہ",
@@ -84,5 +99,40 @@
     "industries": "صنعتیں",
     "packages": "پیکجز",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "گھر",
+    "about": "کے بارے میں",
+    "services": "خدمات",
+    "servicesDropdown": {
+      "gacc": "GACC فوڈ رجسٹریشن",
+      "label": "چینی لیبل کی تعمیل",
+      "ccc": "سی سی سی سرٹیفیکیشن",
+      "cosmetics": "کاسمیٹکس فائلنگ (NMPA)",
+      "ecommerce": "سرحد پار ای کامرس",
+      "brand": "برانڈ پروٹیکشن"
+    },
+    "packages": "پیکجز",
+    "faq": "FAQ",
+    "blog": "بصیرت",
+    "contact": "ہم سے رابطہ کریں۔",
+    "whatsapp": "WhatsApp",
+    "quote": "ایک اقتباس حاصل کریں۔",
+    "industries": "صنعتیں",
+    "industriesDropdown": {
+      "dairymilkproducts": "دودھ اور دودھ کی مصنوعات",
+      "meatseafood": "گوشت اور سمندری غذا",
+      "winespirits": "شراب اور اسپرٹ",
+      "skincarecosmetics": "جلد کی دیکھ بھال اور کاسمیٹکس",
+      "petfood": "پالتو جانوروں کی خوراک",
+      "healthsupplements": "ہیلتھ سپلیمنٹس",
+      "babymaternal": "بچہ اور زچگی",
+      "consumerelectronics": "کنزیومر الیکٹرانکس",
+      "medicaldevices": "طبی آلات",
+      "crossborderecommerce": "سرحد پار ای کامرس"
+    },
+    "search": "تلاش کریں۔",
+    "freeCheck": "Free Check"
   }
 }

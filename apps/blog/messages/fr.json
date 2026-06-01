@@ -38,7 +38,22 @@
     "metaTitle": "Blog sur la conformité des importations en Chine | Guides GACC, CCC, NMPA",
     "metaDescription": "Guides d'experts sur la conformité des importations en Chine. Conseils d'enregistrement GACC, mises à jour de la certification CCC, actualités sur les dépôts...",
     "ctaDesc": "Obtenez une évaluation de conformité gratuite adaptée à vos produits.",
-    "ctaResponse": "Consultation gratuite → réponse 24h"
+    "ctaResponse": "Consultation gratuite → réponse 24h",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Contact",
@@ -84,5 +99,40 @@
     "industries": "Secteurs",
     "packages": "Forfaits",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Maison",
+    "about": "À propos",
+    "services": "Services",
+    "servicesDropdown": {
+      "gacc": "Enregistrement des aliments GACC",
+      "label": "Conformité des étiquettes chinoises",
+      "ccc": "Certification CCC",
+      "cosmetics": "Dépôt de produits cosmétiques (NMPA)",
+      "ecommerce": "Commerce électronique transfrontalier",
+      "brand": "Protection de la marque"
+    },
+    "packages": "Forfaits",
+    "faq": "FAQ",
+    "blog": "Connaissances",
+    "contact": "Contactez-nous",
+    "whatsapp": "WhatsApp",
+    "quote": "Obtenez un devis",
+    "industries": "Secteurs",
+    "industriesDropdown": {
+      "dairymilkproducts": "Produits laitiers et produits laitiers",
+      "meatseafood": "Viande et fruits de mer",
+      "winespirits": "Vins et Spiritueux",
+      "skincarecosmetics": "Soins de la peau et cosmétiques",
+      "petfood": "Nourriture pour animaux",
+      "healthsupplements": "Suppléments de santé",
+      "babymaternal": "Bébé et maternelle",
+      "consumerelectronics": "Electronique grand public",
+      "medicaldevices": "Dispositifs médicaux",
+      "crossborderecommerce": "Commerce électronique transfrontalier"
+    },
+    "search": "Recherche",
+    "freeCheck": "Free Check"
   }
 }

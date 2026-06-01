@@ -38,7 +38,22 @@
     "metaTitle": "சீனா இறக்குமதி இணக்க வலைப்பதிவு | GACC, CCC, NMPA வழிகாட்டிகள்",
     "metaDescription": "சீனா இறக்குமதி இணக்கம் குறித்த நிபுணர் வழிகாட்டிகள். GACC பதிவு குறிப்புகள், CCC சான்றிதழ் புதுப்பிப்புகள், NMPA தாக்கல் செய்திகள், லேபிள் இணக்க நுண்ணறிவு. தகவலறிந்து இருங்கள்.",
     "ctaDesc": "உங்கள் தயாரிப்புகளுக்கு ஏற்ப இலவச இணக்க மதிப்பீட்டைப் பெறுங்கள்.",
-    "ctaResponse": "இலவச ஆலோசனை → 24 மணிநேர பதில்"
+    "ctaResponse": "இலவச ஆலோசனை → 24 மணிநேர பதில்",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "தொடர்பு",
@@ -84,5 +99,40 @@
     "industries": "தொழில்கள்",
     "packages": "தொகுப்புகள்",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "வீடு",
+    "about": "பற்றி",
+    "services": "சேவைகள்",
+    "servicesDropdown": {
+      "gacc": "GACC உணவுப் பதிவு",
+      "label": "சீன லேபிள் இணக்கம்",
+      "ccc": "CCC சான்றிதழ்",
+      "cosmetics": "அழகுசாதனப் பொருட்கள் தாக்கல் (NMPA)",
+      "ecommerce": "எல்லை தாண்டிய மின் வணிகம்",
+      "brand": "பிராண்ட் பாதுகாப்பு"
+    },
+    "packages": "தொகுப்புகள்",
+    "faq": "FAQ",
+    "blog": "நுண்ணறிவு",
+    "contact": "எங்களை தொடர்பு கொள்ளவும்",
+    "whatsapp": "WhatsApp",
+    "quote": "ஒரு மேற்கோளைப் பெறுங்கள்",
+    "industries": "தொழில்கள்",
+    "industriesDropdown": {
+      "dairymilkproducts": "பால் & பால் பொருட்கள்",
+      "meatseafood": "இறைச்சி மற்றும் கடல் உணவு",
+      "winespirits": "ஒயின் & ஸ்பிரிட்ஸ்",
+      "skincarecosmetics": "தோல் பராமரிப்பு & அழகுசாதனப் பொருட்கள்",
+      "petfood": "செல்லப்பிராணி உணவு",
+      "healthsupplements": "சுகாதார சப்ளிமெண்ட்ஸ்",
+      "babymaternal": "குழந்தை மற்றும் தாய்வழி",
+      "consumerelectronics": "நுகர்வோர் மின்னணுவியல்",
+      "medicaldevices": "மருத்துவ சாதனங்கள்",
+      "crossborderecommerce": "எல்லை தாண்டிய மின் வணிகம்"
+    },
+    "search": "தேடு",
+    "freeCheck": "Free Check"
   }
 }

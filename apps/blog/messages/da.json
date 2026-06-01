@@ -38,7 +38,22 @@
     "metaTitle": "Kina importoverholdelse blog | GACC, CCC, NMPA Guides",
     "metaDescription": "Ekspertvejledninger om Kinas importoverholdelse. GACC-registreringstip, CCC-certificeringsopdateringer, NMPA-arkiveringsnyheder, indsigt i overholdelse af etiketter. Hold dig informeret.",
     "ctaDesc": "Få en gratis overensstemmelsesvurdering skræddersyet til dine produkter.",
-    "ctaResponse": "Gratis konsultation → 24 timers svar"
+    "ctaResponse": "Gratis konsultation → 24 timers svar",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Kontakt",
@@ -84,5 +99,40 @@
     "industries": "Industrier",
     "packages": "Pakker",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Hjem",
+    "about": "Om os",
+    "services": "Tjenester",
+    "servicesDropdown": {
+      "gacc": "GACC fødevareregistrering",
+      "label": "Overholdelse af kinesiske etiketter",
+      "ccc": "CCC certificering",
+      "cosmetics": "Kosmetikarkivering (NMPA)",
+      "ecommerce": "Grænseoverskridende e-handel",
+      "brand": "Brand beskyttelse"
+    },
+    "packages": "Pakker",
+    "faq": "FAQ",
+    "blog": "Indsigt",
+    "contact": "Kontakt os",
+    "whatsapp": "WhatsApp",
+    "quote": "Få et tilbud",
+    "industries": "Industrier",
+    "industriesDropdown": {
+      "dairymilkproducts": "Mejeri- og mælkeprodukter",
+      "meatseafood": "Kød & Fisk og skaldyr",
+      "winespirits": "Vin & Spiritus",
+      "skincarecosmetics": "Hudpleje & Kosmetik",
+      "petfood": "Foder til kæledyr",
+      "healthsupplements": "Sundhedstilskud",
+      "babymaternal": "Baby & Moder",
+      "consumerelectronics": "Forbrugerelektronik",
+      "medicaldevices": "Medicinsk udstyr",
+      "crossborderecommerce": "Grænseoverskridende e-handel"
+    },
+    "search": "Søge",
+    "freeCheck": "Free Check"
   }
 }

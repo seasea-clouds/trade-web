@@ -38,7 +38,22 @@
     "metaTitle": "Kina Import Compliance Blog | GACC, CCC, NMPA Guider",
     "metaDescription": "Expertguider om Kinas importefterlevnad. GACC-registreringstips, CCC-certifieringsuppdateringar, NMPA-nyheter, insikter om efterlevnad av etiketter. Håll dig informerad.",
     "ctaDesc": "Få en kostnadsfri efterlevnadsbedömning skräddarsydd för dina produkter.",
-    "ctaResponse": "Gratis konsultation → 24h svar"
+    "ctaResponse": "Gratis konsultation → 24h svar",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Kontakt",
@@ -84,5 +99,40 @@
     "industries": "industrier",
     "packages": "Paket",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Hem",
+    "about": "Om oss",
+    "services": "Tjänster",
+    "servicesDropdown": {
+      "gacc": "GACC Food Registration",
+      "label": "Efterlevnad av kinesiska etiketter",
+      "ccc": "CCC-certifiering",
+      "cosmetics": "Kosmetikaarkivering (NMPA)",
+      "ecommerce": "Gränsöverskridande e-handel",
+      "brand": "Varumärkesskydd"
+    },
+    "packages": "Paket",
+    "faq": "FAQ",
+    "blog": "Insikter",
+    "contact": "Kontakta oss",
+    "whatsapp": "WhatsApp",
+    "quote": "Få en offert",
+    "industries": "industrier",
+    "industriesDropdown": {
+      "dairymilkproducts": "Mejeri- och mjölkprodukter",
+      "meatseafood": "Kött & Skaldjur",
+      "winespirits": "Vin & Sprit",
+      "skincarecosmetics": "Hudvård & Kosmetika",
+      "petfood": "Djurmat",
+      "healthsupplements": "Hälsotillskott",
+      "babymaternal": "Baby & Maternal",
+      "consumerelectronics": "Konsumentelektronik",
+      "medicaldevices": "Medicinsk utrustning",
+      "crossborderecommerce": "Gränsöverskridande e-handel"
+    },
+    "search": "Söka",
+    "freeCheck": "Free Check"
   }
 }

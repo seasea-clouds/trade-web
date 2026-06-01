@@ -38,7 +38,22 @@
     "metaTitle": "চীন আমদানি কমপ্লায়েন্স ব্লগ | GACC, CCC, NMPA গাইড",
     "metaDescription": "চীন আমদানি সম্মতি বিশেষজ্ঞ গাইড. GACC রেজিস্ট্রেশন টিপস, CCC সার্টিফিকেশন আপডেট, NMPA ফাইলিং নিউজ, লেবেল কমপ্লায়েন্স ইনসাইট। অবগত থাকুন।",
     "ctaDesc": "আপনার পণ্যের জন্য উপযুক্ত একটি বিনামূল্যে সম্মতি মূল্যায়ন পান।",
-    "ctaResponse": "বিনামূল্যে পরামর্শ → 24 ঘন্টা প্রতিক্রিয়া"
+    "ctaResponse": "বিনামূল্যে পরামর্শ → 24 ঘন্টা প্রতিক্রিয়া",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "যোগাযোগ",
@@ -84,5 +99,40 @@
     "industries": "শিল্প",
     "packages": "প্যাকেজ",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "বাড়ি",
+    "about": "সম্পর্কে",
+    "services": "সেবা",
+    "servicesDropdown": {
+      "gacc": "GACC খাদ্য নিবন্ধন",
+      "label": "চীনা লেবেল সম্মতি",
+      "ccc": "CCC সার্টিফিকেশন",
+      "cosmetics": "প্রসাধনী ফাইলিং (NMPA)",
+      "ecommerce": "আন্তঃসীমান্ত ই-কমার্স",
+      "brand": "ব্র্যান্ড সুরক্ষা"
+    },
+    "packages": "প্যাকেজ",
+    "faq": "FAQ",
+    "blog": "অন্তর্দৃষ্টি",
+    "contact": "আমাদের সাথে যোগাযোগ করুন",
+    "whatsapp": "WhatsApp",
+    "quote": "একটি উদ্ধৃতি পান",
+    "industries": "শিল্প",
+    "industriesDropdown": {
+      "dairymilkproducts": "দুগ্ধ ও দুগ্ধজাত পণ্য",
+      "meatseafood": "মাংস এবং সামুদ্রিক খাবার",
+      "winespirits": "ওয়াইন এবং স্পিরিটস",
+      "skincarecosmetics": "ত্বকের যত্ন এবং প্রসাধনী",
+      "petfood": "পোষা খাদ্য",
+      "healthsupplements": "স্বাস্থ্য সম্পূরক",
+      "babymaternal": "শিশু ও মাতৃত্ব",
+      "consumerelectronics": "কনজিউমার ইলেকট্রনিক্স",
+      "medicaldevices": "মেডিকেল ডিভাইস",
+      "crossborderecommerce": "আন্তঃসীমান্ত ই-কমার্স"
+    },
+    "search": "অনুসন্ধান করুন",
+    "freeCheck": "Free Check"
   }
 }

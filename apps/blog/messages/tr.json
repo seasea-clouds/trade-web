@@ -38,7 +38,22 @@
     "metaTitle": "Çin İthalat Uyumluluğu Blogu | GACC, CCC, NMPA Kılavuzları",
     "metaDescription": "Çin'in ithalat uyumluluğuna ilişkin uzman kılavuzları. GACC kayıt ipuçları, CCC sertifikasyon güncellemeleri, NMPA dosyalama haberleri, etiket uyumluluğu bilgileri. Haberdar olun.",
     "ctaDesc": "Ürünlerinize göre uyarlanmış ücretsiz bir uyumluluk değerlendirmesi alın.",
-    "ctaResponse": "Ücretsiz danışmanlık → 24 saat yanıt"
+    "ctaResponse": "Ücretsiz danışmanlık → 24 saat yanıt",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "İletişim",
@@ -84,5 +99,40 @@
     "industries": "Endüstriler",
     "packages": "Paketler",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Ana Sayfa",
+    "about": "Hakkında",
+    "services": "Hizmetler",
+    "servicesDropdown": {
+      "gacc": "GACC Gıda Kaydı",
+      "label": "Çin Etiket Uyumluluğu",
+      "ccc": "CCC Sertifikası",
+      "cosmetics": "Kozmetik Dosyalama (NMPA)",
+      "ecommerce": "Sınır ötesi E-ticaret",
+      "brand": "Marka Koruması"
+    },
+    "packages": "Paketler",
+    "faq": "FAQ",
+    "blog": "Analizler",
+    "contact": "Bize Ulaşın",
+    "whatsapp": "WhatsApp",
+    "quote": "Teklif Al",
+    "industries": "Endüstriler",
+    "industriesDropdown": {
+      "dairymilkproducts": "Süt ve Süt Ürünleri",
+      "meatseafood": "Et ve Deniz Ürünleri",
+      "winespirits": "Şarap ve Alkollü İçkiler",
+      "skincarecosmetics": "Cilt Bakımı ve Kozmetik",
+      "petfood": "Evcil Hayvan Yemi",
+      "healthsupplements": "Sağlık Takviyeleri",
+      "babymaternal": "Bebek ve Anne",
+      "consumerelectronics": "Tüketici Elektroniği",
+      "medicaldevices": "Tıbbi Cihazlar",
+      "crossborderecommerce": "Sınır ötesi E-ticaret"
+    },
+    "search": "Aramak",
+    "freeCheck": "Free Check"
   }
 }

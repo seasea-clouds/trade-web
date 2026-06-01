@@ -38,7 +38,22 @@
     "metaTitle": "وبلاگ مطابقت واردات چین | راهنمای GACC، CCC، NMPA",
     "metaDescription": "راهنمای تخصصی در مورد انطباق واردات چین. نکات ثبت GACC، به‌روزرسانی‌های گواهینامه CCC، اخبار بایگانی NMPA، بینش‌های مطابقت با برچسب. در جریان باشید.",
     "ctaDesc": "یک ارزیابی انطباق رایگان متناسب با محصولات خود دریافت کنید.",
-    "ctaResponse": "مشاوره رایگان → پاسخگویی 24 ساعته"
+    "ctaResponse": "مشاوره رایگان → پاسخگویی 24 ساعته",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "تماس",
@@ -84,5 +99,40 @@
     "industries": "صنایع",
     "packages": "بسته ها",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "صفحه اصلی",
+    "about": "درباره",
+    "services": "خدمات",
+    "servicesDropdown": {
+      "gacc": "ثبت غذای GACC",
+      "label": "مطابقت با برچسب چینی",
+      "ccc": "گواهی CCC",
+      "cosmetics": "بایگانی لوازم آرایشی و بهداشتی (NMPA)",
+      "ecommerce": "تجارت الکترونیک فرامرزی",
+      "brand": "حفاظت از برند"
+    },
+    "packages": "بسته ها",
+    "faq": "FAQ",
+    "blog": "بینش ها",
+    "contact": "تماس با ما",
+    "whatsapp": "WhatsApp",
+    "quote": "یک نقل قول دریافت کنید",
+    "industries": "صنایع",
+    "industriesDropdown": {
+      "dairymilkproducts": "لبنیات و لبنیات",
+      "meatseafood": "گوشت و غذاهای دریایی",
+      "winespirits": "شراب و ارواح",
+      "skincarecosmetics": "محصولات مراقبت از پوست و آرایشی",
+      "petfood": "غذای حیوانات خانگی",
+      "healthsupplements": "مکمل های بهداشتی",
+      "babymaternal": "نوزاد و مادر",
+      "consumerelectronics": "لوازم الکترونیکی مصرفی",
+      "medicaldevices": "تجهیزات پزشکی",
+      "crossborderecommerce": "تجارت الکترونیک فرامرزی"
+    },
+    "search": "جستجو کنید",
+    "freeCheck": "Free Check"
   }
 }

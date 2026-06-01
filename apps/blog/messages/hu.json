@@ -38,7 +38,22 @@
     "metaTitle": "Kínai import megfelelőségi blog | GACC, CCC, NMPA útmutatók",
     "metaDescription": "Szakértői útmutatók a kínai import megfelelőségéről. GACC regisztrációs tippek, CCC-tanúsítvány frissítések, NMPA bejelentési hírek, címkemegfelelőségi információk. Legyen tájékozott.",
     "ctaDesc": "Kérjen ingyenes megfelelőségi értékelést a termékeire szabva.",
-    "ctaResponse": "Ingyenes konzultáció → 24 órás válaszadás"
+    "ctaResponse": "Ingyenes konzultáció → 24 órás válaszadás",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Kapcsolat",
@@ -84,5 +99,40 @@
     "industries": "Iparágak",
     "packages": "Csomagok",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Kezdőlap",
+    "about": "Körülbelül",
+    "services": "Szolgáltatások",
+    "servicesDropdown": {
+      "gacc": "GACC élelmiszer regisztráció",
+      "label": "A kínai címkék megfelelősége",
+      "ccc": "CCC tanúsítás",
+      "cosmetics": "Kozmetikai reszelő (NMPA)",
+      "ecommerce": "Határokon átnyúló e-kereskedelem",
+      "brand": "Márkavédelem"
+    },
+    "packages": "Csomagok",
+    "faq": "FAQ",
+    "blog": "Insights",
+    "contact": "Lépjen kapcsolatba velünk",
+    "whatsapp": "WhatsApp",
+    "quote": "Kérjen árajánlatot",
+    "industries": "Iparágak",
+    "industriesDropdown": {
+      "dairymilkproducts": "Tej- és tejtermékek",
+      "meatseafood": "Hús és tenger gyümölcsei",
+      "winespirits": "Bor és szeszes italok",
+      "skincarecosmetics": "Bőrápolás és kozmetika",
+      "petfood": "Állateledel",
+      "healthsupplements": "Egészség-kiegészítők",
+      "babymaternal": "Baba és anya",
+      "consumerelectronics": "Szórakoztató elektronika",
+      "medicaldevices": "Orvosi eszközök",
+      "crossborderecommerce": "Határokon átnyúló e-kereskedelem"
+    },
+    "search": "Keresés",
+    "freeCheck": "Free Check"
   }
 }

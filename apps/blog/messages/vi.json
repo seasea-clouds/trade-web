@@ -38,7 +38,22 @@
     "metaTitle": "Blog tuân thủ nhập khẩu Trung Quốc | Hướng dẫn GACC, CCC, NMPA",
     "metaDescription": "Hướng dẫn của chuyên gia về tuân thủ nhập khẩu của Trung Quốc. Mẹo đăng ký GACC, cập nhật chứng nhận CCC, tin tức nộp hồ sơ NMPA, thông tin chi tiết về tuân thủ nhãn. Luôn cập nhật thông tin.",
     "ctaDesc": "Nhận đánh giá tuân thủ miễn phí phù hợp với sản phẩm của bạn.",
-    "ctaResponse": "Tư vấn miễn phí → phản hồi 24h"
+    "ctaResponse": "Tư vấn miễn phí → phản hồi 24h",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Liên hệ",
@@ -84,5 +99,40 @@
     "industries": "ngành công nghiệp",
     "packages": "Gói",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "services": "Dịch vụ",
+    "servicesDropdown": {
+      "gacc": "Đăng ký thực phẩm GACC",
+      "label": "Tuân thủ nhãn hiệu Trung Quốc",
+      "ccc": "Chứng nhận CCC",
+      "cosmetics": "Nộp hồ sơ mỹ phẩm (NMPA)",
+      "ecommerce": "Thương mại điện tử xuyên biên giới",
+      "brand": "Bảo vệ thương hiệu"
+    },
+    "packages": "Gói",
+    "faq": "FAQ",
+    "blog": "Thông tin chi tiết",
+    "contact": "Liên hệ với chúng tôi",
+    "whatsapp": "WhatsApp",
+    "quote": "Nhận báo giá",
+    "industries": "ngành công nghiệp",
+    "industriesDropdown": {
+      "dairymilkproducts": "Sữa & Sản phẩm Sữa",
+      "meatseafood": "Thịt & Hải Sản",
+      "winespirits": "Rượu & Rượu mạnh",
+      "skincarecosmetics": "Chăm sóc da & Mỹ phẩm",
+      "petfood": "Thức ăn cho thú cưng",
+      "healthsupplements": "Thực phẩm bổ sung sức khỏe",
+      "babymaternal": "Bé & Mẹ",
+      "consumerelectronics": "Điện tử tiêu dùng",
+      "medicaldevices": "Thiết bị y tế",
+      "crossborderecommerce": "Thương mại điện tử xuyên biên giới"
+    },
+    "search": "Tìm kiếm",
+    "freeCheck": "Free Check"
   }
 }

@@ -38,7 +38,22 @@
     "metaTitle": "चीन आयात अनुपालन ब्लग | GACC, CCC, NMPA गाइडहरू",
     "metaDescription": "चीन आयात अनुपालन मा विशेषज्ञ गाइड। GACC दर्ता सुझावहरू, CCC प्रमाणीकरण अद्यावधिकहरू, NMPA फाइलिङ समाचार, लेबल अनुपालन अन्तर्दृष्टिहरू। जानकारी रहनुहोस्।",
     "ctaDesc": "तपाइँको उत्पादनहरु को लागी एक नि: शुल्क अनुपालन मूल्याङ्कन प्राप्त गर्नुहोस्।",
-    "ctaResponse": "नि:शुल्क परामर्श → २४ घन्टा प्रतिक्रिया"
+    "ctaResponse": "नि:शुल्क परामर्श → २४ घन्टा प्रतिक्रिया",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "सम्पर्क",
@@ -84,5 +99,40 @@
     "industries": "उद्योगहरू",
     "packages": "प्याकेजहरू",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "गृहपृष्ठ",
+    "about": "हाम्रो बारेमा",
+    "services": "सेवाहरू",
+    "servicesDropdown": {
+      "gacc": "GACC खाद्य दर्ता",
+      "label": "चिनियाँ लेबल अनुपालन",
+      "ccc": "CCC प्रमाणीकरण",
+      "cosmetics": "कस्मेटिक्स फाइलिङ (NMPA)",
+      "ecommerce": "क्रस-बोर्डर ई-वाणिज्य",
+      "brand": "ब्रान्ड संरक्षण"
+    },
+    "packages": "प्याकेजहरू",
+    "faq": "FAQ",
+    "blog": "अन्तर्दृष्टिहरू",
+    "contact": "हामीलाई सम्पर्क गर्नुहोस्",
+    "whatsapp": "WhatsApp",
+    "quote": "उद्धरण प्राप्त गर्नुहोस्",
+    "industries": "उद्योगहरू",
+    "industriesDropdown": {
+      "dairymilkproducts": "डेयरी र दूध उत्पादनहरू",
+      "meatseafood": "मासु र समुद्री खाना",
+      "winespirits": "वाइन र स्पिरिट्स",
+      "skincarecosmetics": "छाला हेरचाह र सौन्दर्य प्रसाधन",
+      "petfood": "घरपालुवा जनावर खाना",
+      "healthsupplements": "स्वास्थ्य पूरक",
+      "babymaternal": "बच्चा र मातृ",
+      "consumerelectronics": "उपभोक्ता इलेक्ट्रोनिक्स",
+      "medicaldevices": "चिकित्सा उपकरणहरू",
+      "crossborderecommerce": "क्रस-बोर्डर ई-वाणिज्य"
+    },
+    "search": "खोज्नुहोस्",
+    "freeCheck": "Free Check"
   }
 }

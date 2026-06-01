@@ -38,7 +38,22 @@
     "metaTitle": "בלוג תאימות לייבוא ​​סין | מדריכי GACC, CCC, NMPA",
     "metaDescription": "מדריכים מומחים בנושא תאימות לייבוא ​​סין. טיפים לרישום GACC, עדכוני אישורי CCC, חדשות הגשת NMPA, תובנות תאימות לתווית. הישאר מעודכן.",
     "ctaDesc": "קבל הערכת תאימות בחינם המותאמת למוצרים שלך.",
-    "ctaResponse": "ייעוץ חינם → מענה 24 שעות"
+    "ctaResponse": "ייעוץ חינם → מענה 24 שעות",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "צור קשר",
@@ -84,5 +99,40 @@
     "industries": "תעשיות",
     "packages": "חבילות",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "בַּיִת",
+    "about": "אוֹדוֹת",
+    "services": "שירותים",
+    "servicesDropdown": {
+      "gacc": "רישום מזון GACC",
+      "label": "תאימות לתווית סינית",
+      "ccc": "אישור CCC",
+      "cosmetics": "הגשת קוסמטיקה (NMPA)",
+      "ecommerce": "מסחר אלקטרוני חוצה גבולות",
+      "brand": "הגנת מותג"
+    },
+    "packages": "חבילות",
+    "faq": "FAQ",
+    "blog": "תובנות",
+    "contact": "צור קשר",
+    "whatsapp": "WhatsApp",
+    "quote": "קבל הצעת מחיר",
+    "industries": "תעשיות",
+    "industriesDropdown": {
+      "dairymilkproducts": "מוצרי חלב וחלב",
+      "meatseafood": "בשר ופירות ים",
+      "winespirits": "יין ומשקאות חריפים",
+      "skincarecosmetics": "טיפוח עור וקוסמטיקה",
+      "petfood": "מזון לחיות מחמד",
+      "healthsupplements": "תוספי בריאות",
+      "babymaternal": "תינוק ואמהי",
+      "consumerelectronics": "מוצרי צריכה",
+      "medicaldevices": "מכשירים רפואיים",
+      "crossborderecommerce": "מסחר אלקטרוני חוצה גבולות"
+    },
+    "search": "לְחַפֵּשׂ",
+    "freeCheck": "Free Check"
   }
 }

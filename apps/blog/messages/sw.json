@@ -38,7 +38,22 @@
     "metaTitle": "Blogu ya Uzingatiaji Uagizaji wa China | Miongozo ya GACC, CCC, NMPA",
     "metaDescription": "Miongozo ya kitaalam juu ya kufuata Uchina kutoka nje. Vidokezo vya usajili wa GACC, masasisho ya uidhinishaji wa CCC, habari za uwekaji faili za NMPA, maarifa ya kufuata lebo. Endelea kufahamishwa.",
     "ctaDesc": "Pata tathmini ya kufuata bila malipo iliyoundwa kulingana na bidhaa zako.",
-    "ctaResponse": "Ushauri wa bila malipo → jibu la saa 24"
+    "ctaResponse": "Ushauri wa bila malipo → jibu la saa 24",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Wasiliana",
@@ -84,5 +99,40 @@
     "industries": "Viwanda",
     "packages": "Vifurushi",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Nyumbani",
+    "about": "Kuhusu",
+    "services": "Huduma",
+    "servicesDropdown": {
+      "gacc": "Usajili wa Chakula wa GACC",
+      "label": "Uzingatiaji wa Lebo ya Kichina",
+      "ccc": "Cheti cha CCC",
+      "cosmetics": "Ujazaji wa Vipodozi (NMPA)",
+      "ecommerce": "Biashara ya kielektroniki ya mpakani",
+      "brand": "Ulinzi wa Biashara"
+    },
+    "packages": "Vifurushi",
+    "faq": "FAQ",
+    "blog": "Maarifa",
+    "contact": "Wasiliana Nasi",
+    "whatsapp": "WhatsApp",
+    "quote": "Pata Nukuu",
+    "industries": "Viwanda",
+    "industriesDropdown": {
+      "dairymilkproducts": "Bidhaa za Maziwa na Maziwa",
+      "meatseafood": "Nyama na Dagaa",
+      "winespirits": "Mvinyo na Viroho",
+      "skincarecosmetics": "Utunzaji wa Ngozi na Vipodozi",
+      "petfood": "Chakula cha Kipenzi",
+      "healthsupplements": "Virutubisho vya Afya",
+      "babymaternal": "Mtoto & Mama",
+      "consumerelectronics": "Elektroniki za Watumiaji",
+      "medicaldevices": "Vifaa vya Matibabu",
+      "crossborderecommerce": "Biashara ya kielektroniki ya mpakani"
+    },
+    "search": "Tafuta",
+    "freeCheck": "Free Check"
   }
 }

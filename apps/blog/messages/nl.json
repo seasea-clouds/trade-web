@@ -38,7 +38,22 @@
     "metaTitle": "Blog over importnaleving in China | GACC-, CCC-, NMPA-gidsen",
     "metaDescription": "Deskundige gidsen over de naleving van de importwetgeving in China. GACC-registratietips, CCC-certificeringsupdates, NMPA-nieuws over indiening, inzichten in etiketnaleving. Blijf op de hoogte.",
     "ctaDesc": "Ontvang een gratis nalevingsbeoordeling op maat van uw producten.",
-    "ctaResponse": "Gratis advies → 24-uurs reactie"
+    "ctaResponse": "Gratis advies → 24-uurs reactie",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Contact",
@@ -84,5 +99,40 @@
     "industries": "Industrieën",
     "packages": "Pakketten",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Thuis",
+    "about": "Over",
+    "services": "Diensten",
+    "servicesDropdown": {
+      "gacc": "GACC-voedselregistratie",
+      "label": "Naleving van Chinese labels",
+      "ccc": "CCC-certificering",
+      "cosmetics": "Cosmetica-aanvraag (NMPA)",
+      "ecommerce": "Grensoverschrijdende e-commerce",
+      "brand": "Merkbescherming"
+    },
+    "packages": "Pakketten",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "contact": "Neem contact met ons op",
+    "whatsapp": "WhatsApp",
+    "quote": "Ontvang een offerte",
+    "industries": "Industrieën",
+    "industriesDropdown": {
+      "dairymilkproducts": "Zuivel- en melkproducten",
+      "meatseafood": "Vlees en zeevruchten",
+      "winespirits": "Wijn en sterke drank",
+      "skincarecosmetics": "Huidverzorging en cosmetica",
+      "petfood": "Voedsel voor huisdieren",
+      "healthsupplements": "Gezondheidssupplementen",
+      "babymaternal": "Baby en moeder",
+      "consumerelectronics": "Consumentenelektronica",
+      "medicaldevices": "Medische apparaten",
+      "crossborderecommerce": "Grensoverschrijdende e-commerce"
+    },
+    "search": "Zoekopdracht",
+    "freeCheck": "Free Check"
   }
 }

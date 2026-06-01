@@ -38,7 +38,22 @@
     "metaTitle": "Blogul privind conformitatea importurilor din China | Ghiduri GACC, CCC, NMPA",
     "metaDescription": "Ghiduri experți privind conformitatea importurilor din China. Sfaturi de înregistrare GACC, actualizări de certificare CCC, știri despre depunerea NMPA, informații despre conformitatea etichetelor. Rămâneți informat.",
     "ctaDesc": "Obțineți o evaluare gratuită a conformității, adaptată produselor dvs.",
-    "ctaResponse": "Consultație gratuită → Răspuns 24 de ore"
+    "ctaResponse": "Consultație gratuită → Răspuns 24 de ore",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Contact",
@@ -84,5 +99,40 @@
     "industries": "Industrii",
     "packages": "Pachete",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Acasă",
+    "about": "Despre",
+    "services": "Servicii",
+    "servicesDropdown": {
+      "gacc": "Înregistrarea alimentelor GACC",
+      "label": "Conformitatea etichetei chinezești",
+      "ccc": "Certificare CCC",
+      "cosmetics": "Depunerea produselor cosmetice (NMPA)",
+      "ecommerce": "Comerț electronic transfrontalier",
+      "brand": "Protecția mărcii"
+    },
+    "packages": "Pachete",
+    "faq": "FAQ",
+    "blog": "Perspective",
+    "contact": "Contactaţi-ne",
+    "whatsapp": "WhatsApp",
+    "quote": "Obțineți o cotație",
+    "industries": "Industrii",
+    "industriesDropdown": {
+      "dairymilkproducts": "Lactate și produse din lapte",
+      "meatseafood": "Carne și fructe de mare",
+      "winespirits": "Vin și băuturi spirtoase",
+      "skincarecosmetics": "Îngrijirea pielii și cosmetice",
+      "petfood": "Hrana pentru animale de companie",
+      "healthsupplements": "Suplimente pentru sănătate",
+      "babymaternal": "Bebeluş și mamă",
+      "consumerelectronics": "Electronice de larg consum",
+      "medicaldevices": "Dispozitive medicale",
+      "crossborderecommerce": "Comerț electronic transfrontalier"
+    },
+    "search": "Căutare",
+    "freeCheck": "Free Check"
   }
 }

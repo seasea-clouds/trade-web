@@ -38,7 +38,22 @@
     "metaTitle": "Блог о усклађености увоза у Кини | ГАЦЦ, ЦЦЦ, НМПА водичи",
     "metaDescription": "Стручни водичи о усклађености увоза из Кине. ГАЦЦ савети за регистрацију, ажурирања ЦЦЦ сертификата, вести о НМПА пријавама, увид у усклађеност етикета. Будите информисани.",
     "ctaDesc": "Добијте бесплатну процену усклађености прилагођену вашим производима.",
-    "ctaResponse": "Бесплатне консултације → 24х одговор"
+    "ctaResponse": "Бесплатне консултације → 24х одговор",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Контакт",
@@ -84,5 +99,40 @@
     "industries": "Индустриес",
     "packages": "Пакети",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Хоме",
+    "about": "Абоут",
+    "services": "Услуге",
+    "servicesDropdown": {
+      "gacc": "ГАЦЦ регистрација хране",
+      "label": "Усклађеност са кинеским ознакама",
+      "ccc": "ЦЦЦ сертификат",
+      "cosmetics": "Пријава козметике (НМПА)",
+      "ecommerce": "Прекогранична е-трговина",
+      "brand": "Заштита бренда"
+    },
+    "packages": "Пакети",
+    "faq": "FAQ",
+    "blog": "Инсигхтс",
+    "contact": "Контактирајте нас",
+    "whatsapp": "WhatsApp",
+    "quote": "Затражите понуду",
+    "industries": "Индустриес",
+    "industriesDropdown": {
+      "dairymilkproducts": "Млечни и млечни производи",
+      "meatseafood": "Месо и морски плодови",
+      "winespirits": "Вино и алкохолна пића",
+      "skincarecosmetics": "Нега коже и козметика",
+      "petfood": "Храна за кућне љубимце",
+      "healthsupplements": "Здравствени додаци",
+      "babymaternal": "Баби & Матернал",
+      "consumerelectronics": "Цонсумер Елецтроницс",
+      "medicaldevices": "Медицински уређаји",
+      "crossborderecommerce": "Прекогранична е-трговина"
+    },
+    "search": "Тражи",
+    "freeCheck": "Free Check"
   }
 }

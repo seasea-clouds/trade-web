@@ -38,7 +38,22 @@
     "metaTitle": "Չինաստանի ներմուծման համապատասխանության բլոգ | GACC, CCC, NMPA ուղեցույցներ",
     "metaDescription": "Փորձագիտական ​​ուղեցույցներ Չինաստանի ներմուծման համապատասխանության վերաբերյալ: GACC գրանցման խորհուրդներ, CCC հավաստագրման թարմացումներ, NMPA-ի ներկայացման նորություններ, պիտակների համապատասխանության պատկերացումներ: Եղեք տեղեկացված:",
     "ctaDesc": "Ստացեք անվճար համապատասխանության գնահատում, որը հարմարեցված է ձեր արտադրանքին:",
-    "ctaResponse": "Անվճար խորհրդատվություն → 24 ժամ պատասխան"
+    "ctaResponse": "Անվճար խորհրդատվություն → 24 ժամ պատասխան",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Կապ",
@@ -84,5 +99,40 @@
     "industries": "Արդյունաբերություններ",
     "packages": "Փաթեթներ",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Տուն",
+    "about": "Մոտ",
+    "services": "Ծառայություններ",
+    "servicesDropdown": {
+      "gacc": "GACC սննդի գրանցում",
+      "label": "Չինական պիտակի համապատասխանություն",
+      "ccc": "CCC սերտիֆիկացում",
+      "cosmetics": "Կոսմետիկայի ներկայացում (NMPA)",
+      "ecommerce": "Անդրսահմանային էլեկտրոնային առևտուր",
+      "brand": "Ապրանքանիշի պաշտպանություն"
+    },
+    "packages": "Փաթեթներ",
+    "faq": "FAQ",
+    "blog": "Խորաթափանցություն",
+    "contact": "Կապ մեզ հետ",
+    "whatsapp": "WhatsApp",
+    "quote": "Ստացեք մեջբերում",
+    "industries": "Արդյունաբերություններ",
+    "industriesDropdown": {
+      "dairymilkproducts": "Կաթնամթերք և կաթնամթերք",
+      "meatseafood": "Միս և ծովամթերք",
+      "winespirits": "Գինի և ոգելից խմիչքներ",
+      "skincarecosmetics": "Մաշկի խնամք և կոսմետիկա",
+      "petfood": "Կենդանիների սնունդ",
+      "healthsupplements": "Առողջության հավելումներ",
+      "babymaternal": "Մանկական և մայրական",
+      "consumerelectronics": "Սպառողական էլեկտրոնիկա",
+      "medicaldevices": "Բժշկական սարքեր",
+      "crossborderecommerce": "Անդրսահմանային էլեկտրոնային առևտուր"
+    },
+    "search": "Որոնում",
+    "freeCheck": "Free Check"
   }
 }

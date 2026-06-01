@@ -38,7 +38,22 @@
     "metaTitle": "China-Import-Compliance-Blog | GACC-, CCC- und NMPA-Leitfäden",
     "metaDescription": "Expertenratgeber zur Einhaltung der Importvorschriften für China. GACC-Registrierungstipps, CCC-Zertifizierungsaktualisierungen, NMPA-Anmeldenachrichten, Einblicke in die Etikettenkonformität. Bleiben Sie informiert.",
     "ctaDesc": "Erhalten Sie eine kostenlose, auf Ihre Produkte zugeschnittene Compliance-Bewertung.",
-    "ctaResponse": "Kostenlose Beratung → 24h-Antwort"
+    "ctaResponse": "Kostenlose Beratung → 24h-Antwort",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Kontakt",
@@ -84,5 +99,40 @@
     "industries": "Branchen",
     "packages": "Pakete",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Heim",
+    "about": "Über",
+    "services": "Dienstleistungen",
+    "servicesDropdown": {
+      "gacc": "GACC-Lebensmittelregistrierung",
+      "label": "Einhaltung chinesischer Etiketten",
+      "ccc": "CCC-Zertifizierung",
+      "cosmetics": "Einreichung von Kosmetika (NMPA)",
+      "ecommerce": "Grenzüberschreitender E-Commerce",
+      "brand": "Markenschutz"
+    },
+    "packages": "Pakete",
+    "faq": "FAQ",
+    "blog": "Einblicke",
+    "contact": "Kontaktieren Sie uns",
+    "whatsapp": "WhatsApp",
+    "quote": "Holen Sie sich ein Angebot",
+    "industries": "Branchen",
+    "industriesDropdown": {
+      "dairymilkproducts": "Milch- und Milchprodukte",
+      "meatseafood": "Fleisch und Meeresfrüchte",
+      "winespirits": "Wein und Spirituosen",
+      "skincarecosmetics": "Hautpflege und Kosmetik",
+      "petfood": "Tiernahrung",
+      "healthsupplements": "Gesundheitszusätze",
+      "babymaternal": "Baby & Mutter",
+      "consumerelectronics": "Unterhaltungselektronik",
+      "medicaldevices": "Medizinische Geräte",
+      "crossborderecommerce": "Grenzüberschreitender E-Commerce"
+    },
+    "search": "Suchen",
+    "freeCheck": "Free Check"
   }
 }

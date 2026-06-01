@@ -38,7 +38,22 @@
     "metaTitle": "Блог за спазване на правилата за внос в Китай | Ръководства на GACC, CCC, NMPA",
     "metaDescription": "Експертни ръководства за спазване на изискванията за внос в Китай. Съвети за регистрация в GACC, актуализации на CCC сертифициране, новини за подаване на NMPA, информация за съответствието на етикетите. Бъдете информирани.",
     "ctaDesc": "Получете безплатна оценка за съответствие, съобразена с вашите продукти.",
-    "ctaResponse": "Безплатна консултация → 24ч отговор"
+    "ctaResponse": "Безплатна консултация → 24ч отговор",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Контакт",
@@ -84,5 +99,40 @@
     "industries": "Индустрии",
     "packages": "Пакети",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Начало",
+    "about": "За нас",
+    "services": "Услуги",
+    "servicesDropdown": {
+      "gacc": "GACC регистрация на храни",
+      "label": "Съответствие на китайския етикет",
+      "ccc": "CCC Сертификация",
+      "cosmetics": "Картотека за козметика (NMPA)",
+      "ecommerce": "Трансгранична електронна търговия",
+      "brand": "Защита на марката"
+    },
+    "packages": "Пакети",
+    "faq": "FAQ",
+    "blog": "Прозрения",
+    "contact": "Свържете се с нас",
+    "whatsapp": "WhatsApp",
+    "quote": "Получете оферта",
+    "industries": "Индустрии",
+    "industriesDropdown": {
+      "dairymilkproducts": "Млечни и млечни продукти",
+      "meatseafood": "Месо и морски дарове",
+      "winespirits": "Вино и спиртни напитки",
+      "skincarecosmetics": "Грижа за кожата и козметика",
+      "petfood": "Храна за домашни любимци",
+      "healthsupplements": "Здравни добавки",
+      "babymaternal": "Бебе и майка",
+      "consumerelectronics": "Потребителска електроника",
+      "medicaldevices": "Медицински изделия",
+      "crossborderecommerce": "Трансгранична електронна търговия"
+    },
+    "search": "Търсене",
+    "freeCheck": "Free Check"
   }
 }

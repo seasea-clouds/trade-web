@@ -38,7 +38,22 @@
     "metaTitle": "Blog o usklađenosti uvoza iz Kine | GACC, CCC, NMPA vodiči",
     "metaDescription": "Stručni vodiči o usklađenosti uvoza u Kinu. GACC savjeti za registraciju, ažuriranja CCC certifikata, novosti o podnošenju NMPA, uvidi u usklađenost naljepnica. Budite informirani.",
     "ctaDesc": "Dobijte besplatnu procjenu usklađenosti prilagođenu vašim proizvodima.",
-    "ctaResponse": "Besplatne konzultacije → odgovor 24h"
+    "ctaResponse": "Besplatne konzultacije → odgovor 24h",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Kontakt",
@@ -84,5 +99,40 @@
     "industries": "Industrije",
     "packages": "Paketi",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Početna",
+    "about": "Oko",
+    "services": "Usluge",
+    "servicesDropdown": {
+      "gacc": "GACC Registracija hrane",
+      "label": "Sukladnost kineskih oznaka",
+      "ccc": "CCC certifikat",
+      "cosmetics": "Kozmetička dokumentacija (NMPA)",
+      "ecommerce": "Prekogranična e-trgovina",
+      "brand": "Zaštita marke"
+    },
+    "packages": "Paketi",
+    "faq": "FAQ",
+    "blog": "Uvidi",
+    "contact": "Kontaktirajte nas",
+    "whatsapp": "WhatsApp",
+    "quote": "Zatražite ponudu",
+    "industries": "Industrije",
+    "industriesDropdown": {
+      "dairymilkproducts": "Mliječni i mliječni proizvodi",
+      "meatseafood": "Meso i morski plodovi",
+      "winespirits": "Vino i alkoholna pića",
+      "skincarecosmetics": "Njega kože i kozmetika",
+      "petfood": "Hrana za kućne ljubimce",
+      "healthsupplements": "Zdravstveni dodaci",
+      "babymaternal": "Beba i majka",
+      "consumerelectronics": "Potrošačka elektronika",
+      "medicaldevices": "Medicinski uređaji",
+      "crossborderecommerce": "Prekogranična e-trgovina"
+    },
+    "search": "Pretraživanje",
+    "freeCheck": "Free Check"
   }
 }

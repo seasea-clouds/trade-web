@@ -38,7 +38,22 @@
     "metaTitle": "Ιστολόγιο Συμμόρφωσης Εισαγωγών Κίνας | Οδηγοί GACC, CCC, NMPA",
     "metaDescription": "Οδηγοί ειδικών σχετικά με τη συμμόρφωση με τις εισαγωγές από την Κίνα. Συμβουλές εγγραφής GACC, ενημερώσεις πιστοποίησης CCC, ειδήσεις αρχειοθέτησης NMPA, πληροφορίες συμμόρφωσης με τις ετικέτες. Μείνετε ενημερωμένοι.",
     "ctaDesc": "Λάβετε δωρεάν αξιολόγηση συμμόρφωσης προσαρμοσμένη στα προϊόντα σας.",
-    "ctaResponse": "Δωρεάν διαβούλευση → 24ωρη απάντηση"
+    "ctaResponse": "Δωρεάν διαβούλευση → 24ωρη απάντηση",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Επικοινωνία",
@@ -84,5 +99,40 @@
     "industries": "Βιομηχανίες",
     "packages": "Πακέτα",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Σπίτι",
+    "about": "Για",
+    "services": "Υπηρεσίες",
+    "servicesDropdown": {
+      "gacc": "Εγγραφή Τροφίμων GACC",
+      "label": "Συμμόρφωση με την κινεζική ετικέτα",
+      "ccc": "Πιστοποίηση CCC",
+      "cosmetics": "Αρχειοθέτηση καλλυντικών (NMPA)",
+      "ecommerce": "Διασυνοριακό ηλεκτρονικό εμπόριο",
+      "brand": "Προστασία της επωνυμίας"
+    },
+    "packages": "Πακέτα",
+    "faq": "FAQ",
+    "blog": "Insights",
+    "contact": "Επικοινωνήστε μαζί μας",
+    "whatsapp": "WhatsApp",
+    "quote": "Λάβετε μια προσφορά",
+    "industries": "Βιομηχανίες",
+    "industriesDropdown": {
+      "dairymilkproducts": "Γαλακτοκομικά & Γαλακτοκομικά Προϊόντα",
+      "meatseafood": "Κρέας & Θαλασσινά",
+      "winespirits": "Οίνος και οινοπνευματώδη ποτά",
+      "skincarecosmetics": "Περιποίηση δέρματος & Καλλυντικά",
+      "petfood": "Τροφή για κατοικίδια",
+      "healthsupplements": "Συμπληρώματα Υγείας",
+      "babymaternal": "Μωρό & Μητρικό",
+      "consumerelectronics": "Καταναλωτικά Ηλεκτρονικά",
+      "medicaldevices": "Ιατρικές συσκευές",
+      "crossborderecommerce": "Διασυνοριακό ηλεκτρονικό εμπόριο"
+    },
+    "search": "Ερευνα",
+    "freeCheck": "Free Check"
   }
 }

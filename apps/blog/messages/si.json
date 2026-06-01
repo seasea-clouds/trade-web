@@ -38,7 +38,22 @@
     "metaTitle": "චීන ආනයන අනුකූලතා බ්ලොග් | GACC, CCC, NMPA මාර්ගෝපදේශ",
     "metaDescription": "චීනය ආනයන අනුකූලතාවය පිළිබඳ විශේෂඥ මාර්ගෝපදේශ. GACC ලියාපදිංචි ඉඟි, CCC සහතික කිරීමේ යාවත්කාලීන, NMPA ගොනු කිරීමේ පුවත්, ලේබල් අනුකූලතා විදසුන්. දැනුවත්ව සිටින්න.",
     "ctaDesc": "ඔබගේ නිෂ්පාදන වලට ගැලපෙන අනුකූලතා තක්සේරුවක් නොමිලේ ලබා ගන්න.",
-    "ctaResponse": "නොමිලේ උපදේශනය → පැය 24 ප්‍රතිචාරය"
+    "ctaResponse": "නොමිලේ උපදේශනය → පැය 24 ප්‍රතිචාරය",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "සම්බන්ධ වන්න",
@@ -84,5 +99,40 @@
     "industries": "කර්මාන්ත",
     "packages": "පැකේජ",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "මුල් පිටුව",
+    "about": "ගැන",
+    "services": "සේවා",
+    "servicesDropdown": {
+      "gacc": "GACC ආහාර ලියාපදිංචි කිරීම",
+      "label": "චීන ලේබල් අනුකූලතාව",
+      "ccc": "CCC සහතිකය",
+      "cosmetics": "විලවුන් ගොනු කිරීම (NMPA)",
+      "ecommerce": "දේශසීමා හරහා ඊ-වාණිජ්‍ය",
+      "brand": "වෙළඳ නාම ආරක්ෂණය"
+    },
+    "packages": "පැකේජ",
+    "faq": "FAQ",
+    "blog": "තීක්ෂ්ණ බුද්ධිය",
+    "contact": "අපව අමතන්න",
+    "whatsapp": "WhatsApp",
+    "quote": "උපුටා ගැනීමක් ලබා ගන්න",
+    "industries": "කර්මාන්ත",
+    "industriesDropdown": {
+      "dairymilkproducts": "කිරි සහ කිරි නිෂ්පාදන",
+      "meatseafood": "මස් සහ මුහුදු ආහාර",
+      "winespirits": "වයින් සහ ස්ප්රීතු",
+      "skincarecosmetics": "සම රැකවරණය සහ ආලේපන",
+      "petfood": "සුරතල් ආහාර",
+      "healthsupplements": "සෞඛ්ය අතිරේක",
+      "babymaternal": "ළදරු සහ මාතෘ",
+      "consumerelectronics": "පාරිභෝගික ඉලෙක්ට්රොනික උපකරණ",
+      "medicaldevices": "වෛද්ය උපකරණ",
+      "crossborderecommerce": "දේශසීමා හරහා ඊ-වාණිජ්‍ය"
+    },
+    "search": "සොයන්න",
+    "freeCheck": "Free Check"
   }
 }

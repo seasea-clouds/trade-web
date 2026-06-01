@@ -38,7 +38,22 @@
     "metaTitle": "Blog Pematuhan Import China | Panduan GACC, CCC, NMPA",
     "metaDescription": "Panduan pakar tentang pematuhan import China. Petua pendaftaran GACC, kemas kini pensijilan CCC, berita pemfailan NMPA, cerapan pematuhan label. Kekal dimaklumkan.",
     "ctaDesc": "Dapatkan penilaian pematuhan percuma yang disesuaikan dengan produk anda.",
-    "ctaResponse": "Konsultasi percuma → Respons 24 jam"
+    "ctaResponse": "Konsultasi percuma → Respons 24 jam",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Hubungi",
@@ -84,5 +99,40 @@
     "industries": "industri",
     "packages": "Pakej",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Rumah",
+    "about": "Tentang",
+    "services": "Perkhidmatan",
+    "servicesDropdown": {
+      "gacc": "Pendaftaran Makanan GACC",
+      "label": "Pematuhan Label Cina",
+      "ccc": "Pensijilan CCC",
+      "cosmetics": "Pemfailan Kosmetik (NMPA)",
+      "ecommerce": "E-dagang rentas sempadan",
+      "brand": "Perlindungan Jenama"
+    },
+    "packages": "Pakej",
+    "faq": "FAQ",
+    "blog": "Wawasan",
+    "contact": "Hubungi Kami",
+    "whatsapp": "WhatsApp",
+    "quote": "Dapatkan Sebut Harga",
+    "industries": "industri",
+    "industriesDropdown": {
+      "dairymilkproducts": "Produk tenusu & Susu",
+      "meatseafood": "Daging & Makanan Laut",
+      "winespirits": "Wain & Spirits",
+      "skincarecosmetics": "Penjagaan kulit & Kosmetik",
+      "petfood": "Makanan Haiwan Kesayangan",
+      "healthsupplements": "Makanan Tambahan Kesihatan",
+      "babymaternal": "Bayi & Ibu",
+      "consumerelectronics": "Elektronik Pengguna",
+      "medicaldevices": "Peranti Perubatan",
+      "crossborderecommerce": "E-dagang rentas sempadan"
+    },
+    "search": "Cari",
+    "freeCheck": "Free Check"
   }
 }

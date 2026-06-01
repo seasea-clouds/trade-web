@@ -38,7 +38,22 @@
     "metaTitle": "ჩინეთის იმპორტის შესაბამისობის ბლოგი | GACC, CCC, NMPA გიდები",
     "metaDescription": "საექსპერტო სახელმძღვანელოები ჩინეთის იმპორტის შესაბამისობის შესახებ. GACC რეგისტრაციის რჩევები, CCC სერთიფიკატის განახლებები, NMPA შეტანის სიახლეები, ეტიკეტების შესაბამისობის ანალიზი. იყავი ინფორმირებული.",
     "ctaDesc": "მიიღეთ უფასო შესაბამისობის შეფასება თქვენს პროდუქტებზე მორგებული.",
-    "ctaResponse": "უფასო კონსულტაცია → 24 საათიანი პასუხი"
+    "ctaResponse": "უფასო კონსულტაცია → 24 საათიანი პასუხი",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "კონტაქტი",
@@ -84,5 +99,40 @@
     "industries": "ინდუსტრიები",
     "packages": "პაკეტები",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "მთავარი",
+    "about": "შესახებ",
+    "services": "სერვისები",
+    "servicesDropdown": {
+      "gacc": "GACC სურსათის რეგისტრაცია",
+      "label": "ჩინური ეტიკეტების შესაბამისობა",
+      "ccc": "CCC სერთიფიკატი",
+      "cosmetics": "კოსმეტიკის შევსება (NMPA)",
+      "ecommerce": "ტრანსსასაზღვრო ელექტრონული კომერცია",
+      "brand": "ბრენდის დაცვა"
+    },
+    "packages": "პაკეტები",
+    "faq": "FAQ",
+    "blog": "ბლოგი",
+    "contact": "დაგვიკავშირდით",
+    "whatsapp": "WhatsApp",
+    "quote": "მიიღეთ ციტატა",
+    "industries": "ინდუსტრიები",
+    "industriesDropdown": {
+      "dairymilkproducts": "რძის და რძის პროდუქტები",
+      "meatseafood": "ხორცი და ზღვის პროდუქტები",
+      "winespirits": "ღვინო და ალკოჰოლური სასმელები",
+      "skincarecosmetics": "კანის მოვლის საშუალებები და კოსმეტიკა",
+      "petfood": "შინაური ცხოველების საკვები",
+      "healthsupplements": "ჯანმრთელობის დანამატები",
+      "babymaternal": "ბავშვი და დედა",
+      "consumerelectronics": "სამომხმარებლო ელექტრონიკა",
+      "medicaldevices": "სამედიცინო მოწყობილობები",
+      "crossborderecommerce": "ტრანსსასაზღვრო ელექტრონული კომერცია"
+    },
+    "search": "ძიება",
+    "freeCheck": "Free Check"
   }
 }

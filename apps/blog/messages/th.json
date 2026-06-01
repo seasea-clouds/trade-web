@@ -38,7 +38,22 @@
     "metaTitle": "บล็อกการปฏิบัติตามกฎระเบียบการนำเข้าของจีน | คำแนะนำ GACC, CCC, NMPA",
     "metaDescription": "คำแนะนำจากผู้เชี่ยวชาญเกี่ยวกับการปฏิบัติตามกฎระเบียบการนำเข้าของจีน เคล็ดลับในการลงทะเบียน GACC, การอัปเดตการรับรอง CCC, ข่าวการยื่น NMPA, ข้อมูลเชิงลึกเกี่ยวกับการปฏิบัติตามข้อกำหนดของฉลาก รับทราบข้อมูลอยู่เสมอ",
     "ctaDesc": "รับการประเมินการปฏิบัติตามข้อกำหนดที่ปรับให้เหมาะกับผลิตภัณฑ์ของคุณฟรี",
-    "ctaResponse": "ให้คำปรึกษาฟรี → ตอบกลับตลอด 24 ชั่วโมง"
+    "ctaResponse": "ให้คำปรึกษาฟรี → ตอบกลับตลอด 24 ชั่วโมง",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "ติดต่อ",
@@ -84,5 +99,40 @@
     "industries": "อุตสาหกรรม",
     "packages": "แพ็คเกจ",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "บ้าน",
+    "about": "เกี่ยวกับ",
+    "services": "บริการ",
+    "servicesDropdown": {
+      "gacc": "การลงทะเบียนอาหาร GACC",
+      "label": "การปฏิบัติตามฉลากภาษาจีน",
+      "ccc": "การรับรองซีซีซี",
+      "cosmetics": "การยื่นแบบเครื่องสำอาง (NMPA)",
+      "ecommerce": "อีคอมเมิร์ซข้ามพรมแดน",
+      "brand": "การคุ้มครองแบรนด์"
+    },
+    "packages": "แพ็คเกจ",
+    "faq": "FAQ",
+    "blog": "ข้อมูลเชิงลึก",
+    "contact": "ติดต่อเรา",
+    "whatsapp": "WhatsApp",
+    "quote": "รับใบเสนอราคา",
+    "industries": "อุตสาหกรรม",
+    "industriesDropdown": {
+      "dairymilkproducts": "ผลิตภัณฑ์นมและผลิตภัณฑ์นม",
+      "meatseafood": "เนื้อสัตว์และอาหารทะเล",
+      "winespirits": "ไวน์และสุรา",
+      "skincarecosmetics": "ผลิตภัณฑ์ดูแลผิวและเครื่องสำอาง",
+      "petfood": "อาหารสัตว์เลี้ยง",
+      "healthsupplements": "อาหารเสริมเพื่อสุขภาพ",
+      "babymaternal": "แม่และเด็ก",
+      "consumerelectronics": "เครื่องใช้ไฟฟ้า",
+      "medicaldevices": "อุปกรณ์การแพทย์",
+      "crossborderecommerce": "อีคอมเมิร์ซข้ามพรมแดน"
+    },
+    "search": "ค้นหา",
+    "freeCheck": "Free Check"
   }
 }

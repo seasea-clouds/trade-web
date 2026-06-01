@@ -38,7 +38,22 @@
     "metaTitle": "Блог аб адпаведнасці імпарту Кітая | Кіраўніцтва GACC, CCC, NMPA",
     "metaDescription": "Экспертныя даведнікі па адпаведнасці імпарту ў Кітай. Парады па рэгістрацыі GACC, абнаўленні сертыфікацыі CCC, навіны аб падачы заявак NMPA, інфармацыя аб адпаведнасці этыкетак. Будзьце ў курсе.",
     "ctaDesc": "Атрымайце бясплатную ацэнку адпаведнасці вашай прадукцыі.",
-    "ctaResponse": "Бясплатная кансультацыя → адказ 24 гадзіны"
+    "ctaResponse": "Бясплатная кансультацыя → адказ 24 гадзіны",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "Кантакт",
@@ -84,5 +99,40 @@
     "industries": "галін прамысловасці",
     "packages": "Пакеты",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "Галоўная",
+    "about": "Пра нас",
+    "services": "Паслугі",
+    "servicesDropdown": {
+      "gacc": "GACC Рэгістрацыя прадуктаў харчавання",
+      "label": "Адпаведнасць кітайскай этыкеткі",
+      "ccc": "Сертыфікацыя CCC",
+      "cosmetics": "Касметычныя дакументы (NMPA)",
+      "ecommerce": "Трансгранічны электронны гандаль",
+      "brand": "Абарона брэнда"
+    },
+    "packages": "Пакеты",
+    "faq": "FAQ",
+    "blog": "Інсайты",
+    "contact": "Звяжыцеся з намі",
+    "whatsapp": "WhatsApp",
+    "quote": "Атрымаць прапанову",
+    "industries": "галін прамысловасці",
+    "industriesDropdown": {
+      "dairymilkproducts": "Малочныя і малочныя прадукты",
+      "meatseafood": "Мяса і морапрадукты",
+      "winespirits": "Віно і моцныя напоі",
+      "skincarecosmetics": "Сродкі па догляду за скурай і касметыка",
+      "petfood": "Корм для хатніх жывёл",
+      "healthsupplements": "Дабаўкі для здароўя",
+      "babymaternal": "Дзіця і маці",
+      "consumerelectronics": "Бытавая электроніка",
+      "medicaldevices": "Медыцынскія прылады",
+      "crossborderecommerce": "Трансгранічны электронны гандаль"
+    },
+    "search": "Пошук",
+    "freeCheck": "Free Check"
   }
 }

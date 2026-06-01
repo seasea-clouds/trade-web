@@ -38,7 +38,22 @@
     "metaTitle": "中国輸入コンプライアンスブログ | GACC、CCC、NMPA ガイド",
     "metaDescription": "中国輸入コンプライアンスに関する専門家ガイド。 GACC 登録のヒント、CCC 認証の最新情報、NMPA 申請ニュース、ラベル コンプライアンスの洞察。常に最新情報を入手してください。",
     "ctaDesc": "貴社の製品に合わせた無料のコンプライアンス評価を受けてください。",
-    "ctaResponse": "無料相談→24時間対応"
+    "ctaResponse": "無料相談→24時間対応",
+    "copyLink": "Copy link",
+    "shareFacebook": "Share on Facebook",
+    "shareLinkedin": "Share on LinkedIn",
+    "shareTelegram": "Share on Telegram",
+    "contactMessagePlaceholder": "Describe your products or compliance needs...",
+    "contactEmail": "Business Email",
+    "contactDesc": "Tell us about your products and we'll provide a personalized compliance roadmap.",
+    "contactPrivacy": "We respect your privacy. No spam, ever.",
+    "shareEmail": "Share via Email",
+    "contactSubmit": "Submit Free Assessment",
+    "shareX": "Share on X",
+    "contactMessage": "Message (optional)",
+    "contactTitle": "Free Compliance Assessment",
+    "contactEmailPlaceholder": "you@company.com",
+    "shareWhatsapp": "Share on WhatsApp"
   },
   "Footer": {
     "contact": "お問い合わせ",
@@ -84,5 +99,40 @@
     "industries": "産業",
     "packages": "パッケージ",
     "faq": "FAQ"
+  },
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "home": "ホーム",
+    "about": "について",
+    "services": "サービス",
+    "servicesDropdown": {
+      "gacc": "GACC食品登録",
+      "label": "中国ラベルへの準拠",
+      "ccc": "CCC認証",
+      "cosmetics": "化粧品申請 (NMPA)",
+      "ecommerce": "越境電子商取引",
+      "brand": "ブランド保護"
+    },
+    "packages": "パッケージ",
+    "faq": "FAQ",
+    "blog": "洞察",
+    "contact": "お問い合わせ",
+    "whatsapp": "WhatsApp",
+    "quote": "見積もりを取得する",
+    "industries": "産業",
+    "industriesDropdown": {
+      "dairymilkproducts": "乳製品および乳製品",
+      "meatseafood": "肉と魚介類",
+      "winespirits": "ワイン＆スピリッツ",
+      "skincarecosmetics": "スキンケア＆化粧品",
+      "petfood": "ペットフード",
+      "healthsupplements": "健康補助食品",
+      "babymaternal": "赤ちゃんと母親",
+      "consumerelectronics": "家電",
+      "medicaldevices": "医療機器",
+      "crossborderecommerce": "越境電子商取引"
+    },
+    "search": "検索",
+    "freeCheck": "Free Check"
   }
 }

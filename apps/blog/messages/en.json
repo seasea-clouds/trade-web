@@ -134,5 +134,11 @@
     "industries": "Industries",
     "packages": "Packages",
     "faq": "FAQ"
+  },
+  "MobileTab": {
+    "home": "Home",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact"
   }
 }

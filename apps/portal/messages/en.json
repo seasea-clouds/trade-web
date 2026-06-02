@@ -66,7 +66,9 @@
     "popular": "Popular",
     "startFree": "Start Free",
     "getReport": "Get Report — $1",
-    "subscribe": "Subscribe $9.9/mo"
+    "subscribe": "Subscribe $9.9/mo",
+    "metaTitle": "China Compliance Self-Check | SinoTrade Compliance",
+    "metaDescription": "Check if your product needs GACC registration, CCC certification, or NMPA filing for export to China."
   },
   "Auth": {
     "signIn": "Sign In",
@@ -182,7 +184,19 @@
     "reportCategory": "Category:",
     "reportHsCode": "HS Code:",
     "reportOrigin": "Origin:",
-    "reportRequired": "Required"
+    "reportRequired": "Required",
+    "cccMetaTitle": "CCC Certification Check | SinoTrade Compliance",
+    "cccMetaDescription": "Check if your product requires China CCC certification. Free compliance assessment for electronics, machinery, and other CCC-controlled products.",
+    "gaccMetaTitle": "GACC Food Registration Check | SinoTrade Compliance",
+    "gaccMetaDescription": "Check if your food product requires GACC Decree 248 registration for China import. Free compliance assessment tool.",
+    "labelMetaTitle": "Chinese Label Compliance Check | SinoTrade Compliance",
+    "labelMetaDescription": "Check if your product needs a Chinese label for sale in China. Free compliance assessment for food, cosmetics, and consumer goods.",
+    "nmpaMetaTitle": "NMPA Cosmetics Filing Check | SinoTrade Compliance",
+    "nmpaMetaDescription": "Check if your cosmetics product requires NMPA filing for China. Free compliance assessment with instant results.",
+    "crossborderMetaTitle": "Cross-Border E-commerce Check | SinoTrade Compliance",
+    "crossborderMetaDescription": "Check cross-border e-commerce compliance requirements for your products entering China. Free assessment tool.",
+    "trademarkMetaTitle": "China Trademark Protection Check | SinoTrade Compliance",
+    "trademarkMetaDescription": "Check brand protection needs for the Chinese market. Free compliance assessment for trademark registration and IP protection."
   },
   "Search": {
     "title": "Search",

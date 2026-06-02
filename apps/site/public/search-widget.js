@@ -60,7 +60,8 @@
       else if (k === 'htmlFor') e.setAttribute('for', attrs[k]);
       else e.setAttribute(k, attrs[k]);
     });
-    (children || []).forEach(function (c) {
+    var _children = Array.isArray(children) ? children : (children ? [String(children)] : []);
+    _children.forEach(function (c) {
       if (typeof c === 'string') e.appendChild(document.createTextNode(c));
       else if (c) e.appendChild(c);
     });
@@ -202,7 +203,7 @@
       var label = typeLabels[type] || type;
       resultsEl.appendChild(el('div', {
         style: 'padding:10px 18px 4px;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:#aaa;'
-      }, label + ' (' + items.length + ')'));
+      }, [label + ' (' + items.length + ')']));
 
       items.forEach(function (item, i) {
         var link = el('a', {
@@ -286,6 +287,7 @@
     state.locale = detectLocale();
 
     getTranslations().then(function (trans) {
+      try {
       state.t = (trans && trans[state.locale]) ? trans[state.locale] : null;
       if (!state.t) {
         // Fallback to English
@@ -378,6 +380,7 @@
 
       // Preload index
       loadIndex(state.locale);
+    } catch(e) { console.error('SW init error:', e); }
     });
   }
 

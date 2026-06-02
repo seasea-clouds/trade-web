@@ -134,5 +134,17 @@
     },
     "search": "Søk",
     "freeCheck": "Free Check"
+  },
+  "Search": {
+    "title": "Søk",
+    "placeholder": "Søketjenester, artikler, vanlige spørsmål...",
+    "noResults": "Ingen resultater funnet. Prøv forskjellige søkeord.",
+    "searching": "Søker...",
+    "hint": "Skriv for å søke på tvers av tjenester, artikler og vanlige spørsmål",
+    "types": {
+      "service": "Tjenester",
+      "blog": "Blogg",
+      "faq": "FAQ"
+    }
   }
 }

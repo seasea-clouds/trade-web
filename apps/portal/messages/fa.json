@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "جستجو کنید",
+    "placeholder": "خدمات جستجو، مقالات، سوالات متداول...",
+    "noResults": "هیچ نتیجه ای یافت نشد. کلمات کلیدی مختلف را امتحان کنید.",
+    "searching": "در حال جستجو...",
+    "hint": "برای جستجو در سرویس‌ها، مقالات و پرسش‌های متداول تایپ کنید",
+    "types": {
+      "service": "خدمات",
+      "blog": "بلاگ",
+      "faq": "FAQ"
+    }
   }
 }

@@ -134,5 +134,17 @@
     },
     "search": "Căutare",
     "freeCheck": "Free Check"
+  },
+  "Search": {
+    "title": "Căutare",
+    "placeholder": "Servicii de căutare, articole, întrebări frecvente...",
+    "noResults": "Nu s-au găsit rezultate. Încercați diferite cuvinte cheie.",
+    "searching": "Se caută...",
+    "hint": "Tastați pentru a căuta în servicii, articole și întrebări frecvente",
+    "types": {
+      "service": "Servicii",
+      "blog": "Blog",
+      "faq": "FAQ"
+    }
   }
 }

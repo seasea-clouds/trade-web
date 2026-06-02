@@ -134,5 +134,17 @@
     },
     "search": "Haku",
     "freeCheck": "Free Check"
+  },
+  "Search": {
+    "title": "Haku",
+    "placeholder": "Hae palveluita, artikkeleita, usein kysyttyjä kysymyksiä...",
+    "noResults": "Tuloksia ei löytynyt. Kokeile eri avainsanoja.",
+    "searching": "Haetaan...",
+    "hint": "Hae palveluista, artikkeleista ja usein kysytyistä kysymyksistä kirjoittamalla",
+    "types": {
+      "service": "Palvelut",
+      "blog": "Blogi",
+      "faq": "FAQ"
+    }
   }
 }

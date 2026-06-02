@@ -134,5 +134,17 @@
     },
     "search": "Kërko",
     "freeCheck": "Free Check"
+  },
+  "Search": {
+    "title": "Kërko",
+    "placeholder": "Shërbimet e kërkimit, artikujt, pyetjet e shpeshta...",
+    "noResults": "Nuk u gjet asnjë rezultat. Provoni fjalë kyçe të ndryshme.",
+    "searching": "Po kërkon...",
+    "hint": "Shkruani për të kërkuar nëpër shërbime, artikuj dhe FAQ",
+    "types": {
+      "service": "Shërbime",
+      "blog": "Blog",
+      "faq": "FAQ"
+    }
   }
 }

@@ -134,5 +134,17 @@
     },
     "search": "Cari",
     "freeCheck": "Free Check"
+  },
+  "Search": {
+    "title": "Cari",
+    "placeholder": "Perkhidmatan carian, artikel, Soalan Lazim...",
+    "noResults": "Tiada hasil ditemui. Cuba kata kunci yang berbeza.",
+    "searching": "Mencari...",
+    "hint": "Taip untuk mencari merentas perkhidmatan, artikel dan Soalan Lazim",
+    "types": {
+      "service": "Perkhidmatan",
+      "blog": "Blog",
+      "faq": "FAQ"
+    }
   }
 }

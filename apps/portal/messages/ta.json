@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "தேடு",
+    "placeholder": "தேடல் சேவைகள், கட்டுரைகள், அடிக்கடி கேட்கப்படும் கேள்விகள்...",
+    "noResults": "முடிவுகள் எதுவும் கிடைக்கவில்லை. வெவ்வேறு முக்கிய வார்த்தைகளை முயற்சிக்கவும்.",
+    "searching": "தேடுகிறது...",
+    "hint": "சேவைகள், கட்டுரைகள் மற்றும் அடிக்கடி கேட்கப்படும் கேள்விகள் முழுவதும் தேட தட்டச்சு செய்யவும்",
+    "types": {
+      "service": "சேவைகள்",
+      "blog": "வலைப்பதிவு",
+      "faq": "FAQ"
+    }
   }
 }

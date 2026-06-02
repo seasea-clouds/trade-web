@@ -140,5 +140,17 @@
     "services": "Services",
     "blog": "Blog",
     "contact": "Contact"
+  },
+  "Search": {
+    "title": "Search",
+    "placeholder": "Search services, articles, FAQs...",
+    "noResults": "No results found. Try different keywords.",
+    "searching": "Searching...",
+    "hint": "Type to search across services, articles and FAQs",
+    "types": {
+      "service": "Services",
+      "blog": "Blog",
+      "faq": "FAQ"
+    }
   }
 }

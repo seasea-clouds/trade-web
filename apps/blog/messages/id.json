@@ -134,5 +134,17 @@
     },
     "search": "Mencari",
     "freeCheck": "Free Check"
+  },
+  "Search": {
+    "title": "Mencari",
+    "placeholder": "Layanan pencarian, artikel, FAQ...",
+    "noResults": "Tidak ada hasil yang ditemukan. Coba kata kunci yang berbeda.",
+    "searching": "Mencari...",
+    "hint": "Ketik untuk mencari di seluruh layanan, artikel, dan FAQ",
+    "types": {
+      "service": "Layanan",
+      "blog": "blog",
+      "faq": "FAQ"
+    }
   }
 }

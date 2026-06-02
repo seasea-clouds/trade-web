@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "Поиск",
+    "placeholder": "Поисковые сервисы, статьи, часто задаваемые вопросы...",
+    "noResults": "Результаты не найдены. Попробуйте разные ключевые слова.",
+    "searching": "Идет поиск...",
+    "hint": "Введите текст для поиска по услугам, статьям и часто задаваемым вопросам.",
+    "types": {
+      "service": "Услуги",
+      "blog": "Блог",
+      "faq": "FAQ"
+    }
   }
 }

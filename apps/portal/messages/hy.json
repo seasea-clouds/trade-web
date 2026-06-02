@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "Որոնում",
+    "placeholder": "Որոնման ծառայություններ, հոդվածներ, ՀՏՀ...",
+    "noResults": "Ոչ մի արդյունք չի գտնվել: Փորձեք տարբեր հիմնաբառեր:",
+    "searching": "Որոնում...",
+    "hint": "Մուտքագրեք ծառայություններում, հոդվածներում և ՀՏՀ-ներում որոնելու համար",
+    "types": {
+      "service": "Ծառայություններ",
+      "blog": "Բլոգ",
+      "faq": "FAQ"
+    }
   }
 }

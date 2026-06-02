@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "يبحث",
+    "placeholder": "خدمات البحث، المقالات، الأسئلة الشائعة...",
+    "noResults": "لم يتم العثور على نتائج. جرب كلمات رئيسية مختلفة.",
+    "searching": "جارٍ البحث...",
+    "hint": "اكتب للبحث عبر الخدمات والمقالات والأسئلة الشائعة",
+    "types": {
+      "service": "خدمات",
+      "blog": "مدونة",
+      "faq": "FAQ"
+    }
   }
 }

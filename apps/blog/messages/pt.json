@@ -134,5 +134,17 @@
     },
     "search": "Procurar",
     "freeCheck": "Free Check"
+  },
+  "Search": {
+    "title": "Procurar",
+    "placeholder": "Pesquise serviços, artigos, FAQs...",
+    "noResults": "Nenhum resultado encontrado. Experimente palavras-chave diferentes.",
+    "searching": "Procurando...",
+    "hint": "Digite para pesquisar serviços, artigos e perguntas frequentes",
+    "types": {
+      "service": "Serviços",
+      "blog": "Blogue",
+      "faq": "FAQ"
+    }
   }
 }

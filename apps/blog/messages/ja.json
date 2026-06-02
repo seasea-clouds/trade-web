@@ -134,5 +134,17 @@
     },
     "search": "検索",
     "freeCheck": "Free Check"
+  },
+  "Search": {
+    "title": "検索",
+    "placeholder": "検索サービス、記事、FAQ...",
+    "noResults": "結果が見つかりませんでした。別のキーワードを試してください。",
+    "searching": "検索中...",
+    "hint": "サービス、記事、FAQ を検索するために入力します",
+    "types": {
+      "service": "サービス",
+      "blog": "ブログ",
+      "faq": "FAQ"
+    }
   }
 }

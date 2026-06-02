@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "Ερευνα",
+    "placeholder": "Υπηρεσίες αναζήτησης, άρθρα, συχνές ερωτήσεις...",
+    "noResults": "Δεν βρέθηκαν αποτελέσματα. Δοκιμάστε διαφορετικές λέξεις-κλειδιά.",
+    "searching": "Ερευνητικός...",
+    "hint": "Πληκτρολογήστε για αναζήτηση σε υπηρεσίες, άρθρα και συχνές ερωτήσεις",
+    "types": {
+      "service": "Υπηρεσίες",
+      "blog": "Ιστολόγιο",
+      "faq": "FAQ"
+    }
   }
 }

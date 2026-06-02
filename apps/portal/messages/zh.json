@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "搜索",
+    "placeholder": "搜索服务、文章、常见问题解答...",
+    "noResults": "没有找到结果。尝试不同的关键词。",
+    "searching": "正在寻找...",
+    "hint": "输入内容以搜索服务、文章和常见问题解答",
+    "types": {
+      "service": "服务",
+      "blog": "博客",
+      "faq": "FAQ"
+    }
   }
 }

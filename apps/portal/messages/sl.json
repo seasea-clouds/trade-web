@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "Iskanje",
+    "placeholder": "Iskanje storitev, člankov, pogostih vprašanj ...",
+    "noResults": "Ni rezultatov. Poskusite z različnimi ključnimi besedami.",
+    "searching": "Iskanje ...",
+    "hint": "Vnesite za iskanje po storitvah, člankih in pogostih vprašanjih",
+    "types": {
+      "service": "Storitve",
+      "blog": "Blog",
+      "faq": "FAQ"
+    }
   }
 }

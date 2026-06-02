@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "Hľadať",
+    "placeholder": "Hľadať služby, články, často kladené otázky...",
+    "noResults": "Nenašli sa žiadne výsledky. Skúste iné kľúčové slová.",
+    "searching": "Hľadá sa...",
+    "hint": "Napíšte, ak chcete vyhľadávať v službách, článkoch a často kladených otázkach",
+    "types": {
+      "service": "Služby",
+      "blog": "Blog",
+      "faq": "FAQ"
+    }
   }
 }

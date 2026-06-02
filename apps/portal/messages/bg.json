@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "Търсене",
+    "placeholder": "Услуги за търсене, статии, ЧЗВ...",
+    "noResults": "Няма намерени резултати. Опитайте различни ключови думи.",
+    "searching": "Търсене...",
+    "hint": "Въведете, за да търсите в услуги, статии и често задавани въпроси",
+    "types": {
+      "service": "Услуги",
+      "blog": "Блог",
+      "faq": "FAQ"
+    }
   }
 }

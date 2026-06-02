@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "Tafuta",
+    "placeholder": "Huduma za utafutaji, makala, Maswali Yanayoulizwa Mara kwa Mara...",
+    "noResults": "Hakuna matokeo yaliyopatikana. Jaribu maneno muhimu tofauti.",
+    "searching": "Inatafuta...",
+    "hint": "Andika ili kutafuta katika huduma, makala na Maswali Yanayoulizwa Mara kwa Mara",
+    "types": {
+      "service": "Huduma",
+      "blog": "Blogu",
+      "faq": "FAQ"
+    }
   }
 }

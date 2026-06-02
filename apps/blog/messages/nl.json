@@ -134,5 +134,17 @@
     },
     "search": "Zoekopdracht",
     "freeCheck": "Free Check"
+  },
+  "Search": {
+    "title": "Zoekopdracht",
+    "placeholder": "Zoekdiensten, artikelen, veelgestelde vragen...",
+    "noResults": "Geen resultaten gevonden. Probeer verschillende zoekwoorden.",
+    "searching": "Zoeken...",
+    "hint": "Typ om te zoeken in services, artikelen en veelgestelde vragen",
+    "types": {
+      "service": "Diensten",
+      "blog": "Bloggen",
+      "faq": "FAQ"
+    }
   }
 }

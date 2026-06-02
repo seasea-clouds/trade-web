@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "සොයන්න",
+    "placeholder": "සෙවුම් සේවා, ලිපි, නිතර අසන පැන...",
+    "noResults": "ප්‍රතිඵල හමු නොවිණි. විවිධ මූල පද උත්සාහ කරන්න.",
+    "searching": "සොයමින්...",
+    "hint": "සේවා, ලිපි සහ නිතර අසන පැන හරහා සෙවීමට ටයිප් කරන්න",
+    "types": {
+      "service": "සේවා",
+      "blog": "බ්ලොගය",
+      "faq": "FAQ"
+    }
   }
 }

@@ -134,5 +134,17 @@
     },
     "search": "Keresés",
     "freeCheck": "Free Check"
+  },
+  "Search": {
+    "title": "Keresés",
+    "placeholder": "Szolgáltatások, cikkek, GYIK keresése...",
+    "noResults": "Nincs találat. Próbáljon ki különböző kulcsszavakat.",
+    "searching": "Keresés...",
+    "hint": "Gépelje be a keresést a szolgáltatások, cikkek és GYIK között",
+    "types": {
+      "service": "Szolgáltatások",
+      "blog": "Blog",
+      "faq": "FAQ"
+    }
   }
 }

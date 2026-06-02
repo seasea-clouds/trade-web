@@ -134,5 +134,17 @@
     },
     "search": "Pretraživanje",
     "freeCheck": "Free Check"
+  },
+  "Search": {
+    "title": "Pretraživanje",
+    "placeholder": "Pretražite usluge, članke, često postavljana pitanja...",
+    "noResults": "Nema pronađenih rezultata. Pokušajte s različitim ključnim riječima.",
+    "searching": "Pretraživanje...",
+    "hint": "Upišite za pretraživanje usluga, članaka i često postavljanih pitanja",
+    "types": {
+      "service": "Usluge",
+      "blog": "Blog",
+      "faq": "FAQ"
+    }
   }
 }

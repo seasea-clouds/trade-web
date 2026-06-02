@@ -134,5 +134,17 @@
     },
     "search": "Axtar",
     "freeCheck": "Free Check"
+  },
+  "Search": {
+    "title": "Axtar",
+    "placeholder": "Axtarış xidmətləri, məqalələr, tez-tez verilən suallar...",
+    "noResults": "Heç bir nəticə tapılmadı. Fərqli açar sözlər sınayın.",
+    "searching": "Axtarılır...",
+    "hint": "Xidmətlər, məqalələr və tez-tez verilən suallar arasında axtarış etmək üçün yazın",
+    "types": {
+      "service": "Xidmətlər",
+      "blog": "Bloq",
+      "faq": "FAQ"
+    }
   }
 }

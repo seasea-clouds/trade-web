@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "Ricerca",
+    "placeholder": "Cerca servizi, articoli, FAQ...",
+    "noResults": "Nessun risultato trovato Prova parole chiave diverse.",
+    "searching": "Ricerca...",
+    "hint": "Digita per cercare tra servizi, articoli e domande frequenti",
+    "types": {
+      "service": "Servizi",
+      "blog": "Blog",
+      "faq": "FAQ"
+    }
   }
 }

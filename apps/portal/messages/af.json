@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "Soek",
+    "placeholder": "Soek dienste, artikels, algemene vrae...",
+    "noResults": "Geen resultate gevind nie. Probeer verskillende sleutelwoorde.",
+    "searching": "Soek tans …",
+    "hint": "Tik om oor dienste, artikels en algemene vrae te soek",
+    "types": {
+      "service": "Dienste",
+      "blog": "Blog",
+      "faq": "FAQ"
+    }
   }
 }

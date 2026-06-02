@@ -183,5 +183,17 @@
     "reportModuleCrossborder": "reportModuleCrossborder",
     "reportModuleTrademark": "reportModuleTrademark",
     "reportRequired": "reportRequired"
+  },
+  "Search": {
+    "title": "Cerca",
+    "placeholder": "Cerca serveis, articles, preguntes freqüents...",
+    "noResults": "No s'han trobat resultats. Proveu paraules clau diferents.",
+    "searching": "S'està buscant...",
+    "hint": "Escriviu per cercar entre serveis, articles i preguntes freqüents",
+    "types": {
+      "service": "Serveis",
+      "blog": "Bloc",
+      "faq": "FAQ"
+    }
   }
 }

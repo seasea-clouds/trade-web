@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Tuis",
-    "about": "Oor",
-    "services": "Dienste",
-    "servicesDropdown": {
-      "gacc": "GACC-voedselregistrasie",
-      "label": "Chinese etiket nakoming",
-      "ccc": "CCC Sertifisering",
-      "cosmetics": "Skoonheidsmiddelliassering (NMPA)",
-      "ecommerce": "Oorgrens e-handel",
-      "brand": "Handelsmerkbeskerming"
-    },
-    "packages": "Pakkette",
-    "faq": "Gereelde vrae",
-    "blog": "Insigte",
-    "contact": "Kontak ons",
-    "whatsapp": "WhatsApp",
-    "quote": "Kry 'n kwotasie",
-    "industries": "Nywerhede",
-    "industriesDropdown": {
-      "dairymilkproducts": "Suiwel & Melkprodukte",
-      "meatseafood": "Vleis & Seekos",
-      "winespirits": "Wyn & Spiritualieë",
-      "skincarecosmetics": "Velsorg & Skoonheidsmiddels",
-      "petfood": "Troeteldierkos",
-      "healthsupplements": "Gesondheidsaanvullings",
-      "babymaternal": "Baba & Moeder",
-      "consumerelectronics": "Verbruikerselektronika",
-      "medicaldevices": "Mediese toestelle",
-      "crossborderecommerce": "Oorgrens e-handel"
-    },
-    "search": "Soek",
-    "freeCheck": "Gratis Tjek"
-  },
   "Home": {
     "heroTitle": "China-nakoming vir u handelsmerk",
     "heroSubtitle": "Eenstop-invoerregulerende dienste vir voedsel, skoonheidsmiddels, elektronika en meer. Vertrou deur uitvoerders in 50+ lande met 15+ jaar se kundigheid.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Staatsadministrasie vir markregulering)",
     "samrDefinition": "SAMR is China se staatsadministrasie vir markregulering. Dit hou toesig oor produkkwaliteit, voedselveiligheidstandaarde, anti-monopolie-afdwinging en marktoesig. SAMR werk saam met GACC oor voedsel- en skoonheidsmiddelsregulering."
   },
-  "ContactForm": {
-    "title": "Gratis Voldoeningsbeoordeling",
-    "subtitle": "Vertel ons van jou produkte en ons sal 'n persoonlike nakomingspadkaart verskaf.",
-    "emailLabel": "Besigheid e-pos",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Boodskap (opsioneel)",
-    "messagePlaceholder": "Beskryf jou produkte of voldoeningsbehoeftes...",
-    "button": "Dien gratis assessering in",
-    "privacy": "Ons respekteer jou privaatheid. Geen strooipos, ooit nie."
-  },
   "Quote": {
     "metaTitle": "Kry gratis China-nakomingskwotasie | SinoTrade-nakoming",
     "metaDescription": "Versoek 'n gratis konsultasie vir die invoer van China. GACC-registrasie, CCC-sertifisering, NMPA-liassering, etikethersiening. Reageer binne 24 uur.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "CBEC-regulasies, platformvoldoening en belastingoptimalisering."
     }
   },
-  "breadcrumb": {
-    "home": "Tuis",
-    "services": "Dienste",
-    "blog": "Blog",
-    "industries": "Nywerhede",
-    "packages": "Pakkette",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Benodig hierdie diens?",
-    "ctaSubtitle": "Kry 'n gratis voldoeningsbeoordeling wat vir u produkte aangepas is.",
-    "ctaUrgency": "Gratis konsultasie → 24 uur reaksie",
-    "ctaButton": "Kry gratis assessering"
-  },
   "IndustryCCC": {
     "coverItems1": "CCC sertifisering gids assessering",
     "coverItems2": "CNCA-geakkrediteerde laboratoriumtoetskoördinasie",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Vervoer en berging voldoening riglyne",
     "coverItems6": "Deurlopende regulatoriese monitering en hernuwingsondersteuning",
     "coverItems7": "Chemiese industrie nakoming opleiding en advies"
-  },
-  "MobileTab": {
-    "home": "Tuis",
-    "services": "Dienste",
-    "blog": "Blog",
-    "contact": "Kontak"
   },
   "aria": {
     "whatsappLabel": "Kontak ons ​​op WhatsApp",

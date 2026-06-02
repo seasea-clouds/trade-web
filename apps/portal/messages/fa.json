@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "صفحه اصلی",
-    "about": "درباره",
-    "services": "خدمات",
-    "packages": "بسته ها",
-    "faq": "سوالات متداول",
-    "blog": "بینش ها",
-    "contact": "تماس با ما",
-    "whatsapp": "واتس اپ",
-    "quote": "یک نقل قول دریافت کنید",
-    "industries": "صنایع",
-    "search": "جستجو کنید",
-    "freeCheck": "چک رایگان",
-    "servicesDropdown": {
-      "gacc": "ثبت غذای GACC",
-      "label": "مطابقت با برچسب چینی",
-      "ccc": "گواهی CCC",
-      "cosmetics": "بایگانی لوازم آرایشی و بهداشتی (NMPA)",
-      "ecommerce": "تجارت الکترونیک فرامرزی",
-      "brand": "حفاظت از برند"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "خود بررسی انطباق چین | مطابقت SinoTrade",
     "description": "بررسی کنید که آیا محصول شما برای صادرات به چین به ثبت GACC، گواهینامه CCC یا تشکیل پرونده NMPA نیاز دارد یا خیر.",

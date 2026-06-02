@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Ana Sayfa",
-    "about": "Hakkında",
-    "services": "Hizmetler",
-    "servicesDropdown": {
-      "gacc": "GACC Gıda Kaydı",
-      "label": "Çin Etiket Uyumluluğu",
-      "ccc": "CCC Sertifikası",
-      "cosmetics": "Kozmetik Dosyalama (NMPA)",
-      "ecommerce": "Sınır ötesi E-ticaret",
-      "brand": "Marka Koruması"
-    },
-    "packages": "Paketler",
-    "faq": "SSS",
-    "blog": "Analizler",
-    "contact": "Bize Ulaşın",
-    "whatsapp": "WhatsApp",
-    "quote": "Teklif Al",
-    "industries": "Endüstriler",
-    "industriesDropdown": {
-      "dairymilkproducts": "Süt ve Süt Ürünleri",
-      "meatseafood": "Et ve Deniz Ürünleri",
-      "winespirits": "Şarap ve Alkollü İçkiler",
-      "skincarecosmetics": "Cilt Bakımı ve Kozmetik",
-      "petfood": "Evcil Hayvan Yemi",
-      "healthsupplements": "Sağlık Takviyeleri",
-      "babymaternal": "Bebek ve Anne",
-      "consumerelectronics": "Tüketici Elektroniği",
-      "medicaldevices": "Tıbbi Cihazlar",
-      "crossborderecommerce": "Sınır ötesi E-ticaret"
-    },
-    "search": "Aramak",
-    "freeCheck": "Ücretsiz Çek"
-  },
   "Home": {
     "heroTitle": "Markanız için Çin Uyumluluğu",
     "heroSubtitle": "Gıda, kozmetik, elektronik ve daha fazlası için tek elden ithalat düzenleme hizmetleri. 15 yıldan fazla uzmanlığa sahip 50'den fazla ülkedeki ihracatçıların güvendiği.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Piyasa Düzenleme Devlet İdaresi)",
     "samrDefinition": "SAMR, Çin'in Piyasa Düzenleme Devlet İdaresidir. Ürün kalitesini, gıda güvenliği standartlarını, tekel karşıtı uygulamaları ve pazar denetimini denetler. SAMR, gıda ve kozmetik düzenlemeleri konusunda GACC ile birlikte çalışmaktadır."
   },
-  "ContactForm": {
-    "title": "Ücretsiz Uyumluluk Değerlendirmesi",
-    "subtitle": "Bize ürünleriniz hakkında bilgi verin, biz de kişiselleştirilmiş bir uyumluluk yol haritası sunalım.",
-    "emailLabel": "İş E-postası",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Mesaj (isteğe bağlı)",
-    "messagePlaceholder": "Ürünlerinizi veya uyumluluk ihtiyaçlarınızı açıklayın...",
-    "button": "Ücretsiz Değerlendirme Gönder",
-    "privacy": "Gizliliğinize saygı duyuyoruz. Hiçbir zaman spam yok."
-  },
   "Quote": {
     "metaTitle": "Ücretsiz Çin Uyumluluk Teklifi Alın | SinoTrade Uyumluluğu",
     "metaDescription": "Çin ithalat uyumluluğu için ücretsiz danışmanlık talebinde bulunun. GACC kaydı, CCC sertifikası, NMPA dosyalaması, etiket incelemesi. 24 saat içinde yanıt.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "CBEC düzenlemeleri, platform uyumluluğu ve vergi optimizasyonu."
     }
   },
-  "breadcrumb": {
-    "home": "Ana Sayfa",
-    "services": "Hizmetler",
-    "blog": "Blog",
-    "industries": "Endüstriler",
-    "packages": "Paketler",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Bu Hizmete İhtiyacınız Var mı?",
-    "ctaSubtitle": "Ürünlerinize göre uyarlanmış ücretsiz bir uyumluluk değerlendirmesi alın.",
-    "ctaUrgency": "Ücretsiz danışmanlık → 24 saat yanıt",
-    "ctaButton": "Ücretsiz Değerlendirme Alın"
-  },
   "IndustryCCC": {
     "coverItems1": "CCC sertifikasyon rehberi değerlendirmesi",
     "coverItems2": "CNCA onaylı laboratuvar test koordinasyonu",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Taşıma ve depolama uyumluluğu kılavuzu",
     "coverItems6": "Sürekli mevzuat izleme ve yenileme desteği",
     "coverItems7": "Kimya endüstrisi uyumluluk eğitimi ve danışmanlığı"
-  },
-  "MobileTab": {
-    "home": "Ana Sayfa",
-    "services": "Hizmetler",
-    "blog": "Blog",
-    "contact": "İletişim"
   },
   "aria": {
     "whatsappLabel": "Bize WhatsApp'tan ulaşın",

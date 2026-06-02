@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "홈",
-    "about": "에 대한",
-    "services": "서비스",
-    "servicesDropdown": {
-      "gacc": "GACC 식품 등록",
-      "label": "중국 라벨 규정 준수",
-      "ccc": "CCC 인증",
-      "cosmetics": "화장품 신고(NMPA)",
-      "ecommerce": "국경 간 전자상거래",
-      "brand": "브랜드 보호"
-    },
-    "packages": "패키지",
-    "faq": "FAQ",
-    "blog": "통찰력",
-    "contact": "문의하기",
-    "whatsapp": "왓츠앱",
-    "quote": "견적 받기",
-    "industries": "산업",
-    "industriesDropdown": {
-      "dairymilkproducts": "유제품 및 유제품",
-      "meatseafood": "고기 및 해산물",
-      "winespirits": "와인 및 증류주",
-      "skincarecosmetics": "스킨케어 및 화장품",
-      "petfood": "애완동물 사료",
-      "healthsupplements": "건강보조식품",
-      "babymaternal": "아기 및 산모",
-      "consumerelectronics": "가전제품",
-      "medicaldevices": "의료기기",
-      "crossborderecommerce": "국경 간 전자상거래"
-    },
-    "search": "찾다",
-    "freeCheck": "무료수표"
-  },
   "Home": {
     "heroTitle": "귀하의 브랜드에 대한 중국 규정 준수",
     "heroSubtitle": "식품, 화장품, 전자제품 등에 대한 원스톱 수입규제 서비스를 제공합니다. 15년 이상의 전문 지식을 바탕으로 50개 이상의 국가 수출업체의 신뢰를 받고 있습니다.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR(국가 시장 규제 관리국)",
     "samrDefinition": "SAMR은 중국의 국가 시장 규제 관리국입니다. 제품 품질, 식품 안전 표준, 독점 금지 집행 및 시장 감독을 감독합니다. SAMR은 식품 및 화장품 규제에 관해 GACC와 협력합니다."
   },
-  "ContactForm": {
-    "title": "무료 규정 준수 평가",
-    "subtitle": "귀하의 제품에 대해 알려주시면 맞춤형 규정 준수 로드맵을 제공해 드리겠습니다.",
-    "emailLabel": "비즈니스 이메일",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "메시지(선택사항)",
-    "messagePlaceholder": "귀하의 제품 또는 규정 준수 요구 사항을 설명하십시오...",
-    "button": "무료 평가 제출",
-    "privacy": "우리는 귀하의 개인정보를 존중합니다. 스팸은 절대 없습니다."
-  },
   "Quote": {
     "metaTitle": "무료 중국 규정 준수 견적 받기 | SinoTrade 규정 준수",
     "metaDescription": "중국 수입 규정 준수에 대한 무료 상담을 요청하세요. GACC 등록, CCC 인증, NMPA 제출, 라벨 검토. 24시간 이내에 응답합니다.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "CBEC 규정, 플랫폼 준수 및 세금 최적화."
     }
   },
-  "breadcrumb": {
-    "home": "홈",
-    "services": "서비스",
-    "blog": "블로그",
-    "industries": "산업",
-    "packages": "패키지",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "이 서비스가 필요하십니까?",
-    "ctaSubtitle": "귀하의 제품에 맞는 무료 규정 준수 평가를 받아보세요.",
-    "ctaUrgency": "무료 상담 → 24시간 응답",
-    "ctaButton": "무료 평가 받기"
-  },
   "IndustryCCC": {
     "coverItems1": "CCC 인증 디렉토리 평가",
     "coverItems2": "CNCA 승인 시험소 테스트 조정",
@@ -1255,12 +1196,6 @@
     "coverItems5": "운송 및 저장 규정 준수 가이드",
     "coverItems6": "지속적인 규제 모니터링 및 갱신 지원",
     "coverItems7": "화학 산업 규정 준수 교육 및 컨설팅"
-  },
-  "MobileTab": {
-    "home": "홈",
-    "services": "서비스",
-    "blog": "블로그",
-    "contact": "연락처"
   },
   "aria": {
     "whatsappLabel": "WhatsApp으로 문의하세요",

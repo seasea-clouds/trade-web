@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Kotiin",
-    "about": "Tietoja",
-    "services": "Palvelut",
-    "packages": "Paketit",
-    "faq": "FAQ",
-    "blog": "Näkemyksiä",
-    "contact": "Ota yhteyttä",
-    "whatsapp": "WhatsApp",
-    "quote": "Pyydä tarjous",
-    "industries": "Toimialat",
-    "search": "Etsi",
-    "freeCheck": "Ilmainen sekki",
-    "servicesDropdown": {
-      "gacc": "GACC-elintarvikkeiden rekisteröinti",
-      "label": "Kiinan etikettien noudattaminen",
-      "ccc": "CCC-sertifiointi",
-      "cosmetics": "Kosmetiikkaviilaus (NMPA)",
-      "ecommerce": "Rajat ylittävä sähköinen kaupankäynti",
-      "brand": "Brändin suojaus"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Kiinan vaatimustenmukaisuuden itsetarkastus | SinoTrade-yhteensopivuus",
     "description": "Tarkista, tarvitseeko tuotteesi GACC-rekisteröinnin, CCC-sertifioinnin tai NMPA-hakemuksen vientiä varten Kiinaan.",

@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "首页",
-    "about": "关于",
-    "services": "服务",
-    "servicesDropdown": {
-      "gacc": "海关总署食品注册",
-      "label": "中国标签合规性",
-      "ccc": "CCC认证",
-      "cosmetics": "化妆品备案（NMPA）",
-      "ecommerce": "跨境电商",
-      "brand": "品牌保护"
-    },
-    "packages": "套餐",
-    "faq": "常见问题解答",
-    "blog": "洞察",
-    "contact": "联系我们",
-    "whatsapp": "WhatsApp",
-    "quote": "获取报价",
-    "industries": "行业",
-    "industriesDropdown": {
-      "dairymilkproducts": "乳制品及奶制品",
-      "meatseafood": "肉类和海鲜",
-      "winespirits": "葡萄酒与烈酒",
-      "skincarecosmetics": "护肤及化妆品",
-      "petfood": "宠物食品",
-      "healthsupplements": "保健品",
-      "babymaternal": "母婴",
-      "consumerelectronics": "消费电子产品",
-      "medicaldevices": "医疗器械",
-      "crossborderecommerce": "跨境电商"
-    },
-    "search": "搜索",
-    "freeCheck": "Free Check"
-  },
   "Home": {
     "heroTitle": "您品牌的中国合规性",
     "heroSubtitle": "食品、化妆品、电子产品等一站式进口监管服务。拥有 15 年以上的专业知识，深受 50 多个国家/地区的出口商信赖。",
@@ -819,16 +784,6 @@
     "samrName": "SAMR（国家市场监督管理总局）",
     "samrDefinition": "SAMR 是中国国家市场监督管理总局。它负责监督产品质量、食品安全标准、反垄断执法和市场监管。国家市场监督管理总局与海关总署在食品和化妆品监管方面开展合作。"
   },
-  "ContactForm": {
-    "title": "免费合规评估",
-    "subtitle": "告诉我们您的产品，我们将提供个性化的合规路线图。",
-    "emailLabel": "企业邮箱",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "留言（可选）",
-    "messagePlaceholder": "描述您的产品或合规性需求...",
-    "button": "提交免费评估",
-    "privacy": "我们尊重您的隐私。永远没有垃圾邮件。"
-  },
   "Quote": {
     "metaTitle": "获取中国合规服务报价 | SinoTrade Compliance 免费咨询",
     "metaDescription": "申请中国进口合规免费报价。GACC 注册、CCC 认证、NMPA 备案、标签审核。24 小时内回复。",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "跨境电商监管、平台合规和税务优化。"
     }
   },
-  "breadcrumb": {
-    "home": "首页",
-    "services": "服务",
-    "blog": "博客",
-    "industries": "行业",
-    "packages": "套餐",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "需要这项服务吗？",
-    "ctaSubtitle": "获得针对您的产品量身定制的免费合规评估。",
-    "ctaUrgency": "免费咨询→24小时响应",
-    "ctaButton": "获得免费评估"
-  },
   "IndustryCCC": {
     "coverItems1": "CCC 认证目录评估",
     "coverItems2": "CNCA 认可实验室检测协调",
@@ -1255,12 +1196,6 @@
     "coverItems5": "运输与储存合规指导",
     "coverItems6": "持续法规监测与续期支持",
     "coverItems7": "化工行业合规培训与咨询服务"
-  },
-  "MobileTab": {
-    "home": "首页",
-    "services": "服务",
-    "blog": "资讯",
-    "contact": "联系"
   },
   "aria": {
     "whatsappLabel": "通过 WhatsApp 联系我们",

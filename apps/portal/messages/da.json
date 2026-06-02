@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Hjem",
-    "about": "Om",
-    "services": "Tjenester",
-    "packages": "Pakker",
-    "faq": "FAQ",
-    "blog": "Indsigt",
-    "contact": "Kontakt os",
-    "whatsapp": "WhatsApp",
-    "quote": "Få et tilbud",
-    "industries": "Industrier",
-    "search": "Søg",
-    "freeCheck": "Gratis check",
-    "servicesDropdown": {
-      "gacc": "GACC fødevareregistrering",
-      "label": "Overholdelse af kinesiske etiketter",
-      "ccc": "CCC certificering",
-      "cosmetics": "Kosmetikarkivering (NMPA)",
-      "ecommerce": "Grænseoverskridende e-handel",
-      "brand": "Brand beskyttelse"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Selvkontrol af Kinas overholdelse | SinoTrade-overholdelse",
     "description": "Tjek, om dit produkt har brug for GACC-registrering, CCC-certificering eller NMPA-ansøgning for eksport til Kina.",

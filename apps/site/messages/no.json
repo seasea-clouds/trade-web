@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Hjem",
-    "about": "Om oss",
-    "services": "Tjenester",
-    "servicesDropdown": {
-      "gacc": "GACC matregistrering",
-      "label": "Overholdelse av kinesisk etikett",
-      "ccc": "CCC-sertifisering",
-      "cosmetics": "Kosmetikkarkivering (NMPA)",
-      "ecommerce": "E-handel på tvers av landegrensene",
-      "brand": "Merkebeskyttelse"
-    },
-    "packages": "Pakker",
-    "faq": "FAQ",
-    "blog": "Blogg",
-    "contact": "Kontakt oss",
-    "whatsapp": "WhatsApp",
-    "quote": "Få et tilbud",
-    "industries": "Industrier",
-    "industriesDropdown": {
-      "dairymilkproducts": "Meieri- og melkeprodukter",
-      "meatseafood": "Kjøtt og sjømat",
-      "winespirits": "Vin og brennevin",
-      "skincarecosmetics": "Hudpleie og kosmetikk",
-      "petfood": "Dyremat",
-      "healthsupplements": "Helse kosttilskudd",
-      "babymaternal": "Baby og mor",
-      "consumerelectronics": "Forbrukerelektronikk",
-      "medicaldevices": "Medisinsk utstyr",
-      "crossborderecommerce": "E-handel på tvers av landegrensene"
-    },
-    "search": "Søk",
-    "freeCheck": "Gratis sjekk"
-  },
   "Home": {
     "heroTitle": "Kina-overholdelse for merkevaren din",
     "heroSubtitle": "One-stop import regulatoriske tjenester for mat, kosmetikk, elektronikk og mer. Klarert av eksportører i 50+ land med 15+ års ekspertise.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Statens administrasjon for markedsregulering)",
     "samrDefinition": "SAMR er Kinas statlige administrasjon for markedsregulering. Den fører tilsyn med produktkvalitet, mattrygghetsstandarder, anti-monopolhåndhevelse og markedstilsyn. SAMR samarbeider med GACC om mat- og kosmetikkregulering."
   },
-  "ContactForm": {
-    "title": "Gratis samsvarsvurdering",
-    "subtitle": "Fortell oss om produktene dine, så gir vi et personlig veikart for samsvar.",
-    "emailLabel": "Bedrifts-e-post",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Melding (valgfritt)",
-    "messagePlaceholder": "Beskriv dine produkter eller samsvarsbehov...",
-    "button": "Send inn gratis vurdering",
-    "privacy": "Vi respekterer ditt privatliv. Ingen spam, aldri."
-  },
   "Quote": {
     "metaTitle": "Få gratis tilbud om overholdelse av Kina | SinoTrade-overholdelse",
     "metaDescription": "Be om en gratis konsultasjon for samsvar med import av Kina. GACC-registrering, CCC-sertifisering, NMPA-arkivering, etikettgjennomgang. Svar innen 24 timer.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "CBEC-forskrifter, plattformoverholdelse og skatteoptimalisering."
     }
   },
-  "breadcrumb": {
-    "home": "Hjem",
-    "services": "Tjenester",
-    "blog": "Blogg",
-    "industries": "Industrier",
-    "packages": "Pakker",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Trenger du denne tjenesten?",
-    "ctaSubtitle": "Få en gratis samsvarsvurdering skreddersydd for produktene dine.",
-    "ctaUrgency": "Gratis konsultasjon → 24 timers svar",
-    "ctaButton": "Få gratis vurdering"
-  },
   "IndustryCCC": {
     "coverItems1": "CCC-sertifiseringskatalogvurdering",
     "coverItems2": "CNCA-akkreditert koordinering av laboratorietester",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Veiledning for samsvar med transport og lagring",
     "coverItems6": "Løpende regulatorisk overvåking og fornyelsesstøtte",
     "coverItems7": "Opplæring og rådgivning i kjemisk industri"
-  },
-  "MobileTab": {
-    "home": "Hjem",
-    "services": "Tjenester",
-    "blog": "Blogg",
-    "contact": "Kontakt"
   },
   "aria": {
     "whatsappLabel": "Kontakt oss på WhatsApp",

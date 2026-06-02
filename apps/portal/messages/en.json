@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Home",
-    "about": "About",
-    "services": "Services",
-    "packages": "Packages",
-    "faq": "FAQ",
-    "blog": "Insights",
-    "contact": "Contact Us",
-    "whatsapp": "WhatsApp",
-    "quote": "Get a Quote",
-    "industries": "Industries",
-    "search": "Search",
-    "freeCheck": "Free Check",
-    "servicesDropdown": {
-      "gacc": "GACC Food Registration",
-      "label": "Chinese Label Compliance",
-      "ccc": "CCC Certification",
-      "cosmetics": "Cosmetics Filing (NMPA)",
-      "ecommerce": "Cross-border E-commerce",
-      "brand": "Brand Protection"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "China Compliance Self-Check | SinoTrade Compliance",
     "description": "Check if your product needs GACC registration, CCC certification, or NMPA filing for export to China.",

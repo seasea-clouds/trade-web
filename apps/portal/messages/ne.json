@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "घर",
-    "about": "बारे",
-    "services": "सेवाहरू",
-    "packages": "प्याकेजहरू",
-    "faq": "FAQ",
-    "blog": "अन्तर्दृष्टिहरू",
-    "contact": "हामीलाई सम्पर्क गर्नुहोस्",
-    "whatsapp": "व्हाट्सएप",
-    "quote": "उद्धरण प्राप्त गर्नुहोस्",
-    "industries": "उद्योगहरू",
-    "search": "खोज्नुहोस्",
-    "freeCheck": "नि: शुल्क जाँच",
-    "servicesDropdown": {
-      "gacc": "GACC खाद्य दर्ता",
-      "label": "चिनियाँ लेबल अनुपालन",
-      "ccc": "CCC प्रमाणीकरण",
-      "cosmetics": "कस्मेटिक्स फाइलिङ (NMPA)",
-      "ecommerce": "क्रस-बोर्डर ई-वाणिज्य",
-      "brand": "ब्रान्ड संरक्षण"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "चीन अनुपालन स्व-जाँच | SinoTrade अनुपालन",
     "description": "तपाईंको उत्पादनलाई चीनमा निर्यातको लागि GACC दर्ता, CCC प्रमाणीकरण, वा NMPA फाइलिङ आवश्यक छ कि छैन जाँच गर्नुहोस्।",

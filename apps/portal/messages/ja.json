@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "ホーム",
-    "about": "について",
-    "services": "サービス",
-    "packages": "パッケージ",
-    "faq": "よくある質問",
-    "blog": "洞察",
-    "contact": "お問い合わせ",
-    "whatsapp": "ワッツアップ",
-    "quote": "見積もりを取得する",
-    "industries": "産業",
-    "search": "検索",
-    "freeCheck": "無料小切手",
-    "servicesDropdown": {
-      "gacc": "GACC食品登録",
-      "label": "中国ラベルへの準拠",
-      "ccc": "CCC認証",
-      "cosmetics": "化粧品申請 (NMPA)",
-      "ecommerce": "越境電子商取引",
-      "brand": "ブランド保護"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "中国コンプライアンスセルフチェック |中国貿易のコンプライアンス",
     "description": "製品を中国に輸出するには、GACC 登録、CCC 認証、または NMPA 申請が必要かどうかを確認してください。",

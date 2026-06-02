@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Trang chủ",
-    "about": "Giới thiệu",
-    "services": "Dịch vụ",
-    "servicesDropdown": {
-      "gacc": "Đăng ký thực phẩm GACC",
-      "label": "Tuân thủ nhãn hiệu Trung Quốc",
-      "ccc": "Chứng nhận CCC",
-      "cosmetics": "Nộp hồ sơ mỹ phẩm (NMPA)",
-      "ecommerce": "Thương mại điện tử xuyên biên giới",
-      "brand": "Bảo vệ thương hiệu"
-    },
-    "packages": "Gói",
-    "faq": "Câu hỏi thường gặp",
-    "blog": "Thông tin chi tiết",
-    "contact": "Liên hệ với chúng tôi",
-    "whatsapp": "WhatsApp",
-    "quote": "Nhận báo giá",
-    "industries": "ngành công nghiệp",
-    "industriesDropdown": {
-      "dairymilkproducts": "Sữa & Sản phẩm Sữa",
-      "meatseafood": "Thịt & Hải Sản",
-      "winespirits": "Rượu & Rượu mạnh",
-      "skincarecosmetics": "Chăm sóc da & Mỹ phẩm",
-      "petfood": "Thức ăn cho thú cưng",
-      "healthsupplements": "Thực phẩm bổ sung sức khỏe",
-      "babymaternal": "Bé & Mẹ",
-      "consumerelectronics": "Điện tử tiêu dùng",
-      "medicaldevices": "Thiết bị y tế",
-      "crossborderecommerce": "Thương mại điện tử xuyên biên giới"
-    },
-    "search": "Tìm kiếm",
-    "freeCheck": "Kiểm tra miễn phí"
-  },
   "Home": {
     "heroTitle": "Tuân thủ Trung Quốc cho thương hiệu của bạn",
     "heroSubtitle": "Dịch vụ quản lý nhập khẩu một cửa đối với thực phẩm, mỹ phẩm, đồ điện tử, v.v. Được các nhà xuất khẩu ở hơn 50 quốc gia tin cậy với hơn 15 năm kinh nghiệm.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Quản lý nhà nước về điều tiết thị trường)",
     "samrDefinition": "SAMR là Cơ quan Quản lý Nhà nước về Điều tiết Thị trường của Trung Quốc. Nó giám sát chất lượng sản phẩm, tiêu chuẩn an toàn thực phẩm, thực thi chống độc quyền và giám sát thị trường. SAMR hợp tác với GACC về quy định về thực phẩm và mỹ phẩm."
   },
-  "ContactForm": {
-    "title": "Đánh giá tuân thủ miễn phí",
-    "subtitle": "Hãy cho chúng tôi biết về sản phẩm của bạn và chúng tôi sẽ cung cấp lộ trình tuân thủ được cá nhân hóa.",
-    "emailLabel": "Email doanh nghiệp",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Tin nhắn (tùy chọn)",
-    "messagePlaceholder": "Mô tả sản phẩm hoặc nhu cầu tuân thủ của bạn...",
-    "button": "Gửi đánh giá miễn phí",
-    "privacy": "Chúng tôi tôn trọng sự riêng tư của bạn. Không có thư rác, bao giờ hết."
-  },
   "Quote": {
     "metaTitle": "Nhận báo giá tuân thủ miễn phí của Trung Quốc | Tuân thủ thương mại Trung Quốc",
     "metaDescription": "Yêu cầu tư vấn miễn phí về việc tuân thủ nhập khẩu của Trung Quốc. Đăng ký GACC, chứng nhận CCC, nộp hồ sơ NMPA, đánh giá nhãn. Phản hồi trong vòng 24 giờ.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "Các quy định của CBEC, tuân thủ nền tảng và tối ưu hóa thuế."
     }
   },
-  "breadcrumb": {
-    "home": "Trang chủ",
-    "services": "Dịch vụ",
-    "blog": "Blog",
-    "industries": "ngành công nghiệp",
-    "packages": "Gói",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Cần dịch vụ này?",
-    "ctaSubtitle": "Nhận đánh giá tuân thủ miễn phí phù hợp với sản phẩm của bạn.",
-    "ctaUrgency": "Tư vấn miễn phí → phản hồi 24h",
-    "ctaButton": "Nhận đánh giá miễn phí"
-  },
   "IndustryCCC": {
     "coverItems1": "Đánh giá thư mục chứng nhận CCC",
     "coverItems2": "Phối hợp thử nghiệm trong phòng thí nghiệm được CNCA công nhận",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Hướng dẫn tuân thủ vận chuyển và lưu trữ",
     "coverItems6": "Giám sát quy định liên tục và hỗ trợ đổi mới",
     "coverItems7": "Đào tạo và tư vấn tuân thủ ngành hóa chất"
-  },
-  "MobileTab": {
-    "home": "Trang chủ",
-    "services": "Dịch vụ",
-    "blog": "Blog",
-    "contact": "Liên hệ"
   },
   "aria": {
     "whatsappLabel": "Liên hệ với chúng tôi trên WhatsApp",

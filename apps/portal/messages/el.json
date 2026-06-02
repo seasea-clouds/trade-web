@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Σπίτι",
-    "about": "Περίπου",
-    "services": "Υπηρεσίες",
-    "packages": "Πακέτα",
-    "faq": "FAQ",
-    "blog": "Insights",
-    "contact": "Επικοινωνήστε μαζί μας",
-    "whatsapp": "WhatsApp",
-    "quote": "Λάβετε μια προσφορά",
-    "industries": "Βιομηχανίες",
-    "search": "Αναζήτηση",
-    "freeCheck": "Δωρεάν έλεγχος",
-    "servicesDropdown": {
-      "gacc": "Εγγραφή Τροφίμων GACC",
-      "label": "Συμμόρφωση με την κινεζική ετικέτα",
-      "ccc": "Πιστοποίηση CCC",
-      "cosmetics": "Αρχειοθέτηση καλλυντικών (NMPA)",
-      "ecommerce": "Διασυνοριακό ηλεκτρονικό εμπόριο",
-      "brand": "Προστασία της επωνυμίας"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Αυτοέλεγχος συμμόρφωσης της Κίνας | Συμμόρφωση SinoTrade",
     "description": "Ελέγξτε εάν το προϊόν σας χρειάζεται εγγραφή GACC, πιστοποίηση CCC ή κατάθεση NMPA για εξαγωγή στην Κίνα.",

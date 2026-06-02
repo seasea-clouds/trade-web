@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Domov",
-    "about": "O tem",
-    "services": "Storitve",
-    "servicesDropdown": {
-      "gacc": "GACC Registracija hrane",
-      "label": "Skladnost s kitajsko oznako",
-      "ccc": "Certificiranje CCC",
-      "cosmetics": "Kozmetična vložitev (NMPA)",
-      "ecommerce": "Čezmejno e-trgovanje",
-      "brand": "Zaščita blagovne znamke"
-    },
-    "packages": "Paketi",
-    "faq": "pogosta vprašanja",
-    "blog": "Vpogledi",
-    "contact": "Kontaktirajte nas",
-    "whatsapp": "WhatsApp",
-    "quote": "Pridobite ponudbo",
-    "industries": "Industrije",
-    "industriesDropdown": {
-      "dairymilkproducts": "Mlečni in mlečni izdelki",
-      "meatseafood": "Meso in morski sadeži",
-      "winespirits": "Vino in žgane pijače",
-      "skincarecosmetics": "Nega kože in kozmetika",
-      "petfood": "Hrana za hišne ljubljenčke",
-      "healthsupplements": "Zdravstveni dodatki",
-      "babymaternal": "Baby & Maternal",
-      "consumerelectronics": "Zabavna elektronika",
-      "medicaldevices": "Medicinski pripomočki",
-      "crossborderecommerce": "Čezmejno e-trgovanje"
-    },
-    "search": "Iskanje",
-    "freeCheck": "Brezplačni pregled"
-  },
   "Home": {
     "heroTitle": "Kitajska skladnost za vašo blagovno znamko",
     "heroSubtitle": "Uvozne regulativne storitve na enem mestu za hrano, kozmetiko, elektroniko in drugo. Zaupajo mu izvozniki v več kot 50 državah z več kot 15-letnimi izkušnjami.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Državna uprava za regulacijo trga)",
     "samrDefinition": "SAMR je kitajska državna uprava za regulacijo trga. Nadzira kakovost izdelkov, standarde varnosti hrane, protimonopolno uveljavljanje in nadzor trga. SAMR sodeluje z GACC pri regulaciji hrane in kozmetike."
   },
-  "ContactForm": {
-    "title": "Brezplačna ocena skladnosti",
-    "subtitle": "Povejte nam o svojih izdelkih in pripravili vam bomo osebni načrt skladnosti.",
-    "emailLabel": "Poslovna e-pošta",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Sporočilo (neobvezno)",
-    "messagePlaceholder": "Opišite svoje izdelke ali potrebe po skladnosti ...",
-    "button": "Oddajte brezplačno oceno",
-    "privacy": "Spoštujemo vašo zasebnost. Brez vsiljene pošte, nikoli."
-  },
   "Quote": {
     "metaTitle": "Pridobite brezplačno ponudbo skladnosti s predpisi za Kitajsko | Skladnost s predpisi SinoTrade",
     "metaDescription": "Zahtevajte brezplačno posvetovanje glede skladnosti uvoza na Kitajsko. Registracija GACC, certificiranje CCC, prijava NMPA, pregled etikete. Odziv v 24 urah.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "Predpisi CBEC, skladnost platforme in davčna optimizacija."
     }
   },
-  "breadcrumb": {
-    "home": "Domov",
-    "services": "Storitve",
-    "blog": "Blog",
-    "industries": "Industrije",
-    "packages": "Paketi",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Potrebujete to storitev?",
-    "ctaSubtitle": "Zagotovite si brezplačno oceno skladnosti, prilagojeno vašim izdelkom.",
-    "ctaUrgency": "Brezplačno svetovanje → odgovor 24 ur",
-    "ctaButton": "Pridobite brezplačno oceno"
-  },
   "IndustryCCC": {
     "coverItems1": "Ocena imenika certifikatov CCC",
     "coverItems2": "Usklajevanje laboratorijskih testiranj, akreditiranih s strani CNCA",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Navodila za skladnost pri transportu in skladiščenju",
     "coverItems6": "Stalno regulativno spremljanje in podpora za obnovo",
     "coverItems7": "Usposabljanje in svetovanje o skladnosti v kemični industriji"
-  },
-  "MobileTab": {
-    "home": "Domov",
-    "services": "Storitve",
-    "blog": "Blog",
-    "contact": "Kontakt"
   },
   "aria": {
     "whatsappLabel": "Pišite nam na WhatsApp",

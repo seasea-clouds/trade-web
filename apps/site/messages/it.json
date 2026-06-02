@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Casa",
-    "about": "Chi siamo",
-    "services": "Servizi",
-    "servicesDropdown": {
-      "gacc": "Registrazione alimentare GACC",
-      "label": "Conformità dell'etichetta cinese",
-      "ccc": "Certificazione CCC",
-      "cosmetics": "Archiviazione di cosmetici (NMPA)",
-      "ecommerce": "Commercio elettronico transfrontaliero",
-      "brand": "Protezione del marchio"
-    },
-    "packages": "Pacchetti",
-    "faq": "Domande frequenti",
-    "blog": "Blog",
-    "contact": "Contattaci",
-    "whatsapp": "Whatsapp",
-    "quote": "Ottieni un preventivo",
-    "industries": "Industrie",
-    "industriesDropdown": {
-      "dairymilkproducts": "Latticini e prodotti lattiero-caseari",
-      "meatseafood": "Carne e frutti di mare",
-      "winespirits": "Vino e liquori",
-      "skincarecosmetics": "Cura della pelle e cosmetici",
-      "petfood": "Cibo per animali domestici",
-      "healthsupplements": "Supplementi per la salute",
-      "babymaternal": "Bambino e materno",
-      "consumerelectronics": "Elettronica di consumo",
-      "medicaldevices": "Dispositivi medici",
-      "crossborderecommerce": "Commercio elettronico transfrontaliero"
-    },
-    "search": "Ricerca",
-    "freeCheck": "Controllo gratuito"
-  },
   "Home": {
     "heroTitle": "Conformità cinese per il tuo marchio",
     "heroSubtitle": "Servizi di regolamentazione dell'importazione one-stop per alimenti, cosmetici, elettronica e altro ancora. Scelto dagli esportatori in oltre 50 paesi con oltre 15 anni di esperienza.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Amministrazione statale per la regolazione del mercato)",
     "samrDefinition": "SAMR è l'Amministrazione statale cinese per la regolamentazione del mercato. Supervisiona la qualità dei prodotti, gli standard di sicurezza alimentare, l’applicazione delle norme antimonopolio e la supervisione del mercato. SAMR collabora con GACC sulla regolamentazione di alimenti e cosmetici."
   },
-  "ContactForm": {
-    "title": "Valutazione di conformità gratuita",
-    "subtitle": "Parlaci dei tuoi prodotti e ti forniremo una roadmap di conformità personalizzata.",
-    "emailLabel": "E-mail aziendale",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Messaggio (facoltativo)",
-    "messagePlaceholder": "Descrivi i tuoi prodotti o le tue esigenze di conformità...",
-    "button": "Invia valutazione gratuita",
-    "privacy": "Rispettiamo la tua privacy. Niente spam, mai."
-  },
   "Quote": {
     "metaTitle": "Ottieni un preventivo gratuito per la conformità con la Cina | Conformità SinoTrade",
     "metaDescription": "Richiedi una consulenza gratuita per la conformità all'importazione dalla Cina. Registrazione GACC, certificazione CCC, deposito NMPA, revisione etichetta. Risposta entro 24 ore.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "Normative CBEC, conformità della piattaforma e ottimizzazione fiscale."
     }
   },
-  "breadcrumb": {
-    "home": "Home",
-    "services": "Servizi",
-    "blog": "Blog",
-    "industries": "Industrie",
-    "packages": "Pacchetti",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Hai bisogno di questo servizio?",
-    "ctaSubtitle": "Ottieni una valutazione di conformità gratuita su misura per i tuoi prodotti.",
-    "ctaUrgency": "Consulenza gratuita → risposta 24 ore su 24",
-    "ctaButton": "Ottieni una valutazione gratuita"
-  },
   "IndustryCCC": {
     "coverItems1": "Valutazione della directory di certificazione CCC",
     "coverItems2": "Coordinamento prove laboratori accreditati CNCA",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Guida alla conformità per il trasporto e lo stoccaggio",
     "coverItems6": "Monitoraggio normativo continuo e supporto al rinnovo",
     "coverItems7": "Formazione e consulenza sulla conformità dell'industria chimica"
-  },
-  "MobileTab": {
-    "home": "Casa",
-    "services": "Servizi",
-    "blog": "Blog",
-    "contact": "Contatti"
   },
   "aria": {
     "whatsappLabel": "Contattaci su WhatsApp",

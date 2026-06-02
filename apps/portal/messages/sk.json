@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Domov",
-    "about": "O",
-    "services": "Služby",
-    "packages": "Balíčky",
-    "faq": "FAQ",
-    "blog": "Insights",
-    "contact": "Kontaktujte nás",
-    "whatsapp": "WhatsApp",
-    "quote": "Získajte cenovú ponuku",
-    "industries": "Odvetvia",
-    "search": "Hľadať",
-    "freeCheck": "Bezplatná kontrola",
-    "servicesDropdown": {
-      "gacc": "Registrácia potravín GACC",
-      "label": "Súlad s čínskymi štítkami",
-      "ccc": "Certifikácia CCC",
-      "cosmetics": "Kozmetický pilník (NMPA)",
-      "ecommerce": "Cezhraničný elektronický obchod",
-      "brand": "Ochrana značky"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Samokontrola zhody Číny | Súlad SinoTrade",
     "description": "Skontrolujte, či váš produkt potrebuje registráciu GACC, certifikáciu CCC alebo podanie NMPA na export do Číny.",

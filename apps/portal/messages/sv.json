@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Hem",
-    "about": "Om",
-    "services": "Tjänster",
-    "packages": "Paket",
-    "faq": "FAQ",
-    "blog": "Insikter",
-    "contact": "Kontakta oss",
-    "whatsapp": "WhatsApp",
-    "quote": "Få en offert",
-    "industries": "industrier",
-    "search": "Sök",
-    "freeCheck": "Gratis check",
-    "servicesDropdown": {
-      "gacc": "GACC Food Registration",
-      "label": "Efterlevnad av kinesiska etiketter",
-      "ccc": "CCC-certifiering",
-      "cosmetics": "Kosmetikaarkivering (NMPA)",
-      "ecommerce": "Gränsöverskridande e-handel",
-      "brand": "Varumärkesskydd"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Självkontroll av Kinas efterlevnad | SinoTrade efterlevnad",
     "description": "Kontrollera om din produkt behöver GACC-registrering, CCC-certifiering eller NMPA-anmälan för export till Kina.",

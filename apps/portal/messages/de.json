@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Zuhause",
-    "about": "Über",
-    "services": "Dienstleistungen",
-    "packages": "Pakete",
-    "faq": "FAQ",
-    "blog": "Einblicke",
-    "contact": "Kontaktieren Sie uns",
-    "whatsapp": "WhatsApp",
-    "quote": "Holen Sie sich ein Angebot",
-    "industries": "Branchen",
-    "search": "Suchen",
-    "freeCheck": "Kostenloser Scheck",
-    "servicesDropdown": {
-      "gacc": "GACC-Lebensmittelregistrierung",
-      "label": "Einhaltung chinesischer Etiketten",
-      "ccc": "CCC-Zertifizierung",
-      "cosmetics": "Einreichung von Kosmetika (NMPA)",
-      "ecommerce": "Grenzüberschreitender E-Commerce",
-      "brand": "Markenschutz"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "China-Compliance-Selbstcheck | SinoTrade-Konformität",
     "description": "Prüfen Sie, ob Ihr Produkt für den Export nach China eine GACC-Registrierung, CCC-Zertifizierung oder NMPA-Anmeldung benötigt.",

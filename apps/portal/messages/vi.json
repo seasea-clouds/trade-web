@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Trang chủ",
-    "about": "Giới thiệu",
-    "services": "Dịch vụ",
-    "packages": "Gói",
-    "faq": "Câu hỏi thường gặp",
-    "blog": "Thông tin chi tiết",
-    "contact": "Liên hệ với chúng tôi",
-    "whatsapp": "WhatsApp",
-    "quote": "Nhận báo giá",
-    "industries": "ngành công nghiệp",
-    "search": "Tìm kiếm",
-    "freeCheck": "Kiểm tra miễn phí",
-    "servicesDropdown": {
-      "gacc": "Đăng ký thực phẩm GACC",
-      "label": "Tuân thủ nhãn hiệu Trung Quốc",
-      "ccc": "Chứng nhận CCC",
-      "cosmetics": "Nộp hồ sơ mỹ phẩm (NMPA)",
-      "ecommerce": "Thương mại điện tử xuyên biên giới",
-      "brand": "Bảo vệ thương hiệu"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Tự kiểm tra tuân thủ của Trung Quốc | Tuân thủ thương mại Trung Quốc",
     "description": "Kiểm tra xem sản phẩm của bạn có cần đăng ký GACC, chứng nhận CCC hay nộp đơn NMPA để xuất khẩu sang Trung Quốc hay không.",

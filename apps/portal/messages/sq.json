@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Shtëpi",
-    "about": "Rreth",
-    "services": "Shërbimet",
-    "packages": "Paketat",
-    "faq": "FAQ",
-    "blog": "Vështrime",
-    "contact": "Na kontaktoni",
-    "whatsapp": "WhatsApp",
-    "quote": "Merrni një kuotë",
-    "industries": "Industritë",
-    "search": "Kërko",
-    "freeCheck": "Kontroll falas",
-    "servicesDropdown": {
-      "gacc": "Regjistrimi i Ushqimit GACC",
-      "label": "Pajtueshmëria me etiketën kineze",
-      "ccc": "Certifikimi CCC",
-      "cosmetics": "Regjistrimi i kozmetikës (NMPA)",
-      "ecommerce": "E-commerce ndërkufitare",
-      "brand": "Mbrojtja e markës"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Vetë-Kontrolli i Pajtueshmërisë së Kinës | Pajtueshmëria e SinoTrade",
     "description": "Kontrolloni nëse produkti juaj ka nevojë për regjistrim GACC, certifikim CCC ose paraqitje NMPA për eksport në Kinë.",

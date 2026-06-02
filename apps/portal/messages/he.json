@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "בית",
-    "about": "בערך",
-    "services": "שירותים",
-    "packages": "חבילות",
-    "faq": "שאלות נפוצות",
-    "blog": "תובנות",
-    "contact": "צור קשר",
-    "whatsapp": "וואטסאפ",
-    "quote": "קבל הצעת מחיר",
-    "industries": "תעשיות",
-    "search": "חפש",
-    "freeCheck": "צ'ק חינם",
-    "servicesDropdown": {
-      "gacc": "רישום מזון GACC",
-      "label": "תאימות לתווית סינית",
-      "ccc": "אישור CCC",
-      "cosmetics": "הגשת קוסמטיקה (NMPA)",
-      "ecommerce": "מסחר אלקטרוני חוצה גבולות",
-      "brand": "הגנת מותג"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "בדיקה עצמית של תאימות סין | תאימות SinoTrade",
     "description": "בדוק אם המוצר שלך צריך רישום GACC, אישור CCC או הגשת NMPA לייצוא לסין.",

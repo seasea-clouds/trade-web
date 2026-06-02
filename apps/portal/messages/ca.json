@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Casa",
-    "about": "Sobre",
-    "services": "Serveis",
-    "packages": "Paquets",
-    "faq": "PMF",
-    "blog": "Insights",
-    "contact": "Contacta amb nosaltres",
-    "whatsapp": "WhatsApp",
-    "quote": "Obteniu un pressupost",
-    "industries": "Indústries",
-    "search": "Cerca",
-    "freeCheck": "Comprovació gratuïta",
-    "servicesDropdown": {
-      "gacc": "Registre d'Aliments GACC",
-      "label": "Compliment de l'etiqueta xinesa",
-      "ccc": "Certificació CCC",
-      "cosmetics": "Presentació de cosmètics (NMPA)",
-      "ecommerce": "Comerç electrònic transfronterer",
-      "brand": "Protecció de marca"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Autocontrol de compliment de la Xina | Compliment de SinoTrade",
     "description": "Comproveu si el vostre producte necessita un registre GACC, una certificació CCC o una presentació NMPA per exportar-lo a la Xina.",

@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Home",
-    "about": "About",
-    "services": "Services",
-    "servicesDropdown": {
-      "gacc": "GACC Food Registration",
-      "label": "Chinese Label Compliance",
-      "ccc": "CCC Certification",
-      "cosmetics": "Cosmetics Filing (NMPA)",
-      "ecommerce": "Cross-border E-commerce",
-      "brand": "Brand Protection"
-    },
-    "packages": "Packages",
-    "faq": "FAQ",
-    "blog": "Insights",
-    "contact": "Contact Us",
-    "whatsapp": "WhatsApp",
-    "quote": "Get a Quote",
-    "industries": "Industries",
-    "industriesDropdown": {
-      "dairymilkproducts": "Dairy & Milk Products",
-      "meatseafood": "Meat & Seafood",
-      "winespirits": "Wine & Spirits",
-      "skincarecosmetics": "Skincare & Cosmetics",
-      "petfood": "Pet Food",
-      "healthsupplements": "Health Supplements",
-      "babymaternal": "Baby & Maternal",
-      "consumerelectronics": "Consumer Electronics",
-      "medicaldevices": "Medical Devices",
-      "crossborderecommerce": "Cross-border E-commerce"
-    },
-    "search": "Search",
-    "freeCheck": "Free Check"
-  },
   "Home": {
     "heroTitle": "China Compliance for Your Brand",
     "heroSubtitle": "One-stop import regulatory services for food, cosmetics, electronics, and more. Trusted by exporters in 50+ countries with 15+ years of expertise.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (State Administration for Market Regulation)",
     "samrDefinition": "SAMR is China's State Administration for Market Regulation. It oversees product quality, food safety standards, anti-monopoly enforcement, and market supervision. SAMR works with GACC on food and cosmetics regulation."
   },
-  "ContactForm": {
-    "title": "Free Compliance Assessment",
-    "subtitle": "Tell us about your products and we'll provide a personalized compliance roadmap.",
-    "emailLabel": "Business Email",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Message (optional)",
-    "messagePlaceholder": "Describe your products or compliance needs...",
-    "button": "Submit Free Assessment",
-    "privacy": "We respect your privacy. No spam, ever."
-  },
   "Quote": {
     "metaTitle": "Get Free China Compliance Quote | SinoTrade Compliance",
     "metaDescription": "Request a free consultation for China import compliance. GACC registration, CCC certification, NMPA filing, label review. Response within 24 hours.",
@@ -1170,20 +1125,6 @@
     "coverItems6": "Ongoing regulatory monitoring and compliance support",
     "coverItems7": "E-commerce platform compliance training and advisory"
   },
-  "breadcrumb": {
-    "home": "Home",
-    "services": "Services",
-    "blog": "Blog",
-    "industries": "Industries",
-    "packages": "Packages",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Need This Service?",
-    "ctaSubtitle": "Get a free compliance assessment tailored to your products.",
-    "ctaUrgency": "Free consultation → 24h response",
-    "ctaButton": "Get Free Assessment"
-  },
   "IndustryCCC": {
     "coverItems1": "CCC certification directory assessment",
     "coverItems2": "CNCA-accredited laboratory testing coordination",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Transport and storage compliance guidance",
     "coverItems6": "Ongoing regulatory monitoring and renewal support",
     "coverItems7": "Chemical industry compliance training and advisory"
-  },
-  "MobileTab": {
-    "home": "Home",
-    "services": "Services",
-    "blog": "Blog",
-    "contact": "Contact"
   },
   "aria": {
     "whatsappLabel": "Contact us on WhatsApp",

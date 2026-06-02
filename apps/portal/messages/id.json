@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Rumah",
-    "about": "Tentang",
-    "services": "Layanan",
-    "packages": "Paket",
-    "faq": "Pertanyaan Umum",
-    "blog": "Wawasan",
-    "contact": "Hubungi Kami",
-    "whatsapp": "Ada apa",
-    "quote": "Dapatkan Penawaran",
-    "industries": "Industri",
-    "search": "Cari",
-    "freeCheck": "Cek Gratis",
-    "servicesDropdown": {
-      "gacc": "Pendaftaran Makanan GACC",
-      "label": "Kepatuhan Label Tiongkok",
-      "ccc": "Sertifikasi CCC",
-      "cosmetics": "Pengarsipan Kosmetik (NMPA)",
-      "ecommerce": "E-niaga lintas batas",
-      "brand": "Perlindungan Merek"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Pemeriksaan Mandiri Kepatuhan Tiongkok | Kepatuhan SinoTrade",
     "description": "Periksa apakah produk Anda memerlukan registrasi GACC, sertifikasi CCC, atau pengajuan NMPA untuk diekspor ke Tiongkok.",

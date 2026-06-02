@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "მთავარი",
-    "about": "შესახებ",
-    "services": "სერვისები",
-    "packages": "პაკეტები",
-    "faq": "FAQ",
-    "blog": "Insights",
-    "contact": "დაგვიკავშირდით",
-    "whatsapp": "WhatsApp",
-    "quote": "მიიღეთ ციტატა",
-    "industries": "ინდუსტრიები",
-    "search": "ძიება",
-    "freeCheck": "უფასო შემოწმება",
-    "servicesDropdown": {
-      "gacc": "GACC სურსათის რეგისტრაცია",
-      "label": "ჩინური ეტიკეტების შესაბამისობა",
-      "ccc": "CCC სერთიფიკატი",
-      "cosmetics": "კოსმეტიკის შევსება (NMPA)",
-      "ecommerce": "ტრანსსასაზღვრო ელექტრონული კომერცია",
-      "brand": "ბრენდის დაცვა"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "ჩინეთის შესაბამისობის თვითშემოწმება | SinoTrade შესაბამისობა",
     "description": "შეამოწმეთ, სჭირდება თუ არა თქვენს პროდუქტს GACC რეგისტრაცია, CCC სერთიფიკატი ან NMPA შეტანა ჩინეთში ექსპორტისთვის.",

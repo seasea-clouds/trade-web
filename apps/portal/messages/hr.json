@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Dom",
-    "about": "O",
-    "services": "Usluge",
-    "packages": "Paketi",
-    "faq": "FAQ",
-    "blog": "Uvidi",
-    "contact": "Kontaktirajte nas",
-    "whatsapp": "WhatsApp",
-    "quote": "Zatražite ponudu",
-    "industries": "Industrije",
-    "search": "Traži",
-    "freeCheck": "Besplatni ček",
-    "servicesDropdown": {
-      "gacc": "GACC Registracija hrane",
-      "label": "Sukladnost kineske oznake",
-      "ccc": "CCC certifikat",
-      "cosmetics": "Kozmetička dokumentacija (NMPA)",
-      "ecommerce": "Prekogranična e-trgovina",
-      "brand": "Zaštita marke"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Samoprovjera usklađenosti u Kini | Sukladnost SinoTrade",
     "description": "Provjerite treba li vaš proizvod GACC registraciju, CCC certifikaciju ili NMPA prijavu za izvoz u Kinu.",

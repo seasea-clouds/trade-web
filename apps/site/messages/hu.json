@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Kezdőlap",
-    "about": "Körülbelül",
-    "services": "Szolgáltatások",
-    "servicesDropdown": {
-      "gacc": "GACC élelmiszer regisztráció",
-      "label": "A kínai címkék megfelelősége",
-      "ccc": "CCC tanúsítás",
-      "cosmetics": "Kozmetikai reszelő (NMPA)",
-      "ecommerce": "Határokon átnyúló e-kereskedelem",
-      "brand": "Márkavédelem"
-    },
-    "packages": "Csomagok",
-    "faq": "GYIK",
-    "blog": "Insights",
-    "contact": "Lépjen kapcsolatba velünk",
-    "whatsapp": "WhatsApp",
-    "quote": "Kérjen árajánlatot",
-    "industries": "Iparágak",
-    "industriesDropdown": {
-      "dairymilkproducts": "Tej- és tejtermékek",
-      "meatseafood": "Hús és tenger gyümölcsei",
-      "winespirits": "Bor és szeszes italok",
-      "skincarecosmetics": "Bőrápolás és kozmetika",
-      "petfood": "Állateledel",
-      "healthsupplements": "Egészség-kiegészítők",
-      "babymaternal": "Baba és anya",
-      "consumerelectronics": "Szórakoztató elektronika",
-      "medicaldevices": "Orvosi eszközök",
-      "crossborderecommerce": "Határokon átnyúló e-kereskedelem"
-    },
-    "search": "Keresés",
-    "freeCheck": "Ingyenes csekk"
-  },
   "Home": {
     "heroTitle": "Kínai megfelelőség az Ön márkájához",
     "heroSubtitle": "Egyablakos importszabályozási szolgáltatások élelmiszerekhez, kozmetikumokhoz, elektronikai cikkekhez és egyebekhez. Több mint 50 ország exportőrei bíznak meg benne, több mint 15 éves tapasztalattal.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Állami Piacszabályozási Hivatal)",
     "samrDefinition": "A SAMR Kína piacszabályozási államigazgatása. Felügyeli a termékminőséget, az élelmiszer-biztonsági szabványokat, a monopóliumellenes betartatást és a piacfelügyeletet. A SAMR együttműködik a GACC-vel az élelmiszer- és kozmetikai szabályozás terén."
   },
-  "ContactForm": {
-    "title": "Ingyenes megfelelőségi értékelés",
-    "subtitle": "Meséljen nekünk termékeiről, és mi személyre szabott megfelelőségi ütemtervet készítünk.",
-    "emailLabel": "Üzleti e-mail",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Üzenet (nem kötelező)",
-    "messagePlaceholder": "Ismertesse termékeit vagy megfelelőségi igényeit...",
-    "button": "Ingyenes értékelés benyújtása",
-    "privacy": "Tiszteletben tartjuk a magánéletét. Semmi spam, soha."
-  },
   "Quote": {
     "metaTitle": "Kérjen ingyenes kínai megfelelőségi árajánlatot | SinoTrade megfelelőség",
     "metaDescription": "Kérjen ingyenes konzultációt a kínai import megfelelőségéről. GACC regisztráció, CCC tanúsítás, NMPA bejelentés, címke felülvizsgálat. Válasz 24 órán belül.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "CBEC előírások, platformmegfelelőség és adóoptimalizálás."
     }
   },
-  "breadcrumb": {
-    "home": "Kezdőlap",
-    "services": "Szolgáltatások",
-    "blog": "Blog",
-    "industries": "Iparágak",
-    "packages": "Csomagok",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Szüksége van erre a szolgáltatásra?",
-    "ctaSubtitle": "Kérjen ingyenes megfelelőségi értékelést a termékeire szabva.",
-    "ctaUrgency": "Ingyenes konzultáció → 24 órás válaszadás",
-    "ctaButton": "Kérjen ingyenes értékelést"
-  },
   "IndustryCCC": {
     "coverItems1": "CCC tanúsítási címtár értékelése",
     "coverItems2": "CNCA által akkreditált laboratóriumi vizsgálati koordináció",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Szállítási és tárolási megfelelőségi útmutató",
     "coverItems6": "Folyamatos szabályozási monitoring és megújítási támogatás",
     "coverItems7": "Vegyipari megfelelőségi képzés és tanácsadás"
-  },
-  "MobileTab": {
-    "home": "Kezdőlap",
-    "services": "Szolgáltatások",
-    "blog": "Blog",
-    "contact": "Kapcsolat"
   },
   "aria": {
     "whatsappLabel": "Vegye fel velünk a kapcsolatot a WhatsApp-on",

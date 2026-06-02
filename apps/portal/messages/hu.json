@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Otthon",
-    "about": "Körülbelül",
-    "services": "Szolgáltatások",
-    "packages": "Csomagok",
-    "faq": "GYIK",
-    "blog": "Insights",
-    "contact": "Lépjen kapcsolatba velünk",
-    "whatsapp": "WhatsApp",
-    "quote": "Kérjen árajánlatot",
-    "industries": "Iparágak",
-    "search": "Keresés",
-    "freeCheck": "Ingyenes csekk",
-    "servicesDropdown": {
-      "gacc": "GACC élelmiszer regisztráció",
-      "label": "A kínai címkék megfelelősége",
-      "ccc": "CCC tanúsítás",
-      "cosmetics": "Kozmetikai reszelő (NMPA)",
-      "ecommerce": "Határokon átnyúló e-kereskedelem",
-      "brand": "Márkavédelem"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Kínai megfelelőségi önellenőrzés | SinoTrade megfelelőség",
     "description": "Ellenőrizze, hogy termékének szüksége van-e GACC-regisztrációra, CCC-tanúsítványra vagy NMPA-nyilvántartásra a Kínába irányuló exporthoz.",

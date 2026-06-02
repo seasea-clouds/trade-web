@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Nyumbani",
-    "about": "Kuhusu",
-    "services": "Huduma",
-    "packages": "Vifurushi",
-    "faq": "Maswali Yanayoulizwa Mara kwa Mara",
-    "blog": "Maarifa",
-    "contact": "Wasiliana Nasi",
-    "whatsapp": "WhatsApp",
-    "quote": "Pata Nukuu",
-    "industries": "Viwanda",
-    "search": "Tafuta",
-    "freeCheck": "Angalia Bure",
-    "servicesDropdown": {
-      "gacc": "Usajili wa Chakula wa GACC",
-      "label": "Uzingatiaji wa Lebo ya Kichina",
-      "ccc": "Udhibitisho wa CCC",
-      "cosmetics": "Ujazaji wa Vipodozi (NMPA)",
-      "ecommerce": "Biashara ya kielektroniki ya mpakani",
-      "brand": "Ulinzi wa Biashara"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Uchina Ufuataji Jiangalie | Uzingatiaji wa SinoTrade",
     "description": "Angalia ikiwa bidhaa yako inahitaji usajili wa GACC, uidhinishaji wa CCC, au uwasilishaji wa faili ya NMPA kwa ajili ya kutumwa Uchina.",

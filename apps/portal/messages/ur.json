@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "گھر",
-    "about": "کے بارے میں",
-    "services": "خدمات",
-    "packages": "پیکجز",
-    "faq": "اکثر پوچھے گئے سوالات",
-    "blog": "بصیرت",
-    "contact": "ہم سے رابطہ کریں۔",
-    "whatsapp": "واٹس ایپ",
-    "quote": "ایک اقتباس حاصل کریں۔",
-    "industries": "صنعتیں",
-    "search": "تلاش کریں۔",
-    "freeCheck": "مفت چیک",
-    "servicesDropdown": {
-      "gacc": "GACC فوڈ رجسٹریشن",
-      "label": "چینی لیبل کی تعمیل",
-      "ccc": "سی سی سی سرٹیفیکیشن",
-      "cosmetics": "کاسمیٹکس فائلنگ (NMPA)",
-      "ecommerce": "سرحد پار ای کامرس",
-      "brand": "برانڈ پروٹیکشن"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "چائنا کمپلائنس سیلف چیک | سائنو ٹریڈ کی تعمیل",
     "description": "چیک کریں کہ آیا آپ کے پروڈکٹ کو چین میں ایکسپورٹ کے لیے GACC رجسٹریشن، CCC سرٹیفیکیشن، یا NMPA فائلنگ کی ضرورت ہے۔",

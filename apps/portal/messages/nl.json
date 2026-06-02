@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Thuis",
-    "about": "Over",
-    "services": "Diensten",
-    "packages": "Pakketten",
-    "faq": "Veelgestelde vragen",
-    "blog": "Inzichten",
-    "contact": "Neem contact met ons op",
-    "whatsapp": "WhatsAppen",
-    "quote": "Ontvang een offerte",
-    "industries": "Industrieën",
-    "search": "Zoeken",
-    "freeCheck": "Gratis cheque",
-    "servicesDropdown": {
-      "gacc": "GACC-voedselregistratie",
-      "label": "Naleving van Chinese labels",
-      "ccc": "CCC-certificering",
-      "cosmetics": "Cosmetica-aanvraag (NMPA)",
-      "ecommerce": "Grensoverschrijdende e-commerce",
-      "brand": "Merkbescherming"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Zelfcontrole van de naleving van China | SinoTrade-naleving",
     "description": "Controleer of uw product GACC-registratie, CCC-certificering of NMPA-aanvraag nodig heeft voor export naar China.",

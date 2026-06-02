@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Ana sayfa",
-    "about": "Hakkında",
-    "services": "Hizmetler",
-    "packages": "Paketler",
-    "faq": "SSS",
-    "blog": "Analizler",
-    "contact": "Bize Ulaşın",
-    "whatsapp": "WhatsApp",
-    "quote": "Teklif Al",
-    "industries": "Endüstriler",
-    "search": "Ara",
-    "freeCheck": "Ücretsiz Çek",
-    "servicesDropdown": {
-      "gacc": "GACC Gıda Kaydı",
-      "label": "Çin Etiket Uyumluluğu",
-      "ccc": "CCC Sertifikası",
-      "cosmetics": "Kozmetik Dosyalama (NMPA)",
-      "ecommerce": "Sınır ötesi E-ticaret",
-      "brand": "Marka Koruması"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Çin Uyumluluk Otomatik Kontrolü | SinoTrade Uyumluluğu",
     "description": "Ürününüzün Çin'e ihracat için GACC kaydına, CCC sertifikasına veya NMPA başvurusuna ihtiyacı olup olmadığını kontrol edin.",

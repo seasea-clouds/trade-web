@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "بيت",
-    "about": "عن",
-    "services": "خدمات",
-    "packages": "الحزم",
-    "faq": "التعليمات",
-    "blog": "رؤى",
-    "contact": "اتصل بنا",
-    "whatsapp": "واتساب",
-    "quote": "احصل على عرض أسعار",
-    "industries": "الصناعات",
-    "search": "يبحث",
-    "freeCheck": "فحص مجاني",
-    "servicesDropdown": {
-      "gacc": "تسجيل الأغذية GACC",
-      "label": "الامتثال للعلامة الصينية",
-      "ccc": "شهادة سي سي سي",
-      "cosmetics": "حفظ مستحضرات التجميل (NMPA)",
-      "ecommerce": "التجارة الإلكترونية عبر الحدود",
-      "brand": "حماية العلامة التجارية"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "الصين الامتثال الذاتي التحقق | الامتثال لشركة SinoTrade",
     "description": "تحقق مما إذا كان منتجك يحتاج إلى تسجيل GACC، أو شهادة CCC، أو ملف NMPA للتصدير إلى الصين.",

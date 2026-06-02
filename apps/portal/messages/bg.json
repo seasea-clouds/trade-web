@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Начало",
-    "about": "За",
-    "services": "Услуги",
-    "packages": "Пакети",
-    "faq": "ЧЗВ",
-    "blog": "Прозрения",
-    "contact": "Свържете се с нас",
-    "whatsapp": "WhatsApp",
-    "quote": "Получете оферта",
-    "industries": "Индустрии",
-    "search": "Търсене",
-    "freeCheck": "Безплатна проверка",
-    "servicesDropdown": {
-      "gacc": "GACC регистрация на храни",
-      "label": "Съответствие на китайския етикет",
-      "ccc": "CCC Сертификация",
-      "cosmetics": "Картотека за козметика (NMPA)",
-      "ecommerce": "Трансгранична електронна търговия",
-      "brand": "Защита на марката"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "Самопроверка за съответствие в Китай | Съответствие на SinoTrade",
     "description": "Проверете дали вашият продукт се нуждае от регистрация в GACC, CCC сертификация или подаване на NMPA за износ в Китай.",

@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Tuis",
-    "about": "Oor",
-    "services": "Dienste",
-    "packages": "Pakkette",
-    "faq": "Gereelde vrae",
-    "blog": "Insigte",
-    "contact": "Kontak ons",
-    "whatsapp": "WhatsApp",
-    "quote": "Kry 'n kwotasie",
-    "industries": "Nywerhede",
-    "search": "Soek",
-    "freeCheck": "Gratis Tjek",
-    "servicesDropdown": {
-      "gacc": "GACC-voedselregistrasie",
-      "label": "Chinese etiket nakoming",
-      "ccc": "CCC Sertifisering",
-      "cosmetics": "Skoonheidsmiddelliassering (NMPA)",
-      "ecommerce": "Oorgrens e-handel",
-      "brand": "Handelsmerkbeskerming"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "China Voldoening Selfkontrole | SinoTrade-nakoming",
     "description": "Kyk of jou produk GACC-registrasie, CCC-sertifisering of NMPA-liassering benodig vir uitvoer na China.",

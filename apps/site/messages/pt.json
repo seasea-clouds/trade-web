@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Lar",
-    "about": "Sobre",
-    "services": "Serviços",
-    "servicesDropdown": {
-      "gacc": "Registro de Alimentos GACC",
-      "label": "Conformidade com rótulo chinês",
-      "ccc": "Certificação CCC",
-      "cosmetics": "Arquivamento de Cosméticos (NMPA)",
-      "ecommerce": "Comércio eletrônico transfronteiriço",
-      "brand": "Proteção da marca"
-    },
-    "packages": "Pacotes",
-    "faq": "Perguntas frequentes",
-    "blog": "Percepções",
-    "contact": "Contate-nos",
-    "whatsapp": "WhatsApp",
-    "quote": "Obtenha uma cotação",
-    "industries": "Indústrias",
-    "industriesDropdown": {
-      "dairymilkproducts": "Laticínios e produtos lácteos",
-      "meatseafood": "Carne e Frutos do Mar",
-      "winespirits": "Vinho e destilados",
-      "skincarecosmetics": "Cuidados com a pele e cosméticos",
-      "petfood": "Alimentos para animais de estimação",
-      "healthsupplements": "Suplementos de saúde",
-      "babymaternal": "Bebê e Materno",
-      "consumerelectronics": "Eletrônicos de consumo",
-      "medicaldevices": "Dispositivos Médicos",
-      "crossborderecommerce": "Comércio eletrônico transfronteiriço"
-    },
-    "search": "Procurar",
-    "freeCheck": "Cheque grátis"
-  },
   "Home": {
     "heroTitle": "Conformidade da China para sua marca",
     "heroSubtitle": "Serviços regulatórios de importação centralizados para alimentos, cosméticos, eletrônicos e muito mais. Aprovado por exportadores em mais de 50 países com mais de 15 anos de experiência.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Administração Estatal de Regulação do Mercado)",
     "samrDefinition": "SAMR é a Administração Estatal de Regulamentação do Mercado da China. Supervisiona a qualidade dos produtos, os padrões de segurança alimentar, a aplicação antimonopólio e a supervisão do mercado. A SAMR trabalha com o GACC na regulamentação de alimentos e cosméticos."
   },
-  "ContactForm": {
-    "title": "Avaliação de conformidade gratuita",
-    "subtitle": "Conte-nos sobre seus produtos e forneceremos um roteiro de conformidade personalizado.",
-    "emailLabel": "E-mail comercial",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Mensagem (opcional)",
-    "messagePlaceholder": "Descreva seus produtos ou necessidades de conformidade...",
-    "button": "Enviar avaliação gratuita",
-    "privacy": "Respeitamos sua privacidade. Nada de spam, nunca."
-  },
   "Quote": {
     "metaTitle": "Obtenha orçamento gratuito de conformidade na China | Conformidade SinoTrade",
     "metaDescription": "Solicite uma consulta gratuita para conformidade de importação da China. Registro GACC, certificação CCC, arquivamento NMPA, revisão de rótulo. Resposta dentro de 24 horas.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "Regulamentações CBEC, conformidade de plataforma e otimização tributária."
     }
   },
-  "breadcrumb": {
-    "home": "Início",
-    "services": "Serviços",
-    "blog": "Blogue",
-    "industries": "Indústrias",
-    "packages": "Pacotes",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Precisa deste serviço?",
-    "ctaSubtitle": "Obtenha uma avaliação de conformidade gratuita e personalizada para seus produtos.",
-    "ctaUrgency": "Consulta gratuita → Resposta 24h",
-    "ctaButton": "Obtenha avaliação gratuita"
-  },
   "IndustryCCC": {
     "coverItems1": "Avaliação do diretório de certificação CCC",
     "coverItems2": "Coordenação de testes laboratoriais credenciados pela CNCA",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Orientação de conformidade de transporte e armazenamento",
     "coverItems6": "Monitoramento regulatório contínuo e suporte à renovação",
     "coverItems7": "Treinamento e consultoria em conformidade na indústria química"
-  },
-  "MobileTab": {
-    "home": "Início",
-    "services": "Serviços",
-    "blog": "Blogue",
-    "contact": "Contato"
   },
   "aria": {
     "whatsappLabel": "Contate-nos no WhatsApp",

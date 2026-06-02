@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Casa",
-    "about": "Sobre",
-    "services": "Serveis",
-    "servicesDropdown": {
-      "gacc": "Registre d'Aliments GACC",
-      "label": "Compliment de l'etiqueta xinesa",
-      "ccc": "Certificació CCC",
-      "cosmetics": "Presentació de cosmètics (NMPA)",
-      "ecommerce": "Comerç electrònic transfronterer",
-      "brand": "Protecció de marca"
-    },
-    "packages": "Paquets",
-    "faq": "PMF",
-    "blog": "Insights",
-    "contact": "Contacta amb nosaltres",
-    "whatsapp": "WhatsApp",
-    "quote": "Obteniu un pressupost",
-    "industries": "Indústries",
-    "industriesDropdown": {
-      "dairymilkproducts": "Productes lactis i lactis",
-      "meatseafood": "Carn i marisc",
-      "winespirits": "Vi i licors",
-      "skincarecosmetics": "Cura de la pell i cosmètica",
-      "petfood": "Menjar per a mascotes",
-      "healthsupplements": "Suplements de salut",
-      "babymaternal": "Nadó i maternal",
-      "consumerelectronics": "Electrònica de consum",
-      "medicaldevices": "Dispositius mèdics",
-      "crossborderecommerce": "Comerç electrònic transfronterer"
-    },
-    "search": "Cerca",
-    "freeCheck": "Comprovació gratuïta"
-  },
   "Home": {
     "heroTitle": "Compliment de la Xina per a la vostra marca",
     "heroSubtitle": "Serveis reguladors d'importació únics per a aliments, cosmètics, electrònica i molt més. Confia en exportadors de més de 50 països amb més de 15 anys d'experiència.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Administració Estatal de Regulació del Mercat)",
     "samrDefinition": "SAMR és l'Administració estatal de la Xina per a la regulació del mercat. Supervisa la qualitat del producte, els estàndards de seguretat alimentària, l'aplicació antimonopoli i la supervisió del mercat. SAMR treballa amb GACC en la regulació d'aliments i cosmètics."
   },
-  "ContactForm": {
-    "title": "Avaluació gratuïta del compliment",
-    "subtitle": "Parleu-nos dels vostres productes i us proporcionarem un full de ruta de compliment personalitzat.",
-    "emailLabel": "Correu electrònic empresarial",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Missatge (opcional)",
-    "messagePlaceholder": "Descriu els teus productes o necessitats de compliment...",
-    "button": "Envieu l'avaluació gratuïta",
-    "privacy": "Respectem la teva privadesa. Sense correu brossa, mai."
-  },
   "Quote": {
     "metaTitle": "Obteniu pressupost gratuït de compliment de la Xina | Compliment de SinoTrade",
     "metaDescription": "Sol·liciteu una consulta gratuïta per al compliment de les importacions de la Xina. Registre GACC, certificació CCC, presentació NMPA, revisió d'etiquetes. Resposta en 24 hores.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "Normativa CBEC, compliment de la plataforma i optimització fiscal."
     }
   },
-  "breadcrumb": {
-    "home": "Inici",
-    "services": "Serveis",
-    "blog": "Bloc",
-    "industries": "Indústries",
-    "packages": "Paquets",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Necessites aquest servei?",
-    "ctaSubtitle": "Obteniu una avaluació de compliment gratuïta adaptada als vostres productes.",
-    "ctaUrgency": "Consulta gratuïta → Resposta 24h",
-    "ctaButton": "Obteniu una avaluació gratuïta"
-  },
   "IndustryCCC": {
     "coverItems1": "Avaluació del directori de certificació CCC",
     "coverItems2": "Coordinació d'assaigs de laboratori acreditat per CNCA",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Guia de compliment de transport i emmagatzematge",
     "coverItems6": "Supervisió regulatòria constant i suport a la renovació",
     "coverItems7": "Formació i assessorament en compliment de la indústria química"
-  },
-  "MobileTab": {
-    "home": "Inici",
-    "services": "Serveis",
-    "blog": "Bloc",
-    "contact": "Contacte"
   },
   "aria": {
     "whatsappLabel": "Contacta amb nosaltres per WhatsApp",

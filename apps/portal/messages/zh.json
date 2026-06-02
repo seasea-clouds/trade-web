@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "首页",
-    "about": "关于",
-    "services": "服务",
-    "packages": "套餐",
-    "faq": "常见问题解答",
-    "blog": "见解",
-    "contact": "联系我们",
-    "whatsapp": "WhatsApp",
-    "quote": "获取报价",
-    "industries": "行业",
-    "search": "搜索",
-    "freeCheck": "Free Check",
-    "servicesDropdown": {
-      "gacc": "GACC Food Registration",
-      "label": "中国标签合规性",
-      "ccc": "CCC认证",
-      "cosmetics": "化妆品备案（NMPA）",
-      "ecommerce": "跨境电商",
-      "brand": "品牌保护"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "China Compliance Self-Check |中贸合规",
     "description": "检查您的产品是否需要GACC注册、CCC认证或NMPA备案才能出口到中国。",

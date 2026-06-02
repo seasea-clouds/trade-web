@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Hem",
-    "about": "Om oss",
-    "services": "Tjänster",
-    "servicesDropdown": {
-      "gacc": "GACC Food Registration",
-      "label": "Efterlevnad av kinesiska etiketter",
-      "ccc": "CCC-certifiering",
-      "cosmetics": "Kosmetikaarkivering (NMPA)",
-      "ecommerce": "Gränsöverskridande e-handel",
-      "brand": "Varumärkesskydd"
-    },
-    "packages": "Paket",
-    "faq": "FAQ",
-    "blog": "Insikter",
-    "contact": "Kontakta oss",
-    "whatsapp": "WhatsApp",
-    "quote": "Få en offert",
-    "industries": "industrier",
-    "industriesDropdown": {
-      "dairymilkproducts": "Mejeri- och mjölkprodukter",
-      "meatseafood": "Kött & Skaldjur",
-      "winespirits": "Vin & Sprit",
-      "skincarecosmetics": "Hudvård & Kosmetika",
-      "petfood": "Djurmat",
-      "healthsupplements": "Hälsotillskott",
-      "babymaternal": "Baby & Maternal",
-      "consumerelectronics": "Konsumentelektronik",
-      "medicaldevices": "Medicinsk utrustning",
-      "crossborderecommerce": "Gränsöverskridande e-handel"
-    },
-    "search": "Söka",
-    "freeCheck": "Gratis check"
-  },
   "Home": {
     "heroTitle": "Kinas efterlevnad för ditt varumärke",
     "heroSubtitle": "En-stop-importreglerande tjänster för mat, kosmetika, elektronik och mer. Tillförlitlig av exportörer i 50+ länder med 15+ års expertis.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Statsförvaltningen för marknadsreglering)",
     "samrDefinition": "SAMR är Kinas statliga administration för marknadsreglering. Den övervakar produktkvalitet, livsmedelssäkerhetsnormer, anti-monopoltillsyn och marknadsövervakning. SAMR samarbetar med GACC om reglering av livsmedel och kosmetika."
   },
-  "ContactForm": {
-    "title": "Gratis efterlevnadsbedömning",
-    "subtitle": "Berätta för oss om dina produkter så tillhandahåller vi en personlig färdplan för efterlevnad.",
-    "emailLabel": "Företags e-post",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Meddelande (valfritt)",
-    "messagePlaceholder": "Beskriv dina produkter eller efterlevnadsbehov...",
-    "button": "Skicka in gratis bedömning",
-    "privacy": "Vi respekterar din integritet. Ingen spam, någonsin."
-  },
   "Quote": {
     "metaTitle": "Få gratis offert för Kinas efterlevnad | SinoTrade efterlevnad",
     "metaDescription": "Begär en kostnadsfri konsultation för Kinas importefterlevnad. GACC-registrering, CCC-certifiering, NMPA-anmälan, etikettgranskning. Svar inom 24 timmar.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "CBEC-regler, plattformsefterlevnad och skatteoptimering."
     }
   },
-  "breadcrumb": {
-    "home": "Hem",
-    "services": "Tjänster",
-    "blog": "Blogg",
-    "industries": "industrier",
-    "packages": "Paket",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Behöver du den här tjänsten?",
-    "ctaSubtitle": "Få en kostnadsfri efterlevnadsbedömning skräddarsydd för dina produkter.",
-    "ctaUrgency": "Gratis konsultation → 24h svar",
-    "ctaButton": "Få gratis bedömning"
-  },
   "IndustryCCC": {
     "coverItems1": "CCC-certifieringskatalogbedömning",
     "coverItems2": "CNCA-ackrediterad koordinering av laboratorietester",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Vägledning för efterlevnad av transport och lagring",
     "coverItems6": "Löpande regulatorisk övervakning och förnyelsestöd",
     "coverItems7": "Utbildning och rådgivning i kemisk industri"
-  },
-  "MobileTab": {
-    "home": "Hem",
-    "services": "Tjänster",
-    "blog": "Blogg",
-    "contact": "Kontakt"
   },
   "aria": {
     "whatsappLabel": "Kontakta oss på WhatsApp",

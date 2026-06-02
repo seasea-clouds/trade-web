@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Rumah",
-    "about": "Tentang",
-    "services": "Layanan",
-    "servicesDropdown": {
-      "gacc": "Pendaftaran Makanan GACC",
-      "label": "Kepatuhan Label Tiongkok",
-      "ccc": "Sertifikasi CCC",
-      "cosmetics": "Pengarsipan Kosmetik (NMPA)",
-      "ecommerce": "E-niaga lintas batas",
-      "brand": "Perlindungan Merek"
-    },
-    "packages": "Paket",
-    "faq": "Pertanyaan Umum",
-    "blog": "Wawasan",
-    "contact": "Hubungi kami",
-    "whatsapp": "Ada apa",
-    "quote": "Dapatkan Penawaran",
-    "industries": "Industri",
-    "industriesDropdown": {
-      "dairymilkproducts": "Produk Susu & Susu",
-      "meatseafood": "Daging & Makanan Laut",
-      "winespirits": "Anggur & Roh",
-      "skincarecosmetics": "Perawatan Kulit & Kosmetik",
-      "petfood": "Makanan Hewan Peliharaan",
-      "healthsupplements": "Suplemen Kesehatan",
-      "babymaternal": "Bayi & Ibu",
-      "consumerelectronics": "Elektronik Konsumen",
-      "medicaldevices": "Alat kesehatan",
-      "crossborderecommerce": "E-niaga lintas batas"
-    },
-    "search": "Mencari",
-    "freeCheck": "Cek Gratis"
-  },
   "Home": {
     "heroTitle": "Kepatuhan Tiongkok untuk Merek Anda",
     "heroSubtitle": "Layanan pengaturan impor terpadu untuk makanan, kosmetik, elektronik, dan lainnya. Dipercaya oleh eksportir di 50+ negara dengan keahlian lebih dari 15 tahun.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Administrasi Negara untuk Regulasi Pasar)",
     "samrDefinition": "SAMR adalah Administrasi Negara Tiongkok untuk Regulasi Pasar. Ini mengawasi kualitas produk, standar keamanan pangan, penegakan anti-monopoli, dan pengawasan pasar. SAMR bekerja sama dengan GACC dalam regulasi makanan dan kosmetik."
   },
-  "ContactForm": {
-    "title": "Penilaian Kepatuhan Gratis",
-    "subtitle": "Beri tahu kami tentang produk Anda dan kami akan memberikan peta jalan kepatuhan yang dipersonalisasi.",
-    "emailLabel": "Email Bisnis",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Pesan (opsional)",
-    "messagePlaceholder": "Jelaskan produk atau kebutuhan kepatuhan Anda...",
-    "button": "Kirim Penilaian Gratis",
-    "privacy": "Kami menghormati privasi Anda. Tidak pernah ada spam."
-  },
   "Quote": {
     "metaTitle": "Dapatkan Penawaran Kepatuhan Tiongkok Gratis | Kepatuhan SinoTrade",
     "metaDescription": "Minta konsultasi gratis untuk kepatuhan impor Tiongkok. Registrasi GACC, sertifikasi CCC, pengarsipan NMPA, review label. Respon dalam waktu 24 jam.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "Peraturan CBEC, kepatuhan platform, dan optimalisasi pajak."
     }
   },
-  "breadcrumb": {
-    "home": "Beranda",
-    "services": "Layanan",
-    "blog": "Blog",
-    "industries": "Industri",
-    "packages": "Paket",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Butuh Layanan Ini?",
-    "ctaSubtitle": "Dapatkan penilaian kepatuhan gratis yang disesuaikan dengan produk Anda.",
-    "ctaUrgency": "Konsultasi gratis → Respon 24 jam",
-    "ctaButton": "Dapatkan Penilaian Gratis"
-  },
   "IndustryCCC": {
     "coverItems1": "Penilaian direktori sertifikasi CCC",
     "coverItems2": "Koordinasi pengujian laboratorium terakreditasi CNCA",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Panduan kepatuhan transportasi dan penyimpanan",
     "coverItems6": "Pemantauan peraturan dan dukungan pembaruan yang berkelanjutan",
     "coverItems7": "Pelatihan dan konsultasi kepatuhan industri kimia"
-  },
-  "MobileTab": {
-    "home": "Beranda",
-    "services": "Layanan",
-    "blog": "Blog",
-    "contact": "Kontak"
   },
   "aria": {
     "whatsappLabel": "Hubungi kami di WhatsApp",

@@ -1,28 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "නිවස",
-    "about": "ගැන",
-    "services": "සේවා",
-    "packages": "පැකේජ",
-    "faq": "නිතර අසන පැන",
-    "blog": "තීක්ෂ්ණ බුද්ධිය",
-    "contact": "අප අමතන්න",
-    "whatsapp": "WhatsApp",
-    "quote": "උපුටා ගැනීමක් ලබා ගන්න",
-    "industries": "කර්මාන්ත",
-    "search": "සොයන්න",
-    "freeCheck": "නොමිලේ චෙක්පත",
-    "servicesDropdown": {
-      "gacc": "GACC ආහාර ලියාපදිංචි කිරීම",
-      "label": "චීන ලේබල් අනුකූලතාව",
-      "ccc": "CCC සහතිකය",
-      "cosmetics": "විලවුන් ගොනු කිරීම (NMPA)",
-      "ecommerce": "Cross-border E-commerce",
-      "brand": "වෙළඳ නාම ආරක්ෂණය"
-    },
-    "industriesDropdown": {}
-  },
   "Home": {
     "title": "චීන අනුකූලතා ස්වයං පරීක්ෂාව | SinoTrade අනුකූලතාව",
     "description": "ඔබේ නිෂ්පාදනයට චීනයට අපනයනය කිරීම සඳහා GACC ලියාපදිංචිය, CCC සහතිකය හෝ NMPA ගොනු කිරීම අවශ්‍ය දැයි පරීක්ෂා කරන්න.",

@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Rumah",
-    "about": "Tentang",
-    "services": "Perkhidmatan",
-    "servicesDropdown": {
-      "gacc": "Pendaftaran Makanan GACC",
-      "label": "Pematuhan Label Cina",
-      "ccc": "Pensijilan CCC",
-      "cosmetics": "Pemfailan Kosmetik (NMPA)",
-      "ecommerce": "E-dagang rentas sempadan",
-      "brand": "Perlindungan Jenama"
-    },
-    "packages": "Pakej",
-    "faq": "Soalan Lazim",
-    "blog": "Wawasan",
-    "contact": "Hubungi Kami",
-    "whatsapp": "WhatsApp",
-    "quote": "Dapatkan Sebut Harga",
-    "industries": "industri",
-    "industriesDropdown": {
-      "dairymilkproducts": "Produk tenusu & Susu",
-      "meatseafood": "Daging & Makanan Laut",
-      "winespirits": "Wain & Spirits",
-      "skincarecosmetics": "Penjagaan kulit & Kosmetik",
-      "petfood": "Makanan Haiwan Kesayangan",
-      "healthsupplements": "Makanan Tambahan Kesihatan",
-      "babymaternal": "Bayi & Ibu",
-      "consumerelectronics": "Elektronik Pengguna",
-      "medicaldevices": "Peranti Perubatan",
-      "crossborderecommerce": "E-dagang rentas sempadan"
-    },
-    "search": "Cari",
-    "freeCheck": "Cek Percuma"
-  },
   "Home": {
     "heroTitle": "Pematuhan China untuk Jenama Anda",
     "heroSubtitle": "Perkhidmatan kawal selia import sehenti untuk makanan, kosmetik, elektronik dan banyak lagi. Dipercayai oleh pengeksport di 50+ negara dengan 15+ tahun kepakaran.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Pentadbiran Negeri untuk Peraturan Pasaran)",
     "samrDefinition": "SAMR ialah Pentadbiran Negeri China untuk Peraturan Pasaran. Ia menyelia kualiti produk, piawaian keselamatan makanan, penguatkuasaan anti-monopoli dan penyeliaan pasaran. SAMR bekerjasama dengan GACC mengenai peraturan makanan dan kosmetik."
   },
-  "ContactForm": {
-    "title": "Penilaian Pematuhan Percuma",
-    "subtitle": "Beritahu kami tentang produk anda dan kami akan menyediakan peta jalan pematuhan yang diperibadikan.",
-    "emailLabel": "E-mel Perniagaan",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Mesej (pilihan)",
-    "messagePlaceholder": "Terangkan produk atau keperluan pematuhan anda...",
-    "button": "Hantar Penilaian Percuma",
-    "privacy": "Kami menghormati privasi anda. Tiada spam, pernah."
-  },
   "Quote": {
     "metaTitle": "Dapatkan Sebut Harga Pematuhan China Percuma | Pematuhan SinoTrade",
     "metaDescription": "Minta perundingan percuma untuk pematuhan import China. Pendaftaran GACC, pensijilan CCC, pemfailan NMPA, semakan label. Maklum balas dalam masa 24 jam.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "Peraturan CBEC, pematuhan platform dan pengoptimuman cukai."
     }
   },
-  "breadcrumb": {
-    "home": "Laman Utama",
-    "services": "Perkhidmatan",
-    "blog": "Blog",
-    "industries": "industri",
-    "packages": "Pakej",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Perlukan Perkhidmatan Ini?",
-    "ctaSubtitle": "Dapatkan penilaian pematuhan percuma yang disesuaikan dengan produk anda.",
-    "ctaUrgency": "Konsultasi percuma → Respons 24 jam",
-    "ctaButton": "Dapatkan Penilaian Percuma"
-  },
   "IndustryCCC": {
     "coverItems1": "Penilaian direktori pensijilan CCC",
     "coverItems2": "Penyelarasan ujian makmal yang diiktiraf CNCA",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Panduan pematuhan pengangkutan dan penyimpanan",
     "coverItems6": "Pemantauan kawal selia yang berterusan dan sokongan pembaharuan",
     "coverItems7": "Latihan dan nasihat pematuhan industri kimia"
-  },
-  "MobileTab": {
-    "home": "Laman Utama",
-    "services": "Perkhidmatan",
-    "blog": "Blog",
-    "contact": "Hubungi"
   },
   "aria": {
     "whatsappLabel": "Hubungi kami di WhatsApp",

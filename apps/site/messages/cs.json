@@ -1,39 +1,4 @@
 {
-  "Navbar": {
-    "logo": "SinoTrade Compliance",
-    "home": "Domů",
-    "about": "O nás",
-    "services": "Služby",
-    "servicesDropdown": {
-      "gacc": "Registrace potravin GACC",
-      "label": "Soulad s čínskými štítky",
-      "ccc": "Certifikace CCC",
-      "cosmetics": "Kosmetický pilník (NMPA)",
-      "ecommerce": "Přeshraniční elektronický obchod",
-      "brand": "Ochrana značky"
-    },
-    "packages": "Balíčky",
-    "faq": "FAQ",
-    "blog": "Postřehy",
-    "contact": "Kontaktujte nás",
-    "whatsapp": "WhatsApp",
-    "quote": "Získejte cenovou nabídku",
-    "industries": "Průmyslová odvětví",
-    "industriesDropdown": {
-      "dairymilkproducts": "Mléčné a mléčné výrobky",
-      "meatseafood": "Maso a mořské plody",
-      "winespirits": "Víno a lihoviny",
-      "skincarecosmetics": "Péče o pleť a kosmetika",
-      "petfood": "Krmivo pro domácí mazlíčky",
-      "healthsupplements": "Zdravotní doplňky",
-      "babymaternal": "Dítě & Mateřská",
-      "consumerelectronics": "Spotřební elektronika",
-      "medicaldevices": "Lékařská zařízení",
-      "crossborderecommerce": "Přeshraniční elektronický obchod"
-    },
-    "search": "Vyhledávání",
-    "freeCheck": "Kontrola zdarma"
-  },
   "Home": {
     "heroTitle": "Soulad v Číně pro vaši značku",
     "heroSubtitle": "Komplexní regulační služby pro dovoz potravin, kosmetiky, elektroniky a dalších. Důvěřují exportéři ve více než 50 zemích s více než 15 lety zkušeností.",
@@ -819,16 +784,6 @@
     "samrName": "SAMR (Státní správa pro regulaci trhu)",
     "samrDefinition": "SAMR je čínská státní správa pro tržní regulaci. Dohlíží na kvalitu produktů, normy bezpečnosti potravin, antimonopolní vymáhání a dozor nad trhem. SAMR spolupracuje s GACC na regulaci potravin a kosmetiky."
   },
-  "ContactForm": {
-    "title": "Bezplatné posouzení souladu",
-    "subtitle": "Řekněte nám o svých produktech a my vám poskytneme personalizovaný plán shody.",
-    "emailLabel": "Obchodní e-mail",
-    "emailPlaceholder": "you@company.com",
-    "messageLabel": "Zpráva (volitelné)",
-    "messagePlaceholder": "Popište své produkty nebo potřeby shody...",
-    "button": "Odeslat bezplatné hodnocení",
-    "privacy": "Respektujeme vaše soukromí. Nikdy žádný spam."
-  },
   "Quote": {
     "metaTitle": "Získejte zdarma cenovou nabídku shody s Čínou | Soulad se SinoTrade",
     "metaDescription": "Požádejte o bezplatnou konzultaci ohledně dodržování dovozu z Číny. Registrace GACC, certifikace CCC, podání NMPA, revize štítků. Odpověď do 24 hodin.",
@@ -1170,20 +1125,6 @@
       "crossborderecommerceDesc": "Předpisy CBEC, dodržování platforem a daňová optimalizace."
     }
   },
-  "breadcrumb": {
-    "home": "Domovská stránka",
-    "services": "Služby",
-    "blog": "Blog",
-    "industries": "Průmyslová odvětví",
-    "packages": "Balíčky",
-    "faq": "FAQ"
-  },
-  "CTA": {
-    "ctaTitle": "Potřebujete tuto službu?",
-    "ctaSubtitle": "Získejte zdarma posouzení shody přizpůsobené vašim produktům.",
-    "ctaUrgency": "Konzultace zdarma → odpověď 24h",
-    "ctaButton": "Získejte bezplatné hodnocení"
-  },
   "IndustryCCC": {
     "coverItems1": "Posouzení certifikačního adresáře CCC",
     "coverItems2": "Koordinace testování laboratoří akreditovaných CNCA",
@@ -1255,12 +1196,6 @@
     "coverItems5": "Pokyny pro přepravu a skladování",
     "coverItems6": "Průběžné regulační monitorování a podpora obnovy",
     "coverItems7": "Školení a poradenství v oblasti shody v chemickém průmyslu"
-  },
-  "MobileTab": {
-    "home": "Domů",
-    "services": "Služby",
-    "blog": "Blog",
-    "contact": "Kontakt"
   },
   "aria": {
     "whatsappLabel": "Kontaktujte nás na WhatsApp",

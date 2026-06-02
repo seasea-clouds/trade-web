@@ -95,7 +95,7 @@
   "breadcrumb": {
     "home": "Beranda",
     "services": "Layanan",
-    "blog": "blog",
+    "blog": "Blog",
     "industries": "Industri",
     "packages": "Paket",
     "faq": "FAQ"
@@ -146,5 +146,11 @@
       "blog": "blog",
       "faq": "FAQ"
     }
+  },
+  "MobileTab": {
+    "home": "Home",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact"
   }
 }

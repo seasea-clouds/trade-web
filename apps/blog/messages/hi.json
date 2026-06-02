@@ -146,5 +146,11 @@
       "blog": "ब्लॉग",
       "faq": "FAQ"
     }
+  },
+  "MobileTab": {
+    "home": "Home",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact"
   }
 }

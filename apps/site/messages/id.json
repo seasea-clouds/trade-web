@@ -1194,7 +1194,7 @@
   "breadcrumb": {
     "home": "Beranda",
     "services": "Layanan",
-    "blog": "blog",
+    "blog": "Blog",
     "industries": "Industri",
     "packages": "Paket",
     "faq": "FAQ"
@@ -1292,7 +1292,7 @@
   "MobileTab": {
     "home": "Beranda",
     "services": "Layanan",
-    "blog": "blog",
+    "blog": "Blog",
     "contact": "Kontak"
   },
   "aria": {

@@ -103,7 +103,18 @@
     "myReports": "My Reports",
     "myReportsDesc": "View your compliance report history",
     "billing": "Billing & Subscription",
-    "billingDesc": "Manage your subscription and payment methods"
+    "billingDesc": "Manage your subscription and payment methods",
+    "account": "Account",
+    "currentPlan": "Current Plan",
+    "periodEnds": "Period ends",
+    "registeredUser": "Registered user",
+    "completeCheck": "Complete a compliance check to see your reports here.",
+    "loading": "Loading...",
+    "accountPreferences": "Account preferences",
+    "manageSubscription": "Manage your subscription",
+    "reportId": "ID",
+    "name": "Name",
+    "email": "Email"
   },
   "Pricing": {
     "title": "Simple Pricing",
@@ -243,5 +254,35 @@
       "blog": "Blog",
       "faq": "FAQ"
     }
+  },
+  "Report": {
+    "loadingTitle": "Loading Your Report",
+    "loadingDesc": "Fetching your compliance report...",
+    "notFoundTitle": "Report Not Found",
+    "notFoundDesc": "The report you are looking for could not be found.",
+    "previewBanner": "🔬 Preview Mode — Sample: Stone Ground Dark Chocolate (USA)",
+    "previewBannerDesc": "This is a preview with sample data to demonstrate the report layout.",
+    "backToAccount": "← Back to Account",
+    "pleaseLogIn": "Please Log In",
+    "logIn": "Log In",
+    "myAccount": "My Account",
+    "myReports": "My Reports",
+    "myReportsDesc": "View your compliance reports",
+    "subscription": "Subscription",
+    "subscriptionDesc": "Manage your subscription",
+    "settings": "Settings",
+    "settingsDesc": "Account preferences",
+    "noReports": "No reports yet.",
+    "noReportsDesc": "Complete a compliance check to see your reports here.",
+    "noActiveSubscription": "No active subscription.",
+    "plan": "Plan",
+    "status": "Status",
+    "renewal": "Renewal",
+    "currentPlan": "Current Plan",
+    "profile": "Profile",
+    "moreSettingsSoon": "More settings coming soon.",
+    "registeredUser": "Registered user",
+    "periodEnds": "Period ends",
+    "youAreOnFreePlan": "You are currently on the Free plan."
   }
 }

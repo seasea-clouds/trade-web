@@ -117,7 +117,7 @@
     "faq": "FAQ",
     "blog": "통찰력",
     "contact": "문의하기",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "왓츠앱",
     "quote": "견적 받기",
     "industries": "산업",
     "industriesDropdown": {
@@ -133,7 +133,7 @@
       "crossborderecommerce": "국경 간 전자상거래"
     },
     "search": "찾다",
-    "freeCheck": "Free Check"
+    "freeCheck": "무료수표"
   },
   "Search": {
     "title": "검색",

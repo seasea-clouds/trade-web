@@ -13,10 +13,10 @@
       "brand": "ブランド保護"
     },
     "packages": "パッケージ",
-    "faq": "FAQ",
+    "faq": "よくある質問",
     "blog": "洞察",
     "contact": "お問い合わせ",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "ワッツアップ",
     "quote": "見積もりを取得する",
     "industries": "産業",
     "industriesDropdown": {
@@ -32,7 +32,7 @@
       "crossborderecommerce": "越境電子商取引"
     },
     "search": "検索",
-    "freeCheck": "Free Check"
+    "freeCheck": "無料小切手"
   },
   "Home": {
     "heroTitle": "あなたのブランドの中国コンプライアンス",

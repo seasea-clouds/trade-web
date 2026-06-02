@@ -114,10 +114,10 @@
       "brand": "حفاظت از برند"
     },
     "packages": "بسته ها",
-    "faq": "FAQ",
+    "faq": "سوالات متداول",
     "blog": "بینش ها",
     "contact": "تماس با ما",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "واتس اپ",
     "quote": "یک نقل قول دریافت کنید",
     "industries": "صنایع",
     "industriesDropdown": {
@@ -133,7 +133,7 @@
       "crossborderecommerce": "تجارت الکترونیک فرامرزی"
     },
     "search": "جستجو کنید",
-    "freeCheck": "Free Check"
+    "freeCheck": "چک رایگان"
   },
   "Search": {
     "title": "جستجو کنید",

@@ -114,10 +114,10 @@
       "brand": "حماية العلامة التجارية"
     },
     "packages": "الحزم",
-    "faq": "FAQ",
+    "faq": "التعليمات",
     "blog": "رؤى",
     "contact": "اتصل بنا",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "واتساب",
     "quote": "احصل على عرض أسعار",
     "industries": "الصناعات",
     "industriesDropdown": {
@@ -133,7 +133,7 @@
       "crossborderecommerce": "التجارة الإلكترونية عبر الحدود"
     },
     "search": "يبحث",
-    "freeCheck": "Free Check"
+    "freeCheck": "فحص مجاني"
   },
   "Search": {
     "title": "يبحث",

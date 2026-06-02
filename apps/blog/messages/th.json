@@ -114,10 +114,10 @@
       "brand": "การคุ้มครองแบรนด์"
     },
     "packages": "แพ็คเกจ",
-    "faq": "FAQ",
+    "faq": "คำถามที่พบบ่อย",
     "blog": "ข้อมูลเชิงลึก",
     "contact": "ติดต่อเรา",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "วอทส์แอพพ์",
     "quote": "รับใบเสนอราคา",
     "industries": "อุตสาหกรรม",
     "industriesDropdown": {
@@ -133,7 +133,7 @@
       "crossborderecommerce": "อีคอมเมิร์ซข้ามพรมแดน"
     },
     "search": "ค้นหา",
-    "freeCheck": "Free Check"
+    "freeCheck": "เช็คฟรี"
   },
   "Search": {
     "title": "ค้นหา",

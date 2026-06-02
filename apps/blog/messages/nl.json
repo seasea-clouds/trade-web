@@ -114,10 +114,10 @@
       "brand": "Merkbescherming"
     },
     "packages": "Pakketten",
-    "faq": "FAQ",
+    "faq": "Veelgestelde vragen",
     "blog": "Blog",
     "contact": "Neem contact met ons op",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "WhatsAppen",
     "quote": "Ontvang een offerte",
     "industries": "Industrieën",
     "industriesDropdown": {
@@ -133,7 +133,7 @@
       "crossborderecommerce": "Grensoverschrijdende e-commerce"
     },
     "search": "Zoekopdracht",
-    "freeCheck": "Free Check"
+    "freeCheck": "Gratis cheque"
   },
   "Search": {
     "title": "Zoekopdracht",

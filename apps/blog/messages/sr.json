@@ -114,10 +114,10 @@
       "brand": "Заштита бренда"
     },
     "packages": "Пакети",
-    "faq": "FAQ",
+    "faq": "ФАК",
     "blog": "Инсигхтс",
     "contact": "Контактирајте нас",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "ВхатсАпп",
     "quote": "Затражите понуду",
     "industries": "Индустриес",
     "industriesDropdown": {
@@ -133,7 +133,7 @@
       "crossborderecommerce": "Прекогранична е-трговина"
     },
     "search": "Тражи",
-    "freeCheck": "Free Check"
+    "freeCheck": "Бесплатна провера"
   },
   "Search": {
     "title": "Тражи",

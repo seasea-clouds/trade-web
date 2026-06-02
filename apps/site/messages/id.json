@@ -13,10 +13,10 @@
       "brand": "Perlindungan Merek"
     },
     "packages": "Paket",
-    "faq": "FAQ",
+    "faq": "Pertanyaan Umum",
     "blog": "Wawasan",
     "contact": "Hubungi kami",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "Ada apa",
     "quote": "Dapatkan Penawaran",
     "industries": "Industri",
     "industriesDropdown": {
@@ -32,7 +32,7 @@
       "crossborderecommerce": "E-niaga lintas batas"
     },
     "search": "Mencari",
-    "freeCheck": "Free Check"
+    "freeCheck": "Cek Gratis"
   },
   "Home": {
     "heroTitle": "Kepatuhan Tiongkok untuk Merek Anda",

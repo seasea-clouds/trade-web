@@ -114,10 +114,10 @@
       "brand": "ब्रांड संरक्षण"
     },
     "packages": "संकुल",
-    "faq": "FAQ",
+    "faq": "अक्सर पूछे जाने वाले प्रश्न",
     "blog": "इनसाइट्स",
     "contact": "हमसे संपर्क करें",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "व्हाट्सएप",
     "quote": "एक कहावत कहना",
     "industries": "इंडस्ट्रीज",
     "industriesDropdown": {
@@ -133,7 +133,7 @@
       "crossborderecommerce": "सीमा पार ई-कॉमर्स"
     },
     "search": "खोज",
-    "freeCheck": "Free Check"
+    "freeCheck": "निःशुल्क जांच"
   },
   "Search": {
     "title": "खोज",

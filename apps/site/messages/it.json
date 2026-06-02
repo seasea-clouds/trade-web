@@ -13,10 +13,10 @@
       "brand": "Protezione del marchio"
     },
     "packages": "Pacchetti",
-    "faq": "FAQ",
+    "faq": "Domande frequenti",
     "blog": "Blog",
     "contact": "Contattaci",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "Whatsapp",
     "quote": "Ottieni un preventivo",
     "industries": "Industrie",
     "industriesDropdown": {
@@ -32,7 +32,7 @@
       "crossborderecommerce": "Commercio elettronico transfrontaliero"
     },
     "search": "Ricerca",
-    "freeCheck": "Free Check"
+    "freeCheck": "Controllo gratuito"
   },
   "Home": {
     "heroTitle": "Conformità cinese per il tuo marchio",

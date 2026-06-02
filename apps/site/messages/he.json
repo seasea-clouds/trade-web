@@ -13,10 +13,10 @@
       "brand": "הגנת מותג"
     },
     "packages": "חבילות",
-    "faq": "FAQ",
+    "faq": "שאלות נפוצות",
     "blog": "תובנות",
     "contact": "צור קשר",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "וואטסאפ",
     "quote": "קבל הצעת מחיר",
     "industries": "תעשיות",
     "industriesDropdown": {
@@ -32,7 +32,7 @@
       "crossborderecommerce": "מסחר אלקטרוני חוצה גבולות"
     },
     "search": "לְחַפֵּשׂ",
-    "freeCheck": "Free Check"
+    "freeCheck": "צ'ק חינם"
   },
   "Home": {
     "heroTitle": "עמידה בסין עבור המותג שלך",

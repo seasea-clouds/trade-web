@@ -13,10 +13,10 @@
       "brand": "பிராண்ட் பாதுகாப்பு"
     },
     "packages": "தொகுப்புகள்",
-    "faq": "FAQ",
+    "faq": "அடிக்கடி கேட்கப்படும் கேள்விகள்",
     "blog": "நுண்ணறிவு",
     "contact": "எங்களை தொடர்பு கொள்ளவும்",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "வாட்ஸ்அப்",
     "quote": "ஒரு மேற்கோளைப் பெறுங்கள்",
     "industries": "தொழில்கள்",
     "industriesDropdown": {
@@ -32,7 +32,7 @@
       "crossborderecommerce": "எல்லை தாண்டிய மின் வணிகம்"
     },
     "search": "தேடு",
-    "freeCheck": "Free Check"
+    "freeCheck": "இலவச காசோலை"
   },
   "Home": {
     "heroTitle": "உங்கள் பிராண்டிற்கான சீனா இணக்கம்",

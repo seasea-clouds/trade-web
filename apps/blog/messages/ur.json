@@ -114,10 +114,10 @@
       "brand": "برانڈ پروٹیکشن"
     },
     "packages": "پیکجز",
-    "faq": "FAQ",
+    "faq": "اکثر پوچھے گئے سوالات",
     "blog": "بصیرت",
     "contact": "ہم سے رابطہ کریں۔",
-    "whatsapp": "WhatsApp",
+    "whatsapp": "واٹس ایپ",
     "quote": "ایک اقتباس حاصل کریں۔",
     "industries": "صنعتیں",
     "industriesDropdown": {
@@ -133,7 +133,7 @@
       "crossborderecommerce": "سرحد پار ای کامرس"
     },
     "search": "تلاش کریں۔",
-    "freeCheck": "Free Check"
+    "freeCheck": "مفت چیک"
   },
   "Search": {
     "title": "تلاش کریں۔",

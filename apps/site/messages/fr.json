@@ -3,7 +3,7 @@
     "logo": "SinoTrade Compliance",
     "home": "Maison",
     "about": "À propos",
-    "services": "Services",
+    "services": "Prestations",
     "servicesDropdown": {
       "gacc": "Enregistrement des aliments GACC",
       "label": "Conformité des étiquettes chinoises",
@@ -32,7 +32,7 @@
       "crossborderecommerce": "Commerce électronique transfrontalier"
     },
     "search": "Recherche",
-    "freeCheck": "Free Check"
+    "freeCheck": "Chèque gratuit"
   },
   "Home": {
     "heroTitle": "Conformité chinoise pour votre marque",

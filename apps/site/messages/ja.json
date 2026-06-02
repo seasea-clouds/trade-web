@@ -753,7 +753,7 @@
     "next": "次へ",
     "pageInfo": "",
     "of": " / ",
-    "metaTitle": "中国輸入コンプライアンスブログ | GACC、CCC、NMPA ガイド",
+    "metaTitle": "中国輸入コンプライアンスインサイト | GACC、CCC、NMPA ガイド",
     "metaDescription": "中国輸入コンプライアンスに関する専門家ガイド。 GACC 登録のヒント、CCC 認証の最新情報、NMPA 申請ニュース、ラベル コンプライアンスの洞察。常に最新情報を入手してください。"
   },
   "OrganizationJsonLd": {
@@ -1258,10 +1258,10 @@
     "pageTitle": "サイトマップ",
     "pageSubtitle": "当社ウェブサイトの全ページの完全な概要。",
     "metaTitle": "サイトマップ |中国貿易のコンプライアンス",
-    "metaDescription": "SinoTrade Compliance Web サイトのすべてのサービス、業界ガイド、ブログ投稿、ページを参照してください。",
+    "metaDescription": "SinoTrade Compliance Web サイトのすべてのサービス、業界ガイド、インサイト投稿、ページを参照してください。",
     "servicesTitle": "サービス",
     "industriesTitle": "産業",
-    "blogTitle": "ブログ",
+    "blogTitle": "インサイト",
     "pagesTitle": "他のページ",
     "home": "Home",
     "about": "私たちについて",

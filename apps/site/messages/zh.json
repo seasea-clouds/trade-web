@@ -753,8 +753,8 @@
     "next": "下一页",
     "pageInfo": "",
     "of": " / ",
-    "metaTitle": "中国进口合规博客 | GACC/CCC/NMPA 指南与资讯",
-    "metaDescription": "中国进口合规专家博客。GACC 注册技巧、CCC 认证更新、NMPA 备案新闻、标签合规解读。保持行业前沿。"
+    "metaTitle": "中国进口合规洞察 | GACC/CCC/NMPA 指南与资讯",
+    "metaDescription": "中国进口合规专家洞察。GACC 注册技巧、CCC 认证更新、NMPA 备案新闻、标签合规解读。保持行业前沿。"
   },
   "OrganizationJsonLd": {
     "description": "中国一站式进口监管咨询服务——GACC注册、中文标签、CCC认证、NMPA化妆品备案、跨境电商、品牌保护。",
@@ -1258,10 +1258,10 @@
     "pageTitle": "网站地图",
     "pageSubtitle": "我们网站上所有页面的完整概述。",
     "metaTitle": "网站地图 |中贸合规",
-    "metaDescription": "浏览中贸合规网站上的所有服务、行业指南、博客文章和页面。",
+    "metaDescription": "浏览中贸合规网站上的所有服务、行业指南、洞察文章和页面。",
     "servicesTitle": "服务",
     "industriesTitle": "行业",
-    "blogTitle": "博客",
+    "blogTitle": "洞察",
     "pagesTitle": "其他页面",
     "home": "Home",
     "about": "关于我们",

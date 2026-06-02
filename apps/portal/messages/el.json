@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "Επικοινωνία",
-    "services": "Υπηρεσίες",
-    "gaccRegistration": "Εγγραφή GACC",
-    "labelCompliance": "Συμμόρφωση με την κινεζική ετικέτα",
-    "cccCertification": "Πιστοποίηση CCC",
-    "cosmeticsFiling": "Αρχειοθέτηση καλλυντικών (NMPA)",
-    "crossBorderEcommerce": "Διασυνοριακό ηλεκτρονικό εμπόριο",
-    "brandProtection": "Προστασία της επωνυμίας",
-    "packages": "Πακέτα",
-    "faq": "FAQ",
-    "about": "Σχετικά με εμάς",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "Γρήγοροι Σύνδεσμοι",
-    "address": "Περιοχή Jing'an, Σαγκάη, Κίνα",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Μαρτυρίες",
-    "industries": "Βιομηχανίες",
-    "blog": "Insights"
-  },
   "Home": {
     "title": "Αυτοέλεγχος συμμόρφωσης της Κίνας | Συμμόρφωση SinoTrade",
     "description": "Ελέγξτε εάν το προϊόν σας χρειάζεται εγγραφή GACC, πιστοποίηση CCC ή κατάθεση NMPA για εξαγωγή στην Κίνα.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "Απλή τιμολόγηση",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "Ερευνα",
-    "placeholder": "Υπηρεσίες αναζήτησης, άρθρα, συχνές ερωτήσεις...",
-    "noResults": "Δεν βρέθηκαν αποτελέσματα. Δοκιμάστε διαφορετικές λέξεις-κλειδιά.",
-    "searching": "Ερευνητικός...",
-    "hint": "Πληκτρολογήστε για αναζήτηση σε υπηρεσίες, άρθρα και συχνές ερωτήσεις",
-    "types": {
-      "service": "Υπηρεσίες",
-      "blog": "Ιστολόγιο",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

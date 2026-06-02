@@ -720,27 +720,6 @@
     "metaTitle": "Về việc tuân thủ SinoTrade | Hơn 15 năm chuyên môn nhập khẩu Trung Quốc",
     "metaDescription": "Tìm hiểu về Tuân thủ SinoTrade — đối tác đáng tin cậy của bạn về tuân thủ nhập khẩu vào Trung Quốc. Hơn 15 năm kinh nghiệm, phục vụ trên 50 quốc gia. Gặp gỡ đội ngũ chuyên gia của chúng tôi."
   },
-  "Footer": {
-    "contact": "Liên hệ",
-    "services": "Dịch vụ",
-    "gaccRegistration": "Đăng ký GACC",
-    "labelCompliance": "Tuân thủ nhãn hiệu Trung Quốc",
-    "cccCertification": "Chứng nhận CCC",
-    "cosmeticsFiling": "Nộp hồ sơ mỹ phẩm (NMPA)",
-    "crossBorderEcommerce": "Thương mại điện tử xuyên biên giới",
-    "brandProtection": "Bảo vệ thương hiệu",
-    "packages": "Gói",
-    "faq": "FAQ",
-    "about": "Về chúng tôi",
-    "rights": "© 2012-2026 Tuân thủ SinoTrade. Mọi quyền được bảo lưu.",
-    "quickLinks": "Liên kết nhanh",
-    "address": "Quận Tĩnh An, Thượng Hải, Trung Quốc",
-    "disclaimer": "Tuyên bố miễn trừ trách nhiệm: Chúng tôi là một công ty tư vấn quy định độc lập và không liên kết với Tổng cục Hải quan Trung Quốc.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Lời chứng thực",
-    "industries": "ngành công nghiệp",
-    "blog": "Thông tin chi tiết"
-  },
   "ThankYou": {
     "title": "Cảm ơn!",
     "subtitle": "Chúng tôi đã nhận được yêu cầu của bạn. Nhóm của chúng tôi sẽ liên hệ với bạn trong vòng 24 giờ.",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "Nhận đánh giá tuân thủ miễn phí phù hợp với sản phẩm của bạn.",
     "ctaUrgency": "Tư vấn miễn phí → phản hồi 24h",
     "ctaButton": "Nhận đánh giá miễn phí"
-  },
-  "Search": {
-    "title": "Tìm kiếm",
-    "placeholder": "Tìm kiếm dịch vụ, bài viết, câu hỏi thường gặp...",
-    "noResults": "Không tìm thấy kết quả nào. Hãy thử các từ khóa khác nhau.",
-    "searching": "Đang tìm kiếm...",
-    "hint": "Nhập để tìm kiếm trên các dịch vụ, bài viết và Câu hỏi thường gặp",
-    "types": {
-      "service": "Dịch vụ",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "Đánh giá thư mục chứng nhận CCC",

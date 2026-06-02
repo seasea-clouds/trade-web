@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "Ota yhteyttä",
-    "services": "Palvelut",
-    "gaccRegistration": "GACC rekisteröinti",
-    "labelCompliance": "Kiinan etikettien noudattaminen",
-    "cccCertification": "CCC-sertifiointi",
-    "cosmeticsFiling": "Kosmetiikkaviilaus (NMPA)",
-    "crossBorderEcommerce": "Rajat ylittävä sähköinen kaupankäynti",
-    "brandProtection": "Brändin suojaus",
-    "packages": "Paketit",
-    "faq": "FAQ",
-    "about": "Tietoja meistä",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "Pikalinkit",
-    "address": "Jing'anin alue, Shanghai, Kiina",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Mielipiteitä",
-    "industries": "Toimialat",
-    "blog": "Näkemyksiä"
-  },
   "Home": {
     "title": "Kiinan vaatimustenmukaisuuden itsetarkastus | SinoTrade-yhteensopivuus",
     "description": "Tarkista, tarvitseeko tuotteesi GACC-rekisteröinnin, CCC-sertifioinnin tai NMPA-hakemuksen vientiä varten Kiinaan.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "Yksinkertainen hinnoittelu",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "Haku",
-    "placeholder": "Hae palveluita, artikkeleita, usein kysyttyjä kysymyksiä...",
-    "noResults": "Tuloksia ei löytynyt. Kokeile eri avainsanoja.",
-    "searching": "Haetaan...",
-    "hint": "Hae palveluista, artikkeleista ja usein kysytyistä kysymyksistä kirjoittamalla",
-    "types": {
-      "service": "Palvelut",
-      "blog": "Blogi",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

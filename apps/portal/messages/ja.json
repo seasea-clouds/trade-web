@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "お問い合わせ",
-    "services": "サービス",
-    "gaccRegistration": "GACC登録",
-    "labelCompliance": "中国ラベルへの準拠",
-    "cccCertification": "CCC認証",
-    "cosmeticsFiling": "化粧品申請 (NMPA)",
-    "crossBorderEcommerce": "越境電子商取引",
-    "brandProtection": "ブランド保護",
-    "packages": "パッケージ",
-    "faq": "よくある質問",
-    "about": "私たちについて",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "クイックリンク",
-    "address": "中国上海市静安区",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "ワッツアップ",
-    "testimonials": "お客様の声",
-    "industries": "産業",
-    "blog": "洞察"
-  },
   "Home": {
     "title": "中国コンプライアンスセルフチェック |中国貿易のコンプライアンス",
     "description": "製品を中国に輸出するには、GACC 登録、CCC 認証、または NMPA 申請が必要かどうかを確認してください。",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "シンプルな価格設定",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "検索",
-    "placeholder": "検索サービス、記事、FAQ...",
-    "noResults": "結果が見つかりませんでした。別のキーワードを試してください。",
-    "searching": "検索中...",
-    "hint": "サービス、記事、FAQ を検索するために入力します",
-    "types": {
-      "service": "サービス",
-      "blog": "ブログ",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

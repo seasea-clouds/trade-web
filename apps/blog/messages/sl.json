@@ -55,27 +55,6 @@
     "contactEmailPlaceholder": "you@company.com",
     "shareWhatsapp": "Delite na WhatsApp"
   },
-  "Footer": {
-    "contact": "Kontakt",
-    "services": "Storitve",
-    "gaccRegistration": "Registracija GACC",
-    "labelCompliance": "Skladnost s kitajsko oznako",
-    "cccCertification": "Certificiranje CCC",
-    "cosmeticsFiling": "Kozmetična vložitev (NMPA)",
-    "crossBorderEcommerce": "Čezmejno e-trgovanje",
-    "brandProtection": "Zaščita blagovne znamke",
-    "packages": "Paketi",
-    "faq": "FAQ",
-    "about": "O nas",
-    "rights": "© 2012-2026 Skladnost SinoTrade. Vse pravice pridržane.",
-    "quickLinks": "Hitre povezave",
-    "address": "Okrožje Jing'an, Šanghaj, Kitajska",
-    "disclaimer": "Zavrnitev odgovornosti: Smo neodvisno regulativno svetovalno podjetje in nismo povezani z Generalno carinsko upravo Kitajske.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Pričevanja",
-    "industries": "Industrije",
-    "blog": "Vpogledi"
-  },
   "ContactForm": {
     "title": "Brezplačna ocena skladnosti",
     "subtitle": "Povejte nam o svojih izdelkih in pripravili vam bomo osebni načrt skladnosti.",
@@ -134,18 +113,6 @@
     },
     "search": "Iskanje",
     "freeCheck": "Brezplačni pregled"
-  },
-  "Search": {
-    "title": "Iskanje",
-    "placeholder": "Iskanje storitev, člankov, pogostih vprašanj ...",
-    "noResults": "Ni rezultatov. Poskusite z različnimi ključnimi besedami.",
-    "searching": "Iskanje ...",
-    "hint": "Vnesite za iskanje po storitvah, člankih in pogostih vprašanjih",
-    "types": {
-      "service": "Storitve",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
   },
   "MobileTab": {
     "home": "Home",

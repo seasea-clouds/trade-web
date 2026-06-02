@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "Wasiliana",
-    "services": "Huduma",
-    "gaccRegistration": "Usajili wa GACC",
-    "labelCompliance": "Uzingatiaji wa Lebo ya Kichina",
-    "cccCertification": "Udhibitisho wa CCC",
-    "cosmeticsFiling": "Ujazaji wa Vipodozi (NMPA)",
-    "crossBorderEcommerce": "Biashara ya kielektroniki ya mpakani",
-    "brandProtection": "Ulinzi wa Biashara",
-    "packages": "Vifurushi",
-    "faq": "Maswali Yanayoulizwa Mara kwa Mara",
-    "about": "Kuhusu Sisi",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "Viungo vya Haraka",
-    "address": "Wilaya ya Jing'an, Shanghai, Uchina",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Ushuhuda",
-    "industries": "Viwanda",
-    "blog": "Maarifa"
-  },
   "Home": {
     "title": "Uchina Ufuataji Jiangalie | Uzingatiaji wa SinoTrade",
     "description": "Angalia ikiwa bidhaa yako inahitaji usajili wa GACC, uidhinishaji wa CCC, au uwasilishaji wa faili ya NMPA kwa ajili ya kutumwa Uchina.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "Bei Rahisi",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "Tafuta",
-    "placeholder": "Huduma za utafutaji, makala, Maswali Yanayoulizwa Mara kwa Mara...",
-    "noResults": "Hakuna matokeo yaliyopatikana. Jaribu maneno muhimu tofauti.",
-    "searching": "Inatafuta...",
-    "hint": "Andika ili kutafuta katika huduma, makala na Maswali Yanayoulizwa Mara kwa Mara",
-    "types": {
-      "service": "Huduma",
-      "blog": "Blogu",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

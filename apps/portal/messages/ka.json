@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "კონტაქტი",
-    "services": "სერვისები",
-    "gaccRegistration": "GACC რეგისტრაცია",
-    "labelCompliance": "ჩინური ეტიკეტების შესაბამისობა",
-    "cccCertification": "CCC სერთიფიკატი",
-    "cosmeticsFiling": "კოსმეტიკის შევსება (NMPA)",
-    "crossBorderEcommerce": "ტრანსსასაზღვრო ელექტრონული კომერცია",
-    "brandProtection": "ბრენდის დაცვა",
-    "packages": "პაკეტები",
-    "faq": "FAQ",
-    "about": "ჩვენს შესახებ",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "სწრაფი ბმულები",
-    "address": "ჯინგანის ოლქი, შანხაი, ჩინეთი",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "ჩვენებები",
-    "industries": "ინდუსტრიები",
-    "blog": "Insights"
-  },
   "Home": {
     "title": "ჩინეთის შესაბამისობის თვითშემოწმება | SinoTrade შესაბამისობა",
     "description": "შეამოწმეთ, სჭირდება თუ არა თქვენს პროდუქტს GACC რეგისტრაცია, CCC სერთიფიკატი ან NMPA შეტანა ჩინეთში ექსპორტისთვის.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "მარტივი ფასი",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "ძიება",
-    "placeholder": "საძიებო სერვისები, სტატიები, ხშირად დასმული კითხვები...",
-    "noResults": "შედეგი ვერ მოიძებნა. სცადეთ სხვადასხვა საკვანძო სიტყვები.",
-    "searching": "ძიება...",
-    "hint": "ჩაწერეთ სერვისების, სტატიებისა და ხშირად დასმული კითხვების მოსაძებნად",
-    "types": {
-      "service": "სერვისები",
-      "blog": "ბლოგი",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

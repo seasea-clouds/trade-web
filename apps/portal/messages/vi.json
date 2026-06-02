@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "Liên hệ",
-    "services": "Dịch vụ",
-    "gaccRegistration": "Đăng ký GACC",
-    "labelCompliance": "Tuân thủ nhãn hiệu Trung Quốc",
-    "cccCertification": "Chứng nhận CCC",
-    "cosmeticsFiling": "Nộp hồ sơ mỹ phẩm (NMPA)",
-    "crossBorderEcommerce": "Thương mại điện tử xuyên biên giới",
-    "brandProtection": "Bảo vệ thương hiệu",
-    "packages": "Gói",
-    "faq": "Câu hỏi thường gặp",
-    "about": "Về chúng tôi",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "Liên kết nhanh",
-    "address": "Quận Tĩnh An, Thượng Hải, Trung Quốc",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Lời chứng thực",
-    "industries": "ngành công nghiệp",
-    "blog": "Thông tin chi tiết"
-  },
   "Home": {
     "title": "Tự kiểm tra tuân thủ của Trung Quốc | Tuân thủ thương mại Trung Quốc",
     "description": "Kiểm tra xem sản phẩm của bạn có cần đăng ký GACC, chứng nhận CCC hay nộp đơn NMPA để xuất khẩu sang Trung Quốc hay không.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "Định giá đơn giản",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "Tìm kiếm",
-    "placeholder": "Tìm kiếm dịch vụ, bài viết, câu hỏi thường gặp...",
-    "noResults": "Không tìm thấy kết quả nào. Hãy thử các từ khóa khác nhau.",
-    "searching": "Đang tìm kiếm...",
-    "hint": "Nhập để tìm kiếm trên các dịch vụ, bài viết và Câu hỏi thường gặp",
-    "types": {
-      "service": "Dịch vụ",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

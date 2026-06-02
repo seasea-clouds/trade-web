@@ -55,27 +55,6 @@
     "contactEmailPlaceholder": "you@company.com",
     "shareWhatsapp": "Compartilhe no WhatsApp"
   },
-  "Footer": {
-    "contact": "Contato",
-    "services": "Serviços",
-    "gaccRegistration": "Registro GACC",
-    "labelCompliance": "Conformidade com rótulo chinês",
-    "cccCertification": "Certificação CCC",
-    "cosmeticsFiling": "Arquivamento de Cosméticos (NMPA)",
-    "crossBorderEcommerce": "Comércio eletrônico transfronteiriço",
-    "brandProtection": "Proteção da marca",
-    "packages": "Pacotes",
-    "faq": "FAQ",
-    "about": "Sobre nós",
-    "rights": "© 2012-2026 Conformidade SinoTrade. Todos os direitos reservados.",
-    "quickLinks": "Links rápidos",
-    "address": "Distrito de Jing'an, Xangai, China",
-    "disclaimer": "Isenção de responsabilidade: somos uma empresa de consultoria regulatória independente e não somos afiliadas à Administração Geral das Alfândegas da China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Depoimentos",
-    "industries": "Indústrias",
-    "blog": "Percepções"
-  },
   "ContactForm": {
     "title": "Avaliação de conformidade gratuita",
     "subtitle": "Conte-nos sobre seus produtos e forneceremos um roteiro de conformidade personalizado.",
@@ -134,18 +113,6 @@
     },
     "search": "Procurar",
     "freeCheck": "Cheque grátis"
-  },
-  "Search": {
-    "title": "Procurar",
-    "placeholder": "Pesquise serviços, artigos, FAQs...",
-    "noResults": "Nenhum resultado encontrado. Experimente palavras-chave diferentes.",
-    "searching": "Procurando...",
-    "hint": "Digite para pesquisar serviços, artigos e perguntas frequentes",
-    "types": {
-      "service": "Serviços",
-      "blog": "Blogue",
-      "faq": "FAQ"
-    }
   },
   "MobileTab": {
     "home": "Home",

@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "Kontaktovať",
-    "services": "Služby",
-    "gaccRegistration": "Registrácia GACC",
-    "labelCompliance": "Súlad s čínskymi štítkami",
-    "cccCertification": "Certifikácia CCC",
-    "cosmeticsFiling": "Kozmetický pilník (NMPA)",
-    "crossBorderEcommerce": "Cezhraničný elektronický obchod",
-    "brandProtection": "Ochrana značky",
-    "packages": "Balíčky",
-    "faq": "FAQ",
-    "about": "O nás",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "Rýchle odkazy",
-    "address": "Okres Jing'an, Šanghaj, Čína",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Posudky",
-    "industries": "Odvetvia",
-    "blog": "Insights"
-  },
   "Home": {
     "title": "Samokontrola zhody Číny | Súlad SinoTrade",
     "description": "Skontrolujte, či váš produkt potrebuje registráciu GACC, certifikáciu CCC alebo podanie NMPA na export do Číny.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "Jednoduché stanovovanie cien",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "Hľadať",
-    "placeholder": "Hľadať služby, články, často kladené otázky...",
-    "noResults": "Nenašli sa žiadne výsledky. Skúste iné kľúčové slová.",
-    "searching": "Hľadá sa...",
-    "hint": "Napíšte, ak chcete vyhľadávať v službách, článkoch a často kladených otázkach",
-    "types": {
-      "service": "Služby",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

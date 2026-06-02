@@ -720,27 +720,6 @@
     "metaTitle": "Mengenai Pematuhan SinoTrade | 15+ Tahun Kepakaran Import China",
     "metaDescription": "Ketahui tentang Pematuhan SinoTrade — rakan kongsi anda yang dipercayai untuk pematuhan import China. Pengalaman 15+ tahun, 50+ negara berkhidmat. Temui pasukan pakar kami."
   },
-  "Footer": {
-    "contact": "Hubungi",
-    "services": "Perkhidmatan",
-    "gaccRegistration": "Pendaftaran GACC",
-    "labelCompliance": "Pematuhan Label Cina",
-    "cccCertification": "Pensijilan CCC",
-    "cosmeticsFiling": "Pemfailan Kosmetik (NMPA)",
-    "crossBorderEcommerce": "E-dagang rentas sempadan",
-    "brandProtection": "Perlindungan Jenama",
-    "packages": "Pakej",
-    "faq": "FAQ",
-    "about": "Tentang Kami",
-    "rights": "© 2012-2026 Pematuhan SinoTrade. Semua hak terpelihara.",
-    "quickLinks": "Pautan Pantas",
-    "address": "Daerah Jing'an, Shanghai, China",
-    "disclaimer": "Penafian: Kami adalah firma perunding kawal selia bebas dan tidak bergabung dengan Pentadbiran Am Kastam China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Testimoni",
-    "industries": "industri",
-    "blog": "Wawasan"
-  },
   "ThankYou": {
     "title": "Terima kasih!",
     "subtitle": "Kami telah menerima permintaan anda. Pasukan kami akan menghubungi anda dalam masa 24 jam.",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "Dapatkan penilaian pematuhan percuma yang disesuaikan dengan produk anda.",
     "ctaUrgency": "Konsultasi percuma → Respons 24 jam",
     "ctaButton": "Dapatkan Penilaian Percuma"
-  },
-  "Search": {
-    "title": "Cari",
-    "placeholder": "Perkhidmatan carian, artikel, Soalan Lazim...",
-    "noResults": "Tiada hasil ditemui. Cuba kata kunci yang berbeza.",
-    "searching": "Mencari...",
-    "hint": "Taip untuk mencari merentas perkhidmatan, artikel dan Soalan Lazim",
-    "types": {
-      "service": "Perkhidmatan",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "Penilaian direktori pensijilan CCC",

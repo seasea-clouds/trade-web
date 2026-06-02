@@ -720,27 +720,6 @@
     "metaTitle": "Informacje o zgodności z przepisami SinoTrade | Ponad 15-letnie doświadczenie w imporcie w Chinach",
     "metaDescription": "Dowiedz się o zgodności z przepisami SinoTrade — Twoim zaufanym partnerze w zakresie zgodności z przepisami dotyczącymi importu w Chinach. Ponad 15 lat doświadczenia, obsługa ponad 50 krajów. Poznaj nasz zespół ekspertów."
   },
-  "Footer": {
-    "contact": "Kontakt",
-    "services": "Usługi",
-    "gaccRegistration": "Rejestracja GACC",
-    "labelCompliance": "Zgodność z chińską etykietą",
-    "cccCertification": "Certyfikat CCC",
-    "cosmeticsFiling": "Archiwizacja kosmetyków (NMPA)",
-    "crossBorderEcommerce": "Transgraniczny handel elektroniczny",
-    "brandProtection": "Ochrona marki",
-    "packages": "Pakiety",
-    "faq": "FAQ",
-    "about": "O nas",
-    "rights": "© 2012-2026 Zgodność z przepisami SinoTrade. Wszelkie prawa zastrzeżone.",
-    "quickLinks": "Szybkie linki",
-    "address": "Dystrykt Jing'an, Szanghaj, Chiny",
-    "disclaimer": "Zastrzeżenie: Jesteśmy niezależną firmą zajmującą się doradztwem regulacyjnym i nie jesteśmy powiązani z Generalną Administracją Celną Chin.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Referencje",
-    "industries": "Przemysły",
-    "blog": "Spostrzeżenia"
-  },
   "ThankYou": {
     "title": "Dziękuję!",
     "subtitle": "Otrzymaliśmy Twoją prośbę. Nasz zespół skontaktuje się z Tobą w ciągu 24 godzin.",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "Uzyskaj bezpłatną ocenę zgodności dostosowaną do Twoich produktów.",
     "ctaUrgency": "Bezpłatna konsultacja → Odpowiedź 24h",
     "ctaButton": "Uzyskaj bezpłatną ocenę"
-  },
-  "Search": {
-    "title": "Szukaj",
-    "placeholder": "Wyszukaj usługi, artykuły, często zadawane pytania...",
-    "noResults": "Nie znaleziono żadnych wyników. Wypróbuj inne słowa kluczowe.",
-    "searching": "Badawczy...",
-    "hint": "Wpisz, aby przeszukać usługi, artykuły i często zadawane pytania",
-    "types": {
-      "service": "Usługi",
-      "blog": "Bloga",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "Ocena katalogu certyfikacji CCC",

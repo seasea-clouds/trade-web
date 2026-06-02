@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "رابطہ کریں۔",
-    "services": "خدمات",
-    "gaccRegistration": "GACC رجسٹریشن",
-    "labelCompliance": "چینی لیبل کی تعمیل",
-    "cccCertification": "سی سی سی سرٹیفیکیشن",
-    "cosmeticsFiling": "کاسمیٹکس فائلنگ (NMPA)",
-    "crossBorderEcommerce": "سرحد پار ای کامرس",
-    "brandProtection": "برانڈ پروٹیکشن",
-    "packages": "پیکجز",
-    "faq": "اکثر پوچھے گئے سوالات",
-    "about": "ہمارے بارے میں",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "فوری لنکس",
-    "address": "Jing'an ڈسٹرکٹ، شنگھائی، چین",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "واٹس ایپ",
-    "testimonials": "تعریفیں",
-    "industries": "صنعتیں",
-    "blog": "بصیرت"
-  },
   "Home": {
     "title": "چائنا کمپلائنس سیلف چیک | سائنو ٹریڈ کی تعمیل",
     "description": "چیک کریں کہ آیا آپ کے پروڈکٹ کو چین میں ایکسپورٹ کے لیے GACC رجسٹریشن، CCC سرٹیفیکیشن، یا NMPA فائلنگ کی ضرورت ہے۔",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "سادہ قیمتوں کا تعین",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "تلاش کریں۔",
-    "placeholder": "تلاش کی خدمات، مضامین، اکثر پوچھے گئے سوالات...",
-    "noResults": "کوئی نتیجہ نہیں ملا۔ مختلف کلیدی الفاظ آزمائیں۔",
-    "searching": "تلاش کر رہا ہے...",
-    "hint": "تمام سروسز، مضامین اور عمومی سوالنامہ تلاش کرنے کے لیے ٹائپ کریں۔",
-    "types": {
-      "service": "خدمات",
-      "blog": "بلاگ",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

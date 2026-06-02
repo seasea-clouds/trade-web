@@ -720,27 +720,6 @@
     "metaTitle": "O dodržování SinoTrade | Více než 15 let zkušeností s dovozem z Číny",
     "metaDescription": "Přečtěte si o SinoTrade Compliance – vašem důvěryhodném partnerovi pro dodržování dovozu z Číny. 15+ let zkušeností, 50+ zemí. Seznamte se s naším týmem odborníků."
   },
-  "Footer": {
-    "contact": "Kontakt",
-    "services": "Služby",
-    "gaccRegistration": "Registrace GACC",
-    "labelCompliance": "Soulad s čínskými štítky",
-    "cccCertification": "Certifikace CCC",
-    "cosmeticsFiling": "Kosmetický pilník (NMPA)",
-    "crossBorderEcommerce": "Přeshraniční elektronický obchod",
-    "brandProtection": "Ochrana značky",
-    "packages": "Balíčky",
-    "faq": "FAQ",
-    "about": "O nás",
-    "rights": "© 2012-2026 Soulad se SinoTrade. Všechna práva vyhrazena.",
-    "quickLinks": "Rychlé odkazy",
-    "address": "Okres Jing'an, Šanghaj, Čína",
-    "disclaimer": "Prohlášení: Jsme nezávislá regulační poradenská firma a nejsme přidruženi k Generální celní správě Číny.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Posudky",
-    "industries": "Průmyslová odvětví",
-    "blog": "Postřehy"
-  },
   "ThankYou": {
     "title": "Děkuju!",
     "subtitle": "Obdrželi jsme vaši žádost. Náš tým vás bude kontaktovat do 24 hodin.",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "Získejte zdarma posouzení shody přizpůsobené vašim produktům.",
     "ctaUrgency": "Konzultace zdarma → odpověď 24h",
     "ctaButton": "Získejte bezplatné hodnocení"
-  },
-  "Search": {
-    "title": "Vyhledávání",
-    "placeholder": "Hledat služby, články, časté dotazy...",
-    "noResults": "Nebyly nalezeny žádné výsledky. Zkuste jiná klíčová slova.",
-    "searching": "Hledání...",
-    "hint": "Pište pro vyhledávání ve službách, článcích a často kladených dotazech",
-    "types": {
-      "service": "Služby",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "Posouzení certifikačního adresáře CCC",

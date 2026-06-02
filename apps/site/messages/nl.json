@@ -720,27 +720,6 @@
     "metaTitle": "Over SinoTrade-naleving | Meer dan 15 jaar Chinese importexpertise",
     "metaDescription": "Lees meer over SinoTrade Compliance – uw vertrouwde partner voor importcompliance in China. 15+ jaar ervaring, 50+ landen bediend. Maak kennis met ons expertteam."
   },
-  "Footer": {
-    "contact": "Contact",
-    "services": "Diensten",
-    "gaccRegistration": "GACC-registratie",
-    "labelCompliance": "Naleving van Chinese labels",
-    "cccCertification": "CCC-certificering",
-    "cosmeticsFiling": "Cosmetica-aanvraag (NMPA)",
-    "crossBorderEcommerce": "Grensoverschrijdende e-commerce",
-    "brandProtection": "Merkbescherming",
-    "packages": "Pakketten",
-    "faq": "FAQ",
-    "about": "Over ons",
-    "rights": "© 2012-2026 SinoTrade-naleving. Alle rechten voorbehouden.",
-    "quickLinks": "Snelle koppelingen",
-    "address": "Jing'an-district, Shanghai, China",
-    "disclaimer": "Disclaimer: Wij zijn een onafhankelijk regelgevend adviesbureau en zijn niet aangesloten bij de Algemene Administratie van de Douane van China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Getuigenissen",
-    "industries": "Industrieën",
-    "blog": "Inzichten"
-  },
   "ThankYou": {
     "title": "Bedankt!",
     "subtitle": "We hebben uw verzoek ontvangen. Ons team neemt binnen 24 uur contact met u op.",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "Ontvang een gratis nalevingsbeoordeling op maat van uw producten.",
     "ctaUrgency": "Gratis advies → 24-uurs reactie",
     "ctaButton": "Ontvang een gratis beoordeling"
-  },
-  "Search": {
-    "title": "Zoekopdracht",
-    "placeholder": "Zoekdiensten, artikelen, veelgestelde vragen...",
-    "noResults": "Geen resultaten gevonden. Probeer verschillende zoekwoorden.",
-    "searching": "Zoeken...",
-    "hint": "Typ om te zoeken in services, artikelen en veelgestelde vragen",
-    "types": {
-      "service": "Diensten",
-      "blog": "Bloggen",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "CCC-certificeringslijstbeoordeling",

@@ -55,27 +55,6 @@
     "contactEmailPlaceholder": "you@company.com",
     "shareWhatsapp": "Падзяліцеся ў WhatsApp"
   },
-  "Footer": {
-    "contact": "Кантакт",
-    "services": "Паслугі",
-    "gaccRegistration": "GACC Рэгістрацыя",
-    "labelCompliance": "Адпаведнасць кітайскай этыкеткі",
-    "cccCertification": "Сертыфікацыя CCC",
-    "cosmeticsFiling": "Касметычныя дакументы (NMPA)",
-    "crossBorderEcommerce": "Трансгранічны электронны гандаль",
-    "brandProtection": "Абарона брэнда",
-    "packages": "Пакеты",
-    "faq": "FAQ",
-    "about": "Пра нас",
-    "rights": "© 2012-2026 SinoTrade Compliance. Усе правы абароненыя.",
-    "quickLinks": "Хуткія спасылкі",
-    "address": "Раён Цзінань, Шанхай, Кітай",
-    "disclaimer": "Адмова ад адказнасці: мы з'яўляемся незалежнай кансультацыйнай фірмай па пытаннях рэгулявання і не звязаны з Галоўнай мытнай адміністрацыяй Кітая.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Водгукі",
-    "industries": "галін прамысловасці",
-    "blog": "Інсайты"
-  },
   "ContactForm": {
     "title": "Бясплатная ацэнка адпаведнасці",
     "subtitle": "Раскажыце нам пра свае прадукты, і мы дамо персаналізаваную дарожную карту адпаведнасці.",
@@ -134,18 +113,6 @@
     },
     "search": "Пошук",
     "freeCheck": "Бясплатная праверка"
-  },
-  "Search": {
-    "title": "Пошук",
-    "placeholder": "Пошук паслуг, артыкулаў, FAQ...",
-    "noResults": "Нічога не знойдзена. Паспрабуйце розныя ключавыя словы.",
-    "searching": "Пошук...",
-    "hint": "Увядзіце для пошуку ў сэрвісах, артыкулах і часта задаваных пытаннях",
-    "types": {
-      "service": "Паслугі",
-      "blog": "Блог",
-      "faq": "FAQ"
-    }
   },
   "MobileTab": {
     "home": "Home",

@@ -55,27 +55,6 @@
     "contactEmailPlaceholder": "you@company.com",
     "shareWhatsapp": "Shpërndaje në WhatsApp"
   },
-  "Footer": {
-    "contact": "Kontakt",
-    "services": "Shërbime",
-    "gaccRegistration": "Regjistrimi i GACC",
-    "labelCompliance": "Pajtueshmëria me etiketën kineze",
-    "cccCertification": "Certifikimi CCC",
-    "cosmeticsFiling": "Regjistrimi i kozmetikës (NMPA)",
-    "crossBorderEcommerce": "E-commerce ndërkufitare",
-    "brandProtection": "Mbrojtja e markës",
-    "packages": "Paketat",
-    "faq": "FAQ",
-    "about": "Rreth Nesh",
-    "rights": "© 2012-2026 Përputhshmëria e SinoTrade. Të gjitha të drejtat e rezervuara.",
-    "quickLinks": "Lidhje të shpejta",
-    "address": "Distrikti Jing'an, Shanghai, Kinë",
-    "disclaimer": "Mohim përgjegjësie: Ne jemi një firmë e pavarur këshilluese rregullatore dhe nuk jemi të lidhur me Administratën e Përgjithshme të Doganave të Kinës.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Dëshmitë",
-    "industries": "Industritë",
-    "blog": "Vështrime"
-  },
   "ContactForm": {
     "title": "Vlerësimi Falas i Përputhshmërisë",
     "subtitle": "Na tregoni për produktet tuaja dhe ne do të ofrojmë një udhërrëfyes të personalizuar të pajtueshmërisë.",
@@ -134,18 +113,6 @@
     },
     "search": "Kërko",
     "freeCheck": "Kontroll falas"
-  },
-  "Search": {
-    "title": "Kërko",
-    "placeholder": "Shërbimet e kërkimit, artikujt, pyetjet e shpeshta...",
-    "noResults": "Nuk u gjet asnjë rezultat. Provoni fjalë kyçe të ndryshme.",
-    "searching": "Po kërkon...",
-    "hint": "Shkruani për të kërkuar nëpër shërbime, artikuj dhe FAQ",
-    "types": {
-      "service": "Shërbime",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
   },
   "MobileTab": {
     "home": "Home",

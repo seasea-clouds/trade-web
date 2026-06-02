@@ -720,27 +720,6 @@
     "metaTitle": "Informazioni sulla conformità di SinoTrade | Oltre 15 anni di esperienza nell'importazione dalla Cina",
     "metaDescription": "Scopri di più su SinoTrade Compliance: il tuo partner di fiducia per la conformità delle importazioni dalla Cina. Oltre 15 anni di esperienza, oltre 50 paesi serviti. Incontra il nostro team di esperti."
   },
-  "Footer": {
-    "contact": "Contatti",
-    "services": "Servizi",
-    "gaccRegistration": "Registrazione GACC",
-    "labelCompliance": "Conformità dell'etichetta cinese",
-    "cccCertification": "Certificazione CCC",
-    "cosmeticsFiling": "Archiviazione di cosmetici (NMPA)",
-    "crossBorderEcommerce": "Commercio elettronico transfrontaliero",
-    "brandProtection": "Protezione del marchio",
-    "packages": "Pacchetti",
-    "faq": "FAQ",
-    "about": "Chi siamo",
-    "rights": "© 2012-2026 Conformità SinoTrade. Tutti i diritti riservati.",
-    "quickLinks": "Collegamenti rapidi",
-    "address": "Distretto di Jing'an, Shanghai, Cina",
-    "disclaimer": "Dichiarazione di non responsabilità: siamo una società di consulenza normativa indipendente e non siamo affiliati all'Amministrazione generale delle dogane cinesi.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Testimonianze",
-    "industries": "Industrie",
-    "blog": "Approfondimenti"
-  },
   "ThankYou": {
     "title": "Grazie!",
     "subtitle": "Abbiamo ricevuto la tua richiesta. Il nostro team ti contatterà entro 24 ore.",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "Ottieni una valutazione di conformità gratuita su misura per i tuoi prodotti.",
     "ctaUrgency": "Consulenza gratuita → risposta 24 ore su 24",
     "ctaButton": "Ottieni una valutazione gratuita"
-  },
-  "Search": {
-    "title": "Ricerca",
-    "placeholder": "Cerca servizi, articoli, FAQ...",
-    "noResults": "Nessun risultato trovato Prova parole chiave diverse.",
-    "searching": "Ricerca...",
-    "hint": "Digita per cercare tra servizi, articoli e domande frequenti",
-    "types": {
-      "service": "Servizi",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "Valutazione della directory di certificazione CCC",

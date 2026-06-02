@@ -720,27 +720,6 @@
     "metaTitle": "Om SinoTrade Compliance | 15+ år Kina importekspertise",
     "metaDescription": "Lær om SinoTrade Compliance - din betroede partner for Kinas importoverholdelse. 15+ års erfaring, 50+ lande betjent. Mød vores ekspertteam."
   },
-  "Footer": {
-    "contact": "Kontakt",
-    "services": "Tjenester",
-    "gaccRegistration": "GACC registrering",
-    "labelCompliance": "Overholdelse af kinesiske etiketter",
-    "cccCertification": "CCC certificering",
-    "cosmeticsFiling": "Kosmetikarkivering (NMPA)",
-    "crossBorderEcommerce": "Grænseoverskridende e-handel",
-    "brandProtection": "Brand beskyttelse",
-    "packages": "Pakker",
-    "faq": "FAQ",
-    "about": "Om os",
-    "rights": "© 2012-2026 SinoTrade Compliance. Alle rettigheder forbeholdes.",
-    "quickLinks": "Hurtige links",
-    "address": "Jing'an-distriktet, Shanghai, Kina",
-    "disclaimer": "Ansvarsfraskrivelse: Vi er et uafhængigt reguleringskonsulentfirma og er ikke tilknyttet Kinas General Administration of Customs.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Udtalelser",
-    "industries": "Industrier",
-    "blog": "Indsigt"
-  },
   "ThankYou": {
     "title": "Tak!",
     "subtitle": "Vi har modtaget din anmodning. Vores team vil kontakte dig inden for 24 timer.",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "Få en gratis overensstemmelsesvurdering skræddersyet til dine produkter.",
     "ctaUrgency": "Gratis konsultation → 24 timers svar",
     "ctaButton": "Få gratis vurdering"
-  },
-  "Search": {
-    "title": "Søge",
-    "placeholder": "Søgetjenester, artikler, ofte stillede spørgsmål...",
-    "noResults": "Ingen resultater fundet. Prøv forskellige søgeord.",
-    "searching": "Søger...",
-    "hint": "Skriv for at søge på tværs af tjenester, artikler og ofte stillede spørgsmål",
-    "types": {
-      "service": "Tjenester",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "CCC-certificeringskatalogvurdering",

@@ -720,27 +720,6 @@
     "metaTitle": "Rreth Pajtueshmërisë SinoTrade | 15+ vjet Ekspertizë e Importit në Kinë",
     "metaDescription": "Mësoni rreth Përputhshmërisë SinoTrade - partneri juaj i besuar për pajtueshmërinë e importit të Kinës. 15+ vite përvojë, 50+ vende të shërbyera. Takoni ekipin tonë të ekspertëve."
   },
-  "Footer": {
-    "contact": "Kontakt",
-    "services": "Shërbime",
-    "gaccRegistration": "Regjistrimi i GACC",
-    "labelCompliance": "Pajtueshmëria me etiketën kineze",
-    "cccCertification": "Certifikimi CCC",
-    "cosmeticsFiling": "Regjistrimi i kozmetikës (NMPA)",
-    "crossBorderEcommerce": "E-commerce ndërkufitare",
-    "brandProtection": "Mbrojtja e markës",
-    "packages": "Paketat",
-    "faq": "FAQ",
-    "about": "Rreth Nesh",
-    "rights": "© 2012-2026 Përputhshmëria e SinoTrade. Të gjitha të drejtat e rezervuara.",
-    "quickLinks": "Lidhje të shpejta",
-    "address": "Distrikti Jing'an, Shanghai, Kinë",
-    "disclaimer": "Mohim përgjegjësie: Ne jemi një firmë e pavarur këshilluese rregullatore dhe nuk jemi të lidhur me Administratën e Përgjithshme të Doganave të Kinës.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Dëshmitë",
-    "industries": "Industritë",
-    "blog": "Vështrime"
-  },
   "ThankYou": {
     "title": "Faleminderit!",
     "subtitle": "Kemi marrë kërkesën tuaj. Ekipi ynë do t'ju kontaktojë brenda 24 orëve.",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "Merrni një vlerësim të pajtueshmërisë falas të përshtatur për produktet tuaja.",
     "ctaUrgency": "Konsultim falas → Përgjigje 24 orë",
     "ctaButton": "Merrni vlerësim falas"
-  },
-  "Search": {
-    "title": "Kërko",
-    "placeholder": "Shërbimet e kërkimit, artikujt, pyetjet e shpeshta...",
-    "noResults": "Nuk u gjet asnjë rezultat. Provoni fjalë kyçe të ndryshme.",
-    "searching": "Po kërkon...",
-    "hint": "Shkruani për të kërkuar nëpër shërbime, artikuj dhe FAQ",
-    "types": {
-      "service": "Shërbime",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "Vlerësimi i drejtorisë së certifikimit të KKK-së",

@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "Contato",
-    "services": "Serviços",
-    "gaccRegistration": "Registro GACC",
-    "labelCompliance": "Conformidade com rótulo chinês",
-    "cccCertification": "Certificação CCC",
-    "cosmeticsFiling": "Arquivamento de Cosméticos (NMPA)",
-    "crossBorderEcommerce": "Comércio eletrônico transfronteiriço",
-    "brandProtection": "Proteção da marca",
-    "packages": "Pacotes",
-    "faq": "Perguntas frequentes",
-    "about": "Sobre nós",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "Links rápidos",
-    "address": "Distrito de Jing'an, Xangai, China",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Depoimentos",
-    "industries": "Indústrias",
-    "blog": "Informações"
-  },
   "Home": {
     "title": "Autoverificação de conformidade na China | Conformidade SinoTrade",
     "description": "Verifique se o seu produto precisa de registro GACC, certificação CCC ou registro NMPA para exportação para a China.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "Preço Simples",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "Procurar",
-    "placeholder": "Pesquise serviços, artigos, FAQs...",
-    "noResults": "Nenhum resultado encontrado. Experimente palavras-chave diferentes.",
-    "searching": "Procurando...",
-    "hint": "Digite para pesquisar serviços, artigos e perguntas frequentes",
-    "types": {
-      "service": "Serviços",
-      "blog": "Blogue",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

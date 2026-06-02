@@ -720,27 +720,6 @@
     "metaTitle": "Über SinoTrade-Compliance | Über 15 Jahre Erfahrung im China-Import",
     "metaDescription": "Erfahren Sie mehr über SinoTrade Compliance – Ihren vertrauenswürdigen Partner für China-Import-Compliance. Mehr als 15 Jahre Erfahrung, mehr als 50 Länder beliefert. Lernen Sie unser Expertenteam kennen."
   },
-  "Footer": {
-    "contact": "Kontakt",
-    "services": "Dienstleistungen",
-    "gaccRegistration": "GACC-Registrierung",
-    "labelCompliance": "Einhaltung chinesischer Etiketten",
-    "cccCertification": "CCC-Zertifizierung",
-    "cosmeticsFiling": "Einreichung von Kosmetika (NMPA)",
-    "crossBorderEcommerce": "Grenzüberschreitender E-Commerce",
-    "brandProtection": "Markenschutz",
-    "packages": "Pakete",
-    "faq": "FAQ",
-    "about": "Über uns",
-    "rights": "© 2012-2026 SinoTrade Compliance. Alle Rechte vorbehalten.",
-    "quickLinks": "Quicklinks",
-    "address": "Bezirk Jing'an, Shanghai, China",
-    "disclaimer": "Haftungsausschluss: Wir sind ein unabhängiges Regulierungsberatungsunternehmen und nicht mit der Allgemeinen Zollverwaltung Chinas verbunden.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Erfahrungsberichte",
-    "industries": "Branchen",
-    "blog": "Einblicke"
-  },
   "ThankYou": {
     "title": "Danke schön!",
     "subtitle": "Wir haben Ihre Anfrage erhalten. Unser Team wird sich innerhalb von 24 Stunden mit Ihnen in Verbindung setzen.",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "Erhalten Sie eine kostenlose, auf Ihre Produkte zugeschnittene Compliance-Bewertung.",
     "ctaUrgency": "Kostenlose Beratung → 24h-Antwort",
     "ctaButton": "Erhalten Sie eine kostenlose Bewertung"
-  },
-  "Search": {
-    "title": "Suchen",
-    "placeholder": "Suchdienste, Artikel, FAQs...",
-    "noResults": "Keine Ergebnisse gefunden. Probieren Sie verschiedene Schlüsselwörter aus.",
-    "searching": "Suche...",
-    "hint": "Geben Sie ein, um nach Diensten, Artikeln und FAQs zu suchen",
-    "types": {
-      "service": "Dienstleistungen",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "CCC-Zertifizierungs-Verzeichnisbewertung",

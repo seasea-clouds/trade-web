@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "Կապ",
-    "services": "Ծառայություններ",
-    "gaccRegistration": "GACC գրանցում",
-    "labelCompliance": "Չինական պիտակի համապատասխանություն",
-    "cccCertification": "CCC սերտիֆիկացում",
-    "cosmeticsFiling": "Կոսմետիկայի ներկայացում (NMPA)",
-    "crossBorderEcommerce": "Անդրսահմանային էլեկտրոնային առևտուր",
-    "brandProtection": "Ապրանքանիշի պաշտպանություն",
-    "packages": "Փաթեթներ",
-    "faq": "ՀՏՀ",
-    "about": "Մեր մասին",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "Արագ հղումներ",
-    "address": "Ջինհան շրջան, Շանհայ, Չինաստան",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Վկայություններ",
-    "industries": "Արդյունաբերություններ",
-    "blog": "Խորաթափանցություն"
-  },
   "Home": {
     "title": "Չինաստանի համապատասխանության ինքնաստուգում | SinoTrade-ի համապատասխանություն",
     "description": "Ստուգեք, արդյոք ձեր արտադրանքին անհրաժեշտ է GACC գրանցում, CCC հավաստագրում կամ NMPA-ի ներկայացում Չինաստան արտահանման համար:",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "Պարզ գնագոյացում",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "Որոնում",
-    "placeholder": "Որոնման ծառայություններ, հոդվածներ, ՀՏՀ...",
-    "noResults": "Ոչ մի արդյունք չի գտնվել: Փորձեք տարբեր հիմնաբառեր:",
-    "searching": "Որոնում...",
-    "hint": "Մուտքագրեք ծառայություններում, հոդվածներում և ՀՏՀ-ներում որոնելու համար",
-    "types": {
-      "service": "Ծառայություններ",
-      "blog": "Բլոգ",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

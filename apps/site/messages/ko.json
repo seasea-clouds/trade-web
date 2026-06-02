@@ -720,27 +720,6 @@
     "metaTitle": "SinoTrade 규정 준수 정보 | 15년 이상의 중국 수입 전문 지식",
     "metaDescription": "중국 수입 규정 준수를 위한 신뢰할 수 있는 파트너인 SinoTrade 규정 준수에 대해 알아보세요. 15년 이상의 경험, 50개 이상의 국가에서 서비스 제공. 전문가 팀을 만나보세요."
   },
-  "Footer": {
-    "contact": "연락하다",
-    "services": "서비스",
-    "gaccRegistration": "GACC 등록",
-    "labelCompliance": "중국 라벨 규정 준수",
-    "cccCertification": "CCC 인증",
-    "cosmeticsFiling": "화장품 신고(NMPA)",
-    "crossBorderEcommerce": "국경 간 전자상거래",
-    "brandProtection": "브랜드 보호",
-    "packages": "패키지",
-    "faq": "FAQ",
-    "about": "회사 소개",
-    "rights": "© 2012-2026 SinoTrade 규정 준수. 모든 권리 보유.",
-    "quickLinks": "빠른 링크",
-    "address": "중국 상하이 징안구",
-    "disclaimer": "면책 조항: 당사는 독립적인 규제 컨설팅 회사이며 중국 관세청과 관련이 없습니다.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "사용후기",
-    "industries": "산업",
-    "blog": "통찰력"
-  },
   "ThankYou": {
     "title": "감사합니다!",
     "subtitle": "귀하의 요청이 접수되었습니다. 우리 팀이 24시간 이내에 연락을 드릴 것입니다.",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "귀하의 제품에 맞는 무료 규정 준수 평가를 받아보세요.",
     "ctaUrgency": "무료 상담 → 24시간 응답",
     "ctaButton": "무료 평가 받기"
-  },
-  "Search": {
-    "title": "검색",
-    "placeholder": "서비스, ​​기사, FAQ 검색...",
-    "noResults": "검색된 결과가 없습니다. 다른 키워드를 사용해 보세요.",
-    "searching": "수색...",
-    "hint": "서비스, ​​기사, FAQ를 검색하려면 입력하세요.",
-    "types": {
-      "service": "서비스",
-      "blog": "블로그",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "CCC 인증 디렉토리 평가",

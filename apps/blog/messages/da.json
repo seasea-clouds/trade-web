@@ -55,27 +55,6 @@
     "contactEmailPlaceholder": "you@company.com",
     "shareWhatsapp": "Del på WhatsApp"
   },
-  "Footer": {
-    "contact": "Kontakt",
-    "services": "Tjenester",
-    "gaccRegistration": "GACC registrering",
-    "labelCompliance": "Overholdelse af kinesiske etiketter",
-    "cccCertification": "CCC certificering",
-    "cosmeticsFiling": "Kosmetikarkivering (NMPA)",
-    "crossBorderEcommerce": "Grænseoverskridende e-handel",
-    "brandProtection": "Brand beskyttelse",
-    "packages": "Pakker",
-    "faq": "FAQ",
-    "about": "Om os",
-    "rights": "© 2012-2026 SinoTrade Compliance. Alle rettigheder forbeholdes.",
-    "quickLinks": "Hurtige links",
-    "address": "Jing'an-distriktet, Shanghai, Kina",
-    "disclaimer": "Ansvarsfraskrivelse: Vi er et uafhængigt reguleringskonsulentfirma og er ikke tilknyttet Kinas General Administration of Customs.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Udtalelser",
-    "industries": "Industrier",
-    "blog": "Indsigt"
-  },
   "ContactForm": {
     "title": "Gratis overensstemmelsesvurdering",
     "subtitle": "Fortæl os om dine produkter, og vi vil levere en personlig køreplan for overholdelse.",
@@ -134,18 +113,6 @@
     },
     "search": "Søge",
     "freeCheck": "Gratis check"
-  },
-  "Search": {
-    "title": "Søge",
-    "placeholder": "Søgetjenester, artikler, ofte stillede spørgsmål...",
-    "noResults": "Ingen resultater fundet. Prøv forskellige søgeord.",
-    "searching": "Søger...",
-    "hint": "Skriv for at søge på tværs af tjenester, artikler og ofte stillede spørgsmål",
-    "types": {
-      "service": "Tjenester",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
   },
   "MobileTab": {
     "home": "Home",

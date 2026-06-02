@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "Contacteer",
-    "services": "Diensten",
-    "gaccRegistration": "GACC-registratie",
-    "labelCompliance": "Naleving van Chinese labels",
-    "cccCertification": "CCC-certificering",
-    "cosmeticsFiling": "Cosmetica-aanvraag (NMPA)",
-    "crossBorderEcommerce": "Grensoverschrijdende e-commerce",
-    "brandProtection": "Merkbescherming",
-    "packages": "Pakketten",
-    "faq": "Veelgestelde vragen",
-    "about": "Over ons",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "Snelle koppelingen",
-    "address": "Jing'an-district, Shanghai, China",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "WhatsAppen",
-    "testimonials": "Getuigenissen",
-    "industries": "Industrieën",
-    "blog": "Inzichten"
-  },
   "Home": {
     "title": "Zelfcontrole van de naleving van China | SinoTrade-naleving",
     "description": "Controleer of uw product GACC-registratie, CCC-certificering of NMPA-aanvraag nodig heeft voor export naar China.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "Eenvoudige prijzen",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "Zoekopdracht",
-    "placeholder": "Zoekdiensten, artikelen, veelgestelde vragen...",
-    "noResults": "Geen resultaten gevonden. Probeer verschillende zoekwoorden.",
-    "searching": "Zoeken...",
-    "hint": "Typ om te zoeken in services, artikelen en veelgestelde vragen",
-    "types": {
-      "service": "Diensten",
-      "blog": "Bloggen",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

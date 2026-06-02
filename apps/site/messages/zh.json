@@ -720,27 +720,6 @@
     "metaTitle": "关于 SinoTrade Compliance | 15+ 年中国进口合规专家",
     "metaDescription": "了解 SinoTrade Compliance — 您可信赖的中国进口合规合作伙伴。15 年行业经验，服务 50+ 国家出口商。"
   },
-  "Footer": {
-    "contact": "联系我们",
-    "services": "服务",
-    "gaccRegistration": "海关总署注册",
-    "labelCompliance": "中国标签合规性",
-    "cccCertification": "CCC认证",
-    "cosmeticsFiling": "化妆品备案（NMPA）",
-    "crossBorderEcommerce": "跨境电商",
-    "brandProtection": "品牌保护",
-    "packages": "套餐",
-    "faq": "FAQ",
-    "about": "关于我们",
-    "rights": "© 2012-2026 中贸合规。版权所有。",
-    "quickLinks": "快速链接",
-    "address": "静安区, 上海市, 中国",
-    "disclaimer": "免责声明：我们是一家独立的监管咨询公司，不隶属于中国海关总署。",
-    "whatsapp": "WhatsApp",
-    "testimonials": "感言",
-    "industries": "行业",
-    "blog": "见解"
-  },
   "ThankYou": {
     "title": "谢谢你！",
     "subtitle": "我们已收到您的请求。我们的团队将在 24 小时内与您联系。",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "获得针对您的产品量身定制的免费合规评估。",
     "ctaUrgency": "免费咨询→24小时响应",
     "ctaButton": "获得免费评估"
-  },
-  "Search": {
-    "title": "搜索",
-    "placeholder": "搜索服务、文章、常见问题解答...",
-    "noResults": "没有找到结果。尝试不同的关键词。",
-    "searching": "正在寻找...",
-    "hint": "输入内容以搜索服务、文章和常见问题解答",
-    "types": {
-      "service": "服务",
-      "blog": "博客",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "CCC 认证目录评估",

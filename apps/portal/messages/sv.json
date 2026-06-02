@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "Kontakta",
-    "services": "Tjänster",
-    "gaccRegistration": "GACC-registrering",
-    "labelCompliance": "Efterlevnad av kinesiska etiketter",
-    "cccCertification": "CCC-certifiering",
-    "cosmeticsFiling": "Kosmetikaarkivering (NMPA)",
-    "crossBorderEcommerce": "Gränsöverskridande e-handel",
-    "brandProtection": "Varumärkesskydd",
-    "packages": "Paket",
-    "faq": "FAQ",
-    "about": "Om oss",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "Snabblänkar",
-    "address": "Jing'an-distriktet, Shanghai, Kina",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Rekommendationer",
-    "industries": "industrier",
-    "blog": "Insikter"
-  },
   "Home": {
     "title": "Självkontroll av Kinas efterlevnad | SinoTrade efterlevnad",
     "description": "Kontrollera om din produkt behöver GACC-registrering, CCC-certifiering eller NMPA-anmälan för export till Kina.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "Enkel prissättning",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "Söka",
-    "placeholder": "Söktjänster, artiklar, vanliga frågor...",
-    "noResults": "Inga resultat hittades. Prova olika sökord.",
-    "searching": "Sökande...",
-    "hint": "Skriv för att söka bland tjänster, artiklar och vanliga frågor",
-    "types": {
-      "service": "Tjänster",
-      "blog": "Blogg",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

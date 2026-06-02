@@ -720,27 +720,6 @@
     "metaTitle": "Despre SinoTrade Compliance | 15+ ani de experiență în importul din China",
     "metaDescription": "Aflați mai multe despre SinoTrade Compliance — partenerul dvs. de încredere pentru conformitatea importurilor din China. Peste 15 ani de experiență, peste 50 de țări deservite. Faceți cunoștință cu echipa noastră de experți."
   },
-  "Footer": {
-    "contact": "Contact",
-    "services": "Servicii",
-    "gaccRegistration": "Înregistrare GACC",
-    "labelCompliance": "Conformitatea etichetei chinezești",
-    "cccCertification": "Certificare CCC",
-    "cosmeticsFiling": "Depunerea produselor cosmetice (NMPA)",
-    "crossBorderEcommerce": "Comerț electronic transfrontalier",
-    "brandProtection": "Protecția mărcii",
-    "packages": "Pachete",
-    "faq": "FAQ",
-    "about": "Despre noi",
-    "rights": "© 2012-2026 SinoTrade Compliance. Toate drepturile rezervate.",
-    "quickLinks": "Legături rapide",
-    "address": "Districtul Jing'an, Shanghai, China",
-    "disclaimer": "Declinare a răspunderii: Suntem o firmă independentă de consultanță în materie de reglementare și nu suntem afiliați cu Administrația Generală a Vămilor din China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Mărturii",
-    "industries": "Industrii",
-    "blog": "Perspective"
-  },
   "ThankYou": {
     "title": "Multumesc!",
     "subtitle": "Am primit cererea dvs. Echipa noastră vă va contacta în termen de 24 de ore.",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "Obțineți o evaluare gratuită a conformității, adaptată produselor dvs.",
     "ctaUrgency": "Consultație gratuită → Răspuns 24 de ore",
     "ctaButton": "Obțineți o evaluare gratuită"
-  },
-  "Search": {
-    "title": "Căutare",
-    "placeholder": "Servicii de căutare, articole, întrebări frecvente...",
-    "noResults": "Nu s-au găsit rezultate. Încercați diferite cuvinte cheie.",
-    "searching": "Se caută...",
-    "hint": "Tastați pentru a căuta în servicii, articole și întrebări frecvente",
-    "types": {
-      "service": "Servicii",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "Evaluarea directorului de certificare CCC",

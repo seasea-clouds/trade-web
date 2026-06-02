@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "Kontaktoni",
-    "services": "Shërbimet",
-    "gaccRegistration": "Regjistrimi i GACC",
-    "labelCompliance": "Pajtueshmëria me etiketën kineze",
-    "cccCertification": "Certifikimi CCC",
-    "cosmeticsFiling": "Regjistrimi i kozmetikës (NMPA)",
-    "crossBorderEcommerce": "E-commerce ndërkufitare",
-    "brandProtection": "Mbrojtja e markës",
-    "packages": "Paketat",
-    "faq": "FAQ",
-    "about": "Rreth Nesh",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "Lidhje të shpejta",
-    "address": "Distrikti Jing'an, Shanghai, Kinë",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Dëshmitë",
-    "industries": "Industritë",
-    "blog": "Vështrime"
-  },
   "Home": {
     "title": "Vetë-Kontrolli i Pajtueshmërisë së Kinës | Pajtueshmëria e SinoTrade",
     "description": "Kontrolloni nëse produkti juaj ka nevojë për regjistrim GACC, certifikim CCC ose paraqitje NMPA për eksport në Kinë.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "Çmimi i thjeshtë",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "Kërko",
-    "placeholder": "Shërbimet e kërkimit, artikujt, pyetjet e shpeshta...",
-    "noResults": "Nuk u gjet asnjë rezultat. Provoni fjalë kyçe të ndryshme.",
-    "searching": "Po kërkon...",
-    "hint": "Shkruani për të kërkuar nëpër shërbime, artikuj dhe FAQ",
-    "types": {
-      "service": "Shërbime",
-      "blog": "Blog",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

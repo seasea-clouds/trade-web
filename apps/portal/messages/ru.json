@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "Контакт",
-    "services": "Услуги",
-    "gaccRegistration": "Регистрация в GACC",
-    "labelCompliance": "Соответствие китайской маркировке",
-    "cccCertification": "Сертификация CCC",
-    "cosmeticsFiling": "Регистрация косметики (NMPA)",
-    "crossBorderEcommerce": "Трансграничная электронная коммерция",
-    "brandProtection": "Защита бренда",
-    "packages": "Пакеты",
-    "faq": "Часто задаваемые вопросы",
-    "about": "О нас",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "Быстрые ссылки",
-    "address": "Район Цзинъань, Шанхай, Китай",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Отзывы",
-    "industries": "Отрасли",
-    "blog": "Информация"
-  },
   "Home": {
     "title": "Самопроверка соответствия требованиям Китая | Соответствие требованиям SinoTrade",
     "description": "Проверьте, требуется ли вашему продукту регистрация GACC, сертификация CCC или регистрация NMPA для экспорта в Китай.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "Простое ценообразование",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "Поиск",
-    "placeholder": "Поисковые сервисы, статьи, часто задаваемые вопросы...",
-    "noResults": "Результаты не найдены. Попробуйте разные ключевые слова.",
-    "searching": "Идет поиск...",
-    "hint": "Введите текст для поиска по услугам, статьям и часто задаваемым вопросам.",
-    "types": {
-      "service": "Услуги",
-      "blog": "Блог",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "Кантакт",
-    "services": "Паслугі",
-    "gaccRegistration": "GACC Рэгістрацыя",
-    "labelCompliance": "Адпаведнасць кітайскай этыкеткі",
-    "cccCertification": "Сертыфікацыя CCC",
-    "cosmeticsFiling": "Касметычныя дакументы (NMPA)",
-    "crossBorderEcommerce": "Трансгранічны электронны гандаль",
-    "brandProtection": "Абарона брэнда",
-    "packages": "Пакеты",
-    "faq": "FAQ",
-    "about": "Пра нас",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "Хуткія спасылкі",
-    "address": "Раён Цзінань, Шанхай, Кітай",
-    "disclaimer": "Адмова ад адказнасці: мы з'яўляемся незалежнай кансультацыйнай фірмай па пытаннях рэгулявання і не звязаны з Галоўнай мытнай адміністрацыяй Кітая.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Водгукі",
-    "industries": "галін прамысловасці",
-    "blog": "Інсайты"
-  },
   "Home": {
     "title": "Самаправерка адпаведнасці ў Кітаі | Адпаведнасць SinoTrade",
     "description": "Праверце, ці патрэбна вашаму прадукту рэгістрацыя GACC, сертыфікацыя CCC або падача дакументаў NMPA для экспарту ў Кітай.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "Простае цэнаўтварэнне",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "Пошук",
-    "placeholder": "Пошук паслуг, артыкулаў, FAQ...",
-    "noResults": "Нічога не знойдзена. Паспрабуйце розныя ключавыя словы.",
-    "searching": "Пошук...",
-    "hint": "Увядзіце для пошуку ў сэрвісах, артыкулах і часта задаваных пытаннях",
-    "types": {
-      "service": "Паслугі",
-      "blog": "Блог",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

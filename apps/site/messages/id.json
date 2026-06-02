@@ -720,27 +720,6 @@
     "metaTitle": "Tentang Kepatuhan SinoTrade | Keahlian Impor Tiongkok 15+ Tahun",
     "metaDescription": "Pelajari tentang Kepatuhan SinoTrade — mitra tepercaya Anda untuk kepatuhan impor Tiongkok. Pengalaman 15+ tahun, melayani lebih dari 50 negara. Temui tim ahli kami."
   },
-  "Footer": {
-    "contact": "Kontak",
-    "services": "Layanan",
-    "gaccRegistration": "Pendaftaran GACC",
-    "labelCompliance": "Kepatuhan Label Tiongkok",
-    "cccCertification": "Sertifikasi CCC",
-    "cosmeticsFiling": "Pengarsipan Kosmetik (NMPA)",
-    "crossBorderEcommerce": "E-niaga lintas batas",
-    "brandProtection": "Perlindungan Merek",
-    "packages": "Paket",
-    "faq": "FAQ",
-    "about": "Tentang Kami",
-    "rights": "© 2012-2026 Kepatuhan SinoTrade. Semua hak dilindungi undang-undang.",
-    "quickLinks": "Tautan Cepat",
-    "address": "Distrik Jing'an, Shanghai, Cina",
-    "disclaimer": "Penafian: Kami adalah perusahaan konsultan peraturan independen dan tidak berafiliasi dengan Administrasi Umum Bea Cukai Tiongkok.",
-    "whatsapp": "WhatsApp",
-    "testimonials": "Testimonial",
-    "industries": "Industri",
-    "blog": "Wawasan"
-  },
   "ThankYou": {
     "title": "Terima kasih!",
     "subtitle": "Kami telah menerima permintaan Anda. Tim kami akan menghubungi Anda dalam waktu 24 jam.",
@@ -1204,18 +1183,6 @@
     "ctaSubtitle": "Dapatkan penilaian kepatuhan gratis yang disesuaikan dengan produk Anda.",
     "ctaUrgency": "Konsultasi gratis → Respon 24 jam",
     "ctaButton": "Dapatkan Penilaian Gratis"
-  },
-  "Search": {
-    "title": "Mencari",
-    "placeholder": "Layanan pencarian, artikel, FAQ...",
-    "noResults": "Tidak ada hasil yang ditemukan. Coba kata kunci yang berbeda.",
-    "searching": "Mencari...",
-    "hint": "Ketik untuk mencari di seluruh layanan, artikel, dan FAQ",
-    "types": {
-      "service": "Layanan",
-      "blog": "blog",
-      "faq": "FAQ"
-    }
   },
   "IndustryCCC": {
     "coverItems1": "Penilaian direktori sertifikasi CCC",

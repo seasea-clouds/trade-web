@@ -23,27 +23,6 @@
     },
     "industriesDropdown": {}
   },
-  "Footer": {
-    "contact": "தொடர்பு கொள்ளவும்",
-    "services": "சேவைகள்",
-    "gaccRegistration": "GACC பதிவு",
-    "labelCompliance": "சீன லேபிள் இணக்கம்",
-    "cccCertification": "CCC சான்றிதழ்",
-    "cosmeticsFiling": "அழகுசாதனப் பொருட்கள் தாக்கல் (NMPA)",
-    "crossBorderEcommerce": "எல்லை தாண்டிய மின் வணிகம்",
-    "brandProtection": "பிராண்ட் பாதுகாப்பு",
-    "packages": "தொகுப்புகள்",
-    "faq": "அடிக்கடி கேட்கப்படும் கேள்விகள்",
-    "about": "எங்களைப் பற்றி",
-    "rights": "© 2012-2026 SinoTrade Compliance. All rights reserved.",
-    "quickLinks": "விரைவு இணைப்புகள்",
-    "address": "ஜிங்கான் மாவட்டம், ஷாங்காய், சீனா",
-    "disclaimer": "Disclaimer: We are an independent regulatory consulting firm and are not affiliated with the General Administration of Customs of China.",
-    "whatsapp": "வாட்ஸ்அப்",
-    "testimonials": "சான்றுகள்",
-    "industries": "தொழில்கள்",
-    "blog": "நுண்ணறிவு"
-  },
   "Home": {
     "title": "சீனா இணக்கம் சுய சரிபார்ப்பு | SinoTrade இணக்கம்",
     "description": "சீனாவிற்கு ஏற்றுமதி செய்வதற்கு உங்கள் தயாரிப்புக்கு GACC பதிவு, CCC சான்றிதழ் அல்லது NMPA தாக்கல் தேவையா எனச் சரிபார்க்கவும்.",
@@ -114,7 +93,12 @@
     "manageSubscription": "Manage your subscription",
     "reportId": "ID",
     "name": "Name",
-    "email": "Email"
+    "email": "Email",
+    "noReportsYet": "No reports yet",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "viewReportsDesc": "View your compliance reports",
+    "manageSubscriptionDesc": "Manage your subscription"
   },
   "Pricing": {
     "title": "எளிய விலை",
@@ -241,19 +225,15 @@
     "other": "Other",
     "ce": "CE",
     "ul": "UL",
-    "fcc": "FCC"
-  },
-  "Search": {
-    "title": "தேடு",
-    "placeholder": "தேடல் சேவைகள், கட்டுரைகள், அடிக்கடி கேட்கப்படும் கேள்விகள்...",
-    "noResults": "முடிவுகள் எதுவும் கிடைக்கவில்லை. வெவ்வேறு முக்கிய வார்த்தைகளை முயற்சிக்கவும்.",
-    "searching": "தேடுகிறது...",
-    "hint": "சேவைகள், கட்டுரைகள் மற்றும் அடிக்கடி கேட்கப்படும் கேள்விகள் முழுவதும் தேட தட்டச்சு செய்யவும்",
-    "types": {
-      "service": "சேவைகள்",
-      "blog": "வலைப்பதிவு",
-      "faq": "FAQ"
-    }
+    "fcc": "FCC",
+    "filingInProgress": "Filing in progress",
+    "chineseLabelReady": "Chinese Label Ready?",
+    "selectPackaging": "Select packaging type",
+    "packagingGlass": "Glass Bottle",
+    "packagingPlastic": "Plastic / PET",
+    "packagingCan": "Can / Tin",
+    "packagingPouch": "Pouch / Bag",
+    "packagingBox": "Box / Carton"
   },
   "Report": {
     "loadingTitle": "Loading Your Report",

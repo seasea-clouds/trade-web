@@ -227,11 +227,11 @@
         var textWrap = el('div', { style: 'min-width:0;flex:1;' });
         textWrap.appendChild(el('div', {
           style: 'font-size:14px;font-weight:500;color:#1a1a2e;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;'
-        }, item.title));
+        }, [item.title]));
         if (item.desc) {
           textWrap.appendChild(el('div', {
             style: 'font-size:12px;color:#999;margin-top:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;'
-          }, item.desc));
+          }, [item.desc]));
         }
 
         link.appendChild(iconWrap);
